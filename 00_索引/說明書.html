@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>說明書</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>壺鈴健身教材 說明書</h1>
+    <div class="meta">套裝套件說明與使用指南</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="#overview">[套件概述]</a>
+  <a href="#structure">[目錄結構]</a>
+  <a href="#format">[格式規範]</a>
+  <a href="#usage">[如何使用]</a>
+  <a href="#providers">[參考來源]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-next" href="01_基礎概念/01_壺鈴概述.html">下一節：01 壺鈴概述 →</a>
+</div>
+
+<h2 id="overview">1. 套件概述</h2>
+<p><span class="section-label">概念</span><strong>套件概述</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>這是一套「壺鈴健身」教材，針對「完全零基礎」的讀者，目標是建立一般健身與體能。
+套件包括 28 個章節，涵蓋基礎概念、動作學習、組合動作、訓練設計、安全與測試。
+每個章節均提供文字檔（.txt）與 HTML 檔。</p>
+<p><span class="lang-label">English</span></p>
+<p>This is a set of "kettlebell fitness" teaching materials, designed for "completely beginner" readers, with the goal of building general fitness and conditioning.
+The set includes 28 chapters covering basic concepts, movement learning, combined movements, training design, safety, and testing.
+Each chapter provides a text file (.txt) and an HTML file.</p>
+
+<p><span class="section-label">概念</span><strong>風格方向</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>本套件以俄式（Girevoy / 流暢風格）為主，硬式（Hardstyle / 爆發力風格）為輔：
+- 俄式：強調連續、穩定、耐力、呼吸連續。
+- 硬式：強調髖伸展爆發、核心剛性、發力節奏。
+- 兩者在同一動作中皆有描述，讀者可依自身目標選擇重點。</p>
+<p><span class="lang-label">English</span></p>
+<p>This set is primarily Russian (Girevoy / Fluid Style), with Hardstyle (Explosive Power Style) as secondary:
+- Russian: emphasizes continuity, stability, endurance, continuous breathing.
+- Hardstyle: emphasizes explosive hip extension, core rigidity, power rhythm.
+- Both are described in the same movement; readers may emphasize according to their goals.</p>
+
+<h2 id="structure">2. 目錄結構</h2>
+<p><span class="section-label">概念</span><strong>目錄結構</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>00 索引/
+  說明書.txt / .html　← 本檔
+  目錄.txt　　　　　 ← 完整目錄列表
+  知識點清單.txt　　 ← 全部知識點清單（含重點與難度）
+  依賴關係.txt　　　 ← 知識點相依性與跳學順序
+
+01 基礎概念/
+  01 壺鈴概述
+  02 壺鈴類型與規格
+  03 訓練原理與目標設定
+  04 解剖與運動學基礎
+
+02 動作基礎/
+  05 髖關節槍開（Hip Hinge）
+  06 核心穩定與呼吸發力
+  07 姿勢評估與自檢
+  08 握持與關節保護
+
+03 基礎動作/
+  09 壺鈴硬舉（Deadlift）
+  10 壺鈴擺盪（Swing）
+  11 壺鈴抓舉／上搏（Clean）
+  12 壺鈴深蹲（Goblet Squat）
+  13 壺鈴肩推（Press）
+  14 壺鈴抓舉（Snatch）
+
+04 組合動作/
+  15 清潔與推舉（Clean and Press）
+  16 清潔與摔舉（Clean and Jerk）
+  17 農夫走路（Farmer's Walk）
+
+05 訓練設計/
+  18 負荷漸進原則
+  19 週訓練安排與頻率
+  20 熱身與放鬆
+  21 減脂與體能組合計畫
+  22 週三入門計畫
+
+06 安全與傷害/
+  23 常見錯誤與修正
+  24 傷害預防與停機指標
+
+07 實戰計畫/
+  25 基礎學習計畫（四週）
+  26 每週四次體能方案
+
+08 測試與評估/
+  27 動作評估表
+  28 體能測試指標</p>
+<p><span class="lang-label">English</span></p>
+<p>00 Index/
+  說明書.txt / .html　← This file
+  目錄.txt　　　　　 ← Complete table of contents
+  知識點清單.txt　　 ← All knowledge points list (with focus & difficulty)
+  依賴關係.txt　　　 ← Knowledge point dependencies & learning order
+
+01 Basic Concepts/
+  01 Kettlebell Overview
+  02 Kettlebell Types & Specifications
+  03 Training Principles & Goal Setting
+  04 Anatomy & Kinesiology Basics
+
+02 Movement Foundations/
+  05 Hip Hinge
+  06 Core Stability & Breathing
+  07 Posture Assessment & Self-Check
+  08 Grip & Joint Protection
+
+03 Fundamental Movements/
+  09 Kettlebell Deadlift
+  10 Kettlebell Swing
+  11 Kettlebell Clean
+  12 Goblet Squat
+  13 Kettlebell Press
+  14 Kettlebell Snatch
+
+04 Combined Movements/
+  15 Clean and Press
+  16 Clean and Jerk
+  17 Farmer's Walk
+
+05 Training Design/
+  18 Progressive Overload
+  19 Weekly Schedule & Frequency
+  20 Warm-up & Cool-down
+  21 Fat Loss & Conditioning Program
+  22 Three-Week Beginner Plan
+
+06 Safety & Injury/
+  23 Common Mistakes & Corrections
+  24 Injury Prevention & Stop Signals
+
+07 Practical Programs/
+  25 Four-Week Foundation Program
+  26 Four-Day Conditioning Program
+
+08 Testing & Evaluation/
+  27 Movement Assessment Table
+  28 Fitness Test Indicators</p>
+
+<h2 id="format">3. 格式規範</h2>
+<p><span class="section-label">概念</span><strong>格式規範</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>文字檔（.txt）：
+- UTF-8 編碼。
+- 純文字，方便查閱、複製與版本管理。
+
+HTML 檔（.html）：
+- 支援雙語：中文在前，英文在後。
+- 支援數學公式（KaTeX / LaTeX）：<span class="formula">\(E=mc^2\)</span>。
+- 章節跳轉連結：<a href="#toc">本頁目錄</a>。
+- 章節導航：上一節／下一節。
+- 圖示與影片連結。
+- 主題標籤：理論（Theory）、實踐（Practice）、驗證（Verification）。</p>
+<p><span class="lang-label">English</span></p>
+<p>Text files (.txt):
+- UTF-8 encoding.
+- Plain text, convenient for viewing, copying, and version control.
+
+HTML files (.html):
+- Bilingual support: Chinese first, English second.
+- Math formulas support (KaTeX/LaTeX): <span class="formula">\(E=mc^2\)</span>.
+- Chapter navigation: previous/next section.
+- Jump links: <a href="#toc">Table of contents</a>.
+- Diagrams and video links.
+- Topic labels: Theory, Practice, Verification.</p>
+
+<p><span class="section-label">概念</span><strong>每章固定結構</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>每個章節均包含以下結構：
+1. 概念與說明（Concept & Description）
+2. 理論（Theory）
+3. 實踐（Practice）
+4. 驗證（Verification）— 任務、共自我檢查、能力測試
+5. 動作參考（Action References）— 圖示、影片、補充資源
+6. 練習建議（Training Suggestions）
+7. 常見問題（FAQ）— 如有</p>
+<p><span class="lang-label">English</span></p>
+<p>Each chapter contains the following structure:
+1. Concept & Description
+2. Theory
+3. Practice
+4. Verification — Tasks, Self-check, Competency test
+5. Action References — Diagrams, Video, Supplementary Resources
+6. Training Suggestions
+7. FAQ — if applicable</p>
+
+<h2 id="usage">4. 如何使用</h2>
+<p><span class="section-label">概念</span><strong>如何使用</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>1. 從「00 索引」開始，閱讀「說明書」與「目錄」。
+2. 依照「依賴關係」的順序進行，先學習基礎概念再學動作。
+3. 每一個章節，先閱讀「理論」，再練習「實踐」，最後完成「驗證」。
+4. 在 HTML 檔中使用目錄與章節跳轉快速瀏覽。
+5. 每次訓練前先熱身，後放鬆。
+6. 若有疼痛或不適，立即停機並尋求協助。</p>
+<p><span class="lang-label">English</span></p>
+<p>1. Start from "00 Index", read "說明書" and "目錄".
+2. Follow the "依賴關係" order; learn basic concepts before movements.
+3. For each chapter, read "Theory" first, then practice "Practice", then complete "Verification".
+4. Use the HTML files' table of contents and chapter jump links for quick browsing.
+5. Warm up before each session and cool down after.
+6. Stop immediately if pain or discomfort occurs, and seek assistance.</p>
+
+<h2 id="providers">5. 參考來源</h2>
+<p><span class="section-label">概念</span><strong>參考來源</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>本套件參考了以下權威資料：
+- Human Kinetics《Kettlebell Training 2nd Edition》—— 史蒂夫·寇特
+- ACE（美國運動會）《Kettlebells》訓練指南
+- StrongFirst / RKC 認證
+- Wikipedia：Kettlebell Lifting
+- 學術文獻：Bret Contreras 等人之文獻回顧
+- 台灣相關機構：台灣運動保健協會
+
+以上資料用於理論與實踐的準確性，並非本套件的官方出版物。</p>
+<p><span class="lang-label">English</span></p>
+<p>This set references the following authoritative sources:
+- Human Kinetics《Kettlebell Training 2nd Edition》— Steve Cotter
+- ACE (American Council on Exercise)《Kettlebells》training guide
+- StrongFirst / RKC certification
+- Wikipedia: Kettlebell Lifting
+- Academic literature: Bret Contreras et al. literature review
+- Taiwan-related organizations: Taiwan Sport Health Association
+
+The above sources are used for the accuracy of theory and practice, and are not official publications of this set.</p>
+
+<div class="footer">
+  壺鈴健身教材 說明書｜繁體中文｜中英對照｜完
+</div>
+
+</div>
+</body>
+</html>

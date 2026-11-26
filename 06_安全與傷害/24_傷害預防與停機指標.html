@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>24 傷害預防與停機指標</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>24 傷害預防與停機指標（Injury Prevention & Stop Signals）</h1>
+    <div class="meta">章節 24｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../06_安全與傷害/23_常見錯誤與修正.html">← 上一節：23 常見錯誤與修正</a>
+  <a class="jump-next" href="../07_實戰計畫/25_基礎學習計畫.html">下一節：25 基礎學習計畫 →</a>
+</div>
+
+<h2 id="1">1. 為什麼需要傷害預防</h2>
+<p><span class="section-label">概念</span><strong>為什麼需要傷害預防</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>壺鈴訓練對身體是有益的，但如果訓練不當，可能造成傷害。
+傷害預防的核心是：了解常見傷害風險；識別身體的警告信號；及時停機並處理。</p>
+<p><span class="lang-label">English</span></p>
+<p>Kettlebell training is beneficial, but improper training can cause injury.
+Injury prevention is about: understanding common injury risks; recognizing the body's warning signals; stopping and addressing promptly.</p>
+
+<p><span class="section-label">概念</span><strong>常見傷害風險</strong></p>
+<table>
+<thead><tr><th>傷害部位</th><th>常見原因</th><th>風險程度</th></tr></thead>
+<tbody>
+<tr><td>腰部</td><td>弓背、重量過大</td><td>★★☆</td></tr>
+<tr><td>膝蓋</td><td>膝蓋內扣、過度負荷</td><td>★★☆</td></tr>
+<tr><td>肩部</td><td>軌道不當、過度伸展</td><td>★★★</td></tr>
+<tr><td>腕部</td><td>握持不穩、過伸</td><td>★★☆</td></tr>
+<tr><td>肌肉拉傷</td><td>過度疲勞、熱身不足</td><td>★★☆</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>傷害風險的預防</strong></p>
+<ol>
+<li>熱身充足：訓練前 5–10 分鐘熱身。</li>
+<li>重量適中：重量應能保持姿勢。</li>
+<li>姿勢正確：優先安全，再追求重量。</li>
+<li>恢復充分：每週至少 1–2 天休息。</li>
+<li>逐步增加：漸進超負荷，不要突然加重。</li>
+</ol>
+
+<p><span class="section-label">概念</span><strong>停機指標</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>以下情況應暫停訓練並尋求協助：
+1. 疼痛：明確的疼痛（> 3/10），而非疲勞。
+2. 腫脹：局部腫脹、發熱。
+3. 麻木：麻木、刺痛。
+4. 頭暈：訓練中頭暈、暈眩。
+5. 呼吸困難：異常呼吸困難。
+6. 持續疲勞：訓練後持續 24 小時以上疲勞。</p>
+<p><span class="lang-label">English</span></p>
+<p>Stop training and seek help in the following situations:
+1. Pain: clear pain (> 3/10), not fatigue.
+2. Swelling: local swelling, heat.
+3. Numbness: numbness, tingling.
+4. Dizziness: dizziness during training.
+5. Breathing difficulty: abnormal breathing difficulty.
+6. Persistent fatigue: fatigue persisting over 24 hours.</p>
+
+<p><span class="section-label">概念</span><strong>停機後的處理</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>1. 立即停止訓練。
+2. 評估症狀（疼痛、腫脹、麻木等）。
+3. 休息 24–48 小時。
+4. 冷敷（若有腫脹）20 分鐘。
+5. 若症狀不退，尋求醫師或物理治療師幫助。</p>
+<p><span class="lang-label">English</span></p>
+<p>1. Stop training immediately.
+2. Assess symptoms (pain, swelling, numbness, etc.).
+3. Rest 24–48 hours.
+4. Ice (if swelling, 20 min).
+5. If not improved, seek medical/physiotherapy help.</p>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 傷害風險的機制</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>脊柱：過載、姿勢不良、重複負荷。
+膝關節：扭轉、過度伸展、內側壓力。
+肩部：肩袖損傷、過伸、軌道不當。
+腕部：過伸、壓迫。</p>
+<p><span class="lang-label">English</span></p>
+<p>Spine: overload, poor posture, repetitive load.
+Knee: twisting, hyperextension, medial pressure.
+Shoulder: rotator cuff injury, hyperextension, poor orbit.
+Wrist: hyperextension, compression.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 身體警告信號</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>疼痛：身體警告！疼痛不是疲勞。
+疲勞：過度訓練的警告。
+關節不明原因腫脹：炎症。
+麻木：神經受壓。</p>
+<p><span class="lang-label">English</span></p>
+<p>Pain: body's warning! Pain is not fatigue.
+Fatigue: warning of overtraining.
+Unexplained joint swelling: inflammation.
+Numbness: nerve compression.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(P\)　疼痛分級（1–10 分，1=無痛，10=極度疼痛）</p>
+<p class="formula-block">\(P > 3\)　訓練中止線（應停機）</p>
+<p class="formula-block">\(t_{rec}\)　恢復時間（根據傷害類型而定）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 訓練日自我檢查</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>每次訓練後，問自己：
+1. 是否有疼痛？（1–10 分）
+2. 是否有明顯疲勞？
+3. 是否有腫脹或麻木？
+4. 下次訓練是否能保持同樣強度？</p>
+<p><span class="lang-label">English</span></p>
+<p>After each session, ask yourself:
+1. Any pain? (1–10)
+2. Any significant fatigue?
+3. Any swelling or numbness?
+4. Can next session maintain same intensity?</p>
+
+<p><span class="section-label">實踐</span><strong>3.2 安全訓練規則</strong></p>
+<ol>
+<li>熱身必須。</li>
+<li>重量適中。</li>
+<li>姿勢優先。</li>
+<li>不要強行突破疼痛。</li>
+<li>休息是進步的一部分。</li>
+</ol>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>寫下自己的三個傷害風險與預防方法。</li>
+<li>描述四個停機指標。</li>
+<li>完成一次安全訓練（包含熱身、動作、放鬆）。</li>
+<li>說出停機後的處理步驟。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能寫出自己的傷害風險。</li>
+<li>能描述停機指標。</li>
+<li>能完成安全訓練。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能在訓練中識別停機指標。</li>
+<li>能描述停機後的處理。</li>
+<li>能說出傷害預防的五大原則。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>傷害風險示意：腰部、膝蓋、肩部、腕部。</li>
+<li>停機指標流程：疼痛 → 評估 → 停機 → 休息 → 就醫。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+injury+prevention" target="_blank">[英文] kettlebell injury prevention</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E7%84%A1%E5%AE%B3%E9%A0%90%E9%98%B2" target="_blank">[中文] 壺鈴傷害預防</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>國際運動醫學會（ACSM）《運動處方指南》。</li>
+<li>物理治療師或運動醫學醫師。</li>
+</ul>
+
+<div class="footer">
+  24 傷害預防與停機指標｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,214 @@
+# 27 動作評估表
+
+## 動作評估表（Movement Assessment Table）
+
+### 1. 動作評估的目的
+
+**中文**：動作評估是用來評估學習者是否能正確執行壺鈴動作的工具。
+它可以：
+- 發現姿勢問題。
+- 建立動作基準。
+- 追蹤學習進度。
+- 為後續訓練提供依據。
+
+**English**：The movement assessment is a tool for evaluating whether learners can execute kettlebell movements correctly.
+It can:
+- Discover posture issues.
+- Establish movement benchmarks.
+- Track learning progress.
+- Provide a basis for subsequent training.
+
+### 2. 動作評估表
+
+**中文**：以下是常用的動作評估表，適用於零基礎學習者：
+
+| 動作 | 評估項目 | 標準 | 評分（1–5） |
+|------|----------|------|-------------|
+| 髖關節槍開 | 背部平直 | 脊柱中立 | ___ |
+| 髖關節槍開 | 髖部推出 | 臀後推明顯 | ___ |
+| 擺盪 | 背部平直 | 不弓背 | ___ |
+| 擺盪 | 髖部推出 | 臀部收縮 | ___ |
+| 硬起 | 背部平直 | 不弓背 | ___ |
+| 硬起 | 膝蓋不過度前進 | 膝蓋穩定 | ___ |
+| 上搏 | 肘部收納 | 壺鈴包圍 | ___ |
+| 上搏 | 肩膀穩定 | 肩下沉 | ___ |
+| 深蹲 | 膝蓋向外 | 不內扣 | ___ |
+| 深蹲 | 脊柱中立 | 不彎曲 | ___ |
+| 肩推 | 肩膀穩定 | 不耸肩 | ___ |
+| 肩推 | 核心繃緊 | 脊柱中立 | ___ |
+| 抓舉 | 軌道垂直 | 橫向最小 | ___ |
+| 抓舉 | 核心穩定 | 過頭安定 | ___ |
+| 農夫走路 | 核心繃緊 | 脊柱中立 | ___ |
+| 農夫走路 | 肩膀穩定 | 不耸肩 | ___ |
+
+**English**：| Movement | Assessment | Standard | Score (1–5) |
+|----------|------------|----------|-------------|
+| Hip hinge | Back straight | Spine neutral | ___ |
+| Hip hinge | Hips push out | Glutes contract | ___ |
+| Swing | Back straight | No rounding | ___ |
+| Swing | Hips push out | Glutes contract | ___ |
+| Deadlift | Back straight | No rounding | ___ |
+| Deadlift | Knees not forward | Knees stable | ___ |
+| Clean | Elbow tuck | Bell wraps | ___ |
+| Clean | Shoulder stable | Shoulder down | ___ |
+| Goblet squat | Knees outward | No caving | ___ |
+| Goblet squat | Spine neutral | No bending | ___ |
+| Press | Shoulder stable | No shrugging | ___ |
+| Press | Core braced | Spine neutral | ___ |
+| Snatch | Vertical orbit | Minimal lateral | ___ |
+| Snatch | Core stable | Overhead stable | ___ |
+| Farmer's walk | Core braced | Spine neutral | ___ |
+| Farmer's walk | Shoulder stable | No shrugging | ___ |
+
+### 3. 評分標準
+
+**中文**：
+- 5 分：完全正確，無崩潰。
+- 4 分：基本正確，偶有細微問題。
+- 3 分：部分正確，較明顯問題。
+- 2 分：多處有問題，需修正。
+- 1 分：姿勢錯誤明顯，安全風險。
+
+**English**：| Score | Description |
+|-------|-------------|
+| 5 | Completely correct, no breakdown |
+| 4 | Mostly correct, minor issues occasionally |
+| 3 | Partly correct, noticeable problems |
+| 2 | Many issues, needs correction |
+| 1 | Posture errors obvious, safety risk |
+
+### 4. 評估的流程
+
+**中文**：
+1. 準備：熱身 5 分鐘。
+2. 練習：完成 3 組 10 次。
+3. 評估：對照評估表打分。
+4. 記錄：記錄分數與反饋。
+5. 修正：針對問題修正。
+
+**English**：
+1. Prepare: warm-up 5 min.
+2. Practice: complete 3 sets × 10.
+3. Assess: compare with assessment table.
+4. Record: note scores and feedback.
+5. Correct: correct identified issues.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 動作評估的意義
+
+**中文**：
+- 建立基準（benchmark）：知道自己的起點。
+- 追蹤進度：看到改善。
+- 發現問題：修正前先發現。
+- 預防傷害：確保安全。
+
+**English**：
+- Establish a baseline: know your starting point.
+- Track progress: see improvement.
+- Discover issues: correct before worsening.
+- Prevent injury: ensure safety.
+
+### 2.2 評估的差異
+
+**中文**：
+- 結構性評估：觀察姿勢與結構。
+- 功能性評估：觀察動作與功能。
+- 負荷性評估：在負荷下觀察。
+
+**English**：
+- Structural assessment: observe posture and structure.
+- Functional assessment: observe movement and function.
+- Loaded assessment: observe under load.
+
+### 2.3 公式
+
+- 總評分：\(S_{total} = \sum S_i\)。
+- 改進率：\(\%Change = \frac{S_{new} - S_{old}}{S_{old}} \times 100\)。
+- 訓練強度：\(I\)，RPE。
+
+**English**：
+- Total score: \(S_{total} = \sum S_i\).
+- Improvement rate: \(\%Change = \frac{S_{new} - S_{old}}{S_{old}} \times 100\).
+- Training intensity: \(I\), RPE.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 動作評估流程
+
+**中文**：
+1. 熱身 5 分鐘。
+2. 練習 3 組 10 次。
+3. 評估表打分。
+4. 記錄。
+5. 修正。
+
+**English**：
+1. Warm-up 5 min.
+2. Practice 3 sets × 10.
+3. Score on assessment table.
+4. Record.
+5. Correct.
+
+### 3.2 評估表的使用
+
+**中文**：
+1. 選擇一個主要動作。
+2. 完成 3 組。
+3. 根據標準打分。
+4. 記錄。
+5. 每 2 週重複。
+
+**English**：
+1. Choose one main movement.
+2. Complete 3 sets.
+3. Score based on standards.
+4. Record.
+5. Repeat every 2 weeks.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 完成一次動作評估。
+2. 寫下自己的評分與反饋。
+3. 描述下一步的修正。
+4. 每 2 週重複一次。
+
+### 4.2 自我檢查（Self-check）
+
+- 能完成動作評估。
+- 能寫下自己的評分。
+- 能描述下一步修正。
+
+### 4.3 能力測試（Competency test）
+
+- 能完成完整的動作評估表。
+- 能描述下一步的修正。
+- 能追蹤自己的進步。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 動作評估流程圖：熱身 → 練習 → 評分 → 記錄 → 修正。
+- 評估表範例：各動作的評估項目與標準。
+
+### 5.2 影片參考
+
+- 英文："Movement Assessment" — 查找「movement assessment」。
+- 中文：各大運動頻道「壺鈴動作評估」。
+- 推薦關鍵字：`movement assessment`, `kettlebell form assessment`, `checklist`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Movement Assessment》。

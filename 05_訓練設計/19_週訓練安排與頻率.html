@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>19 週訓練安排與頻率</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>19 週訓練安排與頻率</h1>
+    <div class="meta">章節 19｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../05_訓練設計/18_負荷漸進原則.html">← 上一節：18 負荷漸進原則</a>
+  <a class="jump-next" href="../05_訓練設計/20_熱身與放鬆.html">下一節：20 熱身與放鬆 →</a>
+</div>
+
+<h2 id="1">1. 為什麼需要週訓練安排</h2>
+<p><span class="section-label">概念</span><strong>為什麼需要週訓練安排</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>週訓練安排是把訓練安排到一周內，兼顧頻率、強度、時間與種類。
+良好的週安排能：確保訓練持續進行；給肌肉與神經系統足夠的回復時間；避免過度訓練與傷害。</p>
+<p><span class="lang-label">English</span></p>
+<p>The weekly schedule places training within a week, balancing frequency, intensity, time, and type.
+A good weekly schedule ensures: consistent training; adequate recovery for muscles and nervous system; avoid overtraining and injury.</p>
+
+<p><span class="section-label">概念</span><strong>週頻率的選擇</strong></p>
+<ul>
+<li><strong>零基礎者</strong>：建議週 2–3 次，給身體充分回復。</li>
+<li><strong>進階者</strong>：週 3–5 次，可分上半身與下半身。</li>
+<li><strong>不間斷訓練</strong>：避免連續 3 天以上不訓練，避免脫節。</li>
+<li><strong>回復日</strong>：每週至少 1–2 天完全休息。</li>
+</ul>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 急性素質與慢性素質</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>急性素質（Acute variables）：每次訓練的變數，如重量、次數、組數、時間。
+慢性素質（Chronic variables）：長期安排，如週頻率、週期化。
+漸進超負荷是慢性素質的重要目標。</p>
+<p><span class="lang-label">English</span></p>
+<p>Acute variables: variables per session, e.g., weight, reps, sets, time.
+Chronic variables: long-term arrangement, e.g., weekly frequency, periodization.
+Progressive overload is a key goal of chronic variables.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 恢復與過度訓練</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>恢復是身體改善的時間。
+過度訓練是刺激過多、恢復不足的結果。
+症狀：疲勞、睡眠差、表現下降、情緒不穩。</p>
+<p><span class="lang-label">English</span></p>
+<p>Recovery is when the body improves.
+Overtraining results from too much stimulus, too little recovery.
+Symptoms: fatigue, poor sleep, decreased performance, mood instability.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(V = W \times R \times S \times D\)　總量（質量 × 次數 × 組數 × 天數）</p>
+<p class="formula-block">\(t_{rest}\)　訓練間的回復時間</p>
+<p class="formula-block">\(T_{week} = \sum t_i\)　每週總訓練時間</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 設計週訓練表（零基礎推薦）</strong></p>
+<table>
+<thead><tr><th>天</th><th>內容</th></tr></thead>
+<tbody>
+<tr><td>週一</td><td>熱身 5 分鐘 → 擺放 3 組 × 10 次 → 放鬆 5 分鐘</td></tr>
+<tr><td>週三</td><td>熱身 5 分鐘 → 硬舉 3 組 × 10 次 + 深蹲 3 組 × 10 次 → 放鬆 5 分鐘</td></tr>
+<tr><td>週五</td><td>熱身 5 分鐘 → 擺盪 3 組 × 10 次 + 肩推 2 組 × 8 次 → 放鬆 5 分鐘</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.2 週訓練的調整</strong></p>
+<ul>
+<li>若疲勞，減少一次或降低重量。</li>
+<li>若疼痛，立即停止，休息。</li>
+<li>若進步，增加重量或次數。</li>
+</ul>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>寫下自己的週訓練表（週 2–3 次）。</li>
+<li>說出每週至少 1–2 天休息的理由。</li>
+<li>描述一天的完整訓練流程。</li>
+<li>說出急性素質與慢性素質的差異。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能寫出自己的週訓練表。</li>
+<li>能描述一天的完整流程。</li>
+<li>能說出恢復與過度訓練。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>完成一張「個人週訓練表」。</li>
+<li>能說出訓練日之間的回復時間。</li>
+<li>能描述過度訓練的症狀。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">影片</span><strong>5.1 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=weekly+workout+plan" target="_blank">[英文] weekly workout plan</a>
+  <a href="https://www.youtube.com/results?search_query=%E9%80%B1%E8%B6%85%E8%AA%B2%E8%80%85" target="_blank">[中文] 週訓練安排</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.2 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>國際運動醫學會（ACSM）《運動處方指南》。</li>
+<li>郵件課程：《Set your goals, choose your plan》。</li>
+</ul>
+
+<div class="footer">
+  19 週訓練安排與頻率｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

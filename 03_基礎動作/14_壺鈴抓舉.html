@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>14 壺鈴抓舉</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>14 壺鈴抓舉（Kettlebell Snatch）</h1>
+    <div class="meta">章節 14｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../03_基礎動作/13_壺鈴肩推.html">← 上一節：13 壺鈴肩推</a>
+  <a class="jump-next" href="../04_組合動作/15_清潔與推舉.html">下一節：15 清潔與推舉 →</a>
+</div>
+
+<h2 id="1">1. 抓舉是什麼</h2>
+<p><span class="section-label">概念</span><strong>抓舉是什麼</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>抓舉（Snatch）是一種「單手壺鈴從近膝到過頭」的連續動作。
+它結合了擺盪的髖伸展與上搏的肩前接收，是壺鈴中最複雜、最有表現力的動作之一。
+抓舉不是「手臂抬起」，而是「髖伸展驅動、臂膀完成軌道」—— 力量主要來自髖部與核心。</p>
+<p><span class="lang-label">English</span></p>
+<p>The snatch is a "single-arm kettlebell movement from below the knee to overhead" performed in one continuous motion.
+It combines hip extension from the swing with the shoulder catch of the clean, and is one of the most complex and expressive kettlebell movements.
+The snatch is not "lifting with the arms"; it is "hip extension powers, arms complete the path" — power comes primarily from the hips and core.</p>
+
+<p><span class="section-label">概念</span><strong>抓舉的標準流程</strong></p>
+<ol>
+<li>站立，單手持壺鈴（可近地或擺盪）。</li>
+<li>髖部後推，擺盪至大腿間。</li>
+<li>髖部爆發，抬起壺鈴。</li>
+<li>壺鈴沿著手臂向上升，與耳側、身體同一線。</li>
+<li>手臂到達頂端，核心穩定，肩部下沉。</li>
+<li>壺鈴過頭後，緩慢下落至大腿間。</li>
+<li>連續完成兩個方向。</li>
+</ol>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 抓舉的系統分析</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>抓舉是一套「上搏」的系統：
+- 擺盪：建立高度與速度，作為髋伸展。
+- 上搏：把壺鈴收到肩前，完成「二次」的坐緊。
+- 抓舉：二次爆發延伸，壺鈴沿著軌道上升。</p>
+<p><span class="lang-label">English</span></p>
+<p>The snatch is a system of "cleans":
+- Swing: establish height and speed as hip extension.
+- Clean: bring the bell to shoulder, complete the "second" bracing.
+- Snatch: second extension extends, bell rises along the path.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 肌群參與</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>主動肌：臀大肌、股二頭肌、竿樣肌、肩三角肌（側部）、肱三頭肌。
+穩定肌：腹橫肌、腹斜肌、竿樣肌、肩袖。
+輔助肌：斜方肌、胸肌、臀中肌。</p>
+<p><span class="lang-label">English</span></p>
+<p>Prime movers: glutes, hamstrings, erector spinae, lateral deltoid, triceps.
+Stabilizers: transversus abdominis, obliques, erector spinae, rotator cuff.
+Assistants: trapezius, chest, gluteus medius.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 關鍵公式</strong></p>
+<p class="formula-block">\(W_{in} = F \times d\)　擺盪輸入功（髋伸展能量）</p>
+<p class="formula-block">\(W_{out} = m \times g \times h\)　輸出功（提升壺鈴的功）</p>
+<p class="formula-block">\(θ \approx 90^\circ\)　軌道垂直，最小橫向偏差</p>
+<p class="formula-block">\(HR\)　心率（抓舉訓練的心肺要求高）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 階段練習</strong></p>
+<table>
+<thead><tr><th>階段</th><th>內容</th><th>目標</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>無重抓舉</td><td>感受軌道</td></tr>
+<tr><td>2</td><td>8–12 kg 抓舉</td><td>掌握髋伸展</td></tr>
+<tr><td>3</td><td>12–16 kg</td><td>漸進</td></tr>
+<tr><td>4</td><td>連續抓舉</td><td>耐力與節奏</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.2 抓舉流程</strong></p>
+<ol>
+<li>站立，單手持壺鈴。</li>
+<li>髖部後推，擺盪。</li>
+<li>髖部爆發。</li>
+<li>壺鈴上升，軌道垂直。</li>
+<li>頂端，核心穩定。</li>
+<li>緩慢下落。</li>
+<li>連續完成。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.3 呼吸與發力</strong></p>
+<ul>
+<li>髖伸展時：呼氣。</li>
+<li>下擺時：吸氣。</li>
+<li>保持連續，不要停頓。</li>
+</ul>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出抓舉與擺盪的兩個差異。</li>
+<li>說出抓舉的主動肌與穩定肌。</li>
+<li>完成 3 組 × 10 次「無重抓舉」。</li>
+<li>描述抓舉中的呼吸。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>站立姿勢正確，單腳穩定。</li>
+<li>脊柱中立，核心穩定。</li>
+<li>髖部推出，手臂不主導。</li>
+<li>軌道垂直，無橫向偏差。</li>
+<li>呼吸連續。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能以 8–16 kg 壺鈴完成「單手抓舉」，3 組 × 10 次。</li>
+<li>姿勢無明顯崩潰。</li>
+<li>能用自己的話說出抓舉的要點。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體抓舉示意：標記髖部、脊柱、肩部、軌道。</li>
+<li>動作路徑：從近膝到過頭。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+snatch" target="_blank">[英文] kettlebell snatch</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E6%8A%9B%E4%B8%8A" target="_blank">[中文] 壺鈴抓舉</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》。</li>
+<li>StrongFirst：《Snatch》基礎課程。</li>
+</ul>
+
+<div class="footer">
+  14 壺鈴抓舉｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

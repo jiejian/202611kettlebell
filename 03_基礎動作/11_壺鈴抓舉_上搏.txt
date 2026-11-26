@@ -1,0 +1,203 @@
+# 11 壺鈴抓舉／上搏（Clean）
+
+## 壺鈴抓舉／上搏（Kettlebell Clean）
+
+### 1. 上搏是什麼
+
+**中文**：上搏（Clean）是一種「把壺鈴從地面或擺盪位置，收到肩前端（rack position）」的動作。
+上搏不是「壺鈴被手臂抬起」，而是「身體的力量傳遞到壺鈴」—— 類似擺盪的延伸，但二次爆發，讓壺鈴上升到肩前。
+上搏是擺盪、抓舉、摔舉等高級動作的基礎。
+
+**English**：The clean is a "move the bell from ground or swing position to the rack position on the shoulder."
+The clean is not "the bell is lifted by the arms"; it is "the body's power is transferred to the bell" — an extension of the swing, with a second explosive movement that lifts the bell to the shoulder.
+The clean is the foundation for advanced movements like snatches, jerks, and power movements.
+
+### 2. 上搏的標準流程
+
+1. 站立，壺鈴置於雙腳之間。
+2. 髖部後推，手持壺鈴。
+3. 髖部爆發，擺盪至胸部。
+4. 壺鈴沿著身體上升，肘部收納。
+5. 壺鈴在肩前（rack position），手肘支撐。
+6. 臀部收縮，核心繃緊。
+7. 緩慢放下，回到起始姿勢。
+
+**English**：
+1. Stand, bell between the feet.
+2. Hips push back, hold the bell.
+3. Hips explode, swing to chest.
+4. Bell rises along the body, elbows tucked.
+5. Bell at shoulder (rack position), elbow supported.
+6. Glutes contracted, core braced.
+7. Slowly lower, return to start.
+
+### 3. 上搏的要點
+
+| 要點 | 說明 |
+|------|------|
+| 肘部收納 | 壺鈴沿著手臂「包圍」，不要碰到前臂 |
+| 肩膀穩定 | 肩膀下沉，背部平直 |
+| 核心繃緊 | 保護脊柱 |
+| 呼吸 | 收集時吸氣，收到後呼氣 |
+| 手腕中立 | 避免過伸 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Elbow tuck | Bell wraps around the arm, don't hit the forearm |
+| Shoulder stable | Shoulder down, back straight |
+| Core braced | Protect the spine |
+| Breathing | Inhale on collect, exhale after catching |
+| Wrist neutral | Avoid hyperextension |
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 壺鈴碰到前臂 | 肘部收納，壺鈴「包圍」 |
+| 肩膀上升 | 肩膀下沉，背部平直 |
+| 手腕過伸 | 手腕中立，核心繃緊 |
+| 彈跳動作不明顯 | 髖部爆發，二次發力 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Bell hits the forearm | Elbow tuck, bell "wrap" |
+| Shoulder shrugging | Shoulder down, back straight |
+| Wrist hyperextension | Wrist neutral, core braced |
+| No explosive movement | Hip explosion, second power |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 上搏的連鎖動作
+
+**中文**：上搏是擺盪的延伸。
+- 擺盪使壺鈴進入「大腿間」的位置。
+- 上搏是「二次爆發」，讓壺鈴從大腿間升到肩前。
+- 這需要髖伸展的力量，連同二次的髋伸展，形成連鎖。
+
+**English**：The clean is an extension of the swing.
+- The swing brings the bell to the position between the thighs.
+- The clean is a "second explosive," lifting the bell from the thighs to the shoulder.
+- This requires hip extension force, plus a second hip extension, forming a chain.
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：臀大肌、股二頭肌、竿樣肌、斜方肌（中段）、三角肌（前束）。
+- 穩定肌：腹橫肌、腹斜肌、竿樣肌。
+- 輔助肌：竿樣肌、肱二頭肌、肱三頭肌。
+
+**English**：
+- Prime movers: glutes, hamstrings, erector spinae, middle trapezius, anterior deltoid.
+- Stabilizers: transversus abdominis, obliques, erector spinae.
+- Assistants: erector spinae, biceps, triceps.
+
+### 2.3 公式
+
+- 壺鈴在肩前的高度：\(h\)，與髋伸展的角度 \(θ_{hip}\) 相關。
+- 力臂：\(d\)，從肩關節到壺鈴的距離。
+- 力矩：\(τ = F \times d\)。
+- 肘部收納：壺鈴沿著「包圍」軌道，減少肩部負荷。
+
+**English**：
+- Bell height at the shoulder: \(h\), related to hip extension angle \(θ_{hip}\).
+- Moment arm: \(d\), distance from shoulder joint to bell.
+- Torque: \(τ = F \times d\).
+- Elbow tuck: bell wraps around the arm, reducing shoulder load.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 無重上搏（從擺放） | 感受肘部收納 |
+| 2 | 8–12 kg 上搏 | 掌握動作 |
+| 3 | 12–16 kg | 漸進 |
+| 4 | 單手上搏 | 精細控制 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | No-weight clean (from swing) | Feel elbow tuck |
+| 2 | 8–12 kg clean | Master the movement |
+| 3 | 12–16 kg | Progression |
+| 4 | Single-arm clean | Fine control |
+
+### 3.2 上搏流程
+
+1. 站立，壺鈴置於雙腳之間。
+2. 髖部後推。
+3. 髖部爆發，擺盪至胸部。
+4. 肘部收納，壺鈴升到肩前。
+5. 頂端，臀部收縮。
+6. 緩慢放下。
+7. 3 組 × 10 次。
+
+**English**：
+1. Stand, bell between the feet.
+2. Hips push back.
+3. Hips explode, swing to chest.
+4. Elbows tuck, bell rises to shoulder.
+5. Top, glutes contracted.
+6. Slowly lower.
+7. 3 sets × 10.
+
+### 3.3 呼吸與發力
+
+- 收集時：吸氣。
+- 收到後：呼氣。
+- 核心繃緊，保持穩定。
+
+**English**：
+- On collect: inhale.
+- After catch: exhale.
+- Core braced, stable.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出上搏與抓舉的兩個差異。
+2. 說出上搏的主動肌與穩定肌。
+3. 完成 3 組 × 10 次「無重上搏」。
+4. 描述手臂收納的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 肘部收納，壺鈴不碰前臂。
+- 肩膀下沉，背部平直。
+- 核心繃緊。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「雙手上搏」，3 組 × 10 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出上搏的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體上搏示意：標記髖點、脊柱、肘部、肩膀。
+- 動作路徑：從地面到肩前。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Clean" — 查找「kettlebell clean」。
+- 中文：各大運動頻道「壺鈴上搏」。
+- 推薦關鍵字：`kettlebell clean`, `clean and press`, `clean form`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Clean》基礎課程。

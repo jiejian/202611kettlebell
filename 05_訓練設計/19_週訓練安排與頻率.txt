@@ -1,0 +1,181 @@
+# 19 週訓練安排與頻率
+
+## 週訓練安排與頻率（Weekly Training Schedule & Frequency）
+
+### 1. 為什麼需要週訓練安排
+
+**中文**：週訓練安排是把訓練安排到一周內，兼顧頻率、強度、時間與種類。
+良好的週安排能：
+- 確保訓練持續進行。
+- 給肌肉與神經系統足夠的回復時間。
+- 避免過度訓練與傷害。
+
+**English**：The weekly schedule places training within a week, balancing frequency, intensity, time, and type.
+A good weekly schedule ensures:
+- Consistent training.
+- Adequate recovery for muscles and nervous system.
+- Avoid overtraining and injury.
+
+### 2. 週頻率的選擇
+
+**中文**：
+- **零基礎者**：建議週 2–3 次，給身體充分回復。
+- **進階者**：週 3–5 次，可分上半身與下半身。
+- **不間斷訓練**：避免連續 3 天以上不訓練，避免脫節。
+- **回復日**：每週至少 1–2 天完全休息。
+
+**English**：
+- **Beginners**: 2–3 times per week, adequate recovery.
+- **Intermediate**: 3–5 times per week, split upper/lower.
+- **Never miss**: avoid 3+ days without training, avoid detraining.
+- **Recovery days**: 1–2 full rest days per week.
+
+### 3. 週訓練安排的模式
+
+| 模式 | 說明 | 適合 |
+|------|------|------|
+| 週 3 次（全身） | 每週 3 次全身訓練 | 零基礎 |
+| 週 4 次（上下分） | 上半身與下半身分開 | 進階 |
+| 週 5 次（推拉腿） | 推、拉、腿、核心、休息 | 進階 |
+| 週 3 次 + 有氧 | 力量 3 次 + 心肺 | 體能 |
+
+**English**：| Pattern | Description | Suitable |
+|---------|-------------|----------|
+| 3×/week (full body) | 3 full-body sessions per week | Beginners |
+| 4×/week (split) | Upper & lower split | Intermediate |
+| 5×/week (push/pull/legs) | Push, pull, legs, core, rest | Advanced |
+| 3× strength + cardio | Strength 3× + cardio | Conditioning |
+
+### 4. 每日訓練內容
+
+**中文**：
+- **熱身 5–10 分鐘**：心跳升高、關節活動、肌肉激活。
+- **力量 20–40 分鐘**：主要動作練習。
+- **體能 10–20 分鐘**：擺盪、爬行、有氧。
+- **放鬆 5–10 分鐘**：靜態拉伸、呼吸。
+
+**English**：
+- **Warm-up 5–10 min**: increase heart rate, joint mobility, muscle activation.
+- **Strength 20–40 min**: main movement practice.
+- **Conditioning 10–20 min**: swing, carries, cardio.
+- **Cool-down 5–10 min**: static stretching, breathing.
+
+### 5. 週訓練安排的實際做法
+
+**中文**：
+1. 確定每週的訓練日。
+2. 在訓練日之間保持 48 小時回復時間（例如：週一、週三、週五）。
+3. 每次訓練包含熱身、力量、體能、放鬆。
+4. 記錄每次訓練，追蹤進步。
+
+**English**：
+1. Decide training days each week.
+2. Maintain 48 hours recovery between training days (e.g., Mon, Wed, Fri).
+3. Each session includes warm-up, strength, conditioning, cool-down.
+4. Record each session, track progress.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 急性素質與慢性素質
+
+**中文**：
+- **急性素質（Acute variables）**：每次訓練的變數，如重量、次數、組數、時間。
+- **慢性素質（Chronic variables）**：長期安排，如週頻率、週期化。
+- 漸進超負荷是慢性素質的重要目標。
+
+**English**：
+- **Acute variables**: variables per session, e.g., weight, reps, sets, time.
+- **Chronic variables**: long-term arrangement, e.g., weekly frequency, periodization.
+- Progressive overload is a key goal of chronic variables.
+
+### 2.2 恢復與過度訓練
+
+**中文**：
+- 恢復是身體改善的時間。
+- 過度訓練是刺激過多、恢復不足的結果。
+- 症狀：疲勞、睡眠差、表現下降、情緒不穩。
+
+**English**：
+- Recovery is when the body improves.
+- Overtraining results from too much stimulus, too little recovery.
+- Symptoms: fatigue, poor sleep, decreased performance, mood instability.
+
+### 2.3 公式
+
+- 總量：\(V = W \times R \times S \times D\)，週幾次（Days）。
+- 休息時間：\(t_{rest}\)，訓練間的回復時間。
+- 每週總訓練時間：\(T_{week} = \sum t_i\)。
+
+**English**：
+- Volume: \(V = W \times R \times S \times D\).
+- Rest time: \(t_{rest}\), recovery between sessions.
+- Weekly total time: \(T_{week} = \sum t_i\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 設計週訓練表（零基礎推薦）
+
+| 天 | 內容 |
+|----|------|
+| 週一 | 熱身 5 分鐘 → 擺放 3 組 × 10 次 → 放鬆 5 分鐘 |
+| 週三 | 熱身 5 分鐘 → 硬舉 3 組 × 10 次 + 深蹲 3 組 × 10 次 → 放鬆 5 分鐘 |
+| 週五 | 熱身 5 分鐘 → 擺盪 3 組 × 10 次 + 肩推 2 組 × 8 次 → 放鬆 5 分鐘 |
+
+**English**：| Day | Content |
+|-----|---------|
+| Mon | Warm-up 5 min → Swing 3 × 10 → Cool-down 5 min |
+| Wed | Warm-up 5 min → Deadlift 3 × 10 + Goblet Squat 3 × 10 → Cool-down 5 min |
+| Fri | Warm-up 5 min → Swing 3 × 10 + Press 2 × 8 → Cool-down 5 min |
+
+### 3.2 週訓練的調整
+
+- 若疲勞，減少一次或降低重量。
+- 若疼痛，立即停止，休息。
+- 若進步，增加重量或次數。
+
+**English**：
+- If fatigued, reduce a session or lower weight.
+- If pain, stop immediately, rest.
+- If progressing, increase weight or reps.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 寫下自己的週訓練表（週 2–3 次）。
+2. 說出每週至少 1–2 天休息的理由。
+3. 描述一天的完整訓練流程。
+4. 說出急性素質與慢性素質的差異。
+
+### 4.2 自我檢查（Self-check）
+
+- 能寫出自己的週訓練表。
+- 能描述一天的完整流程。
+- 能說出恢復與過度訓練。
+
+### 4.3 能力測試（Competency test）
+
+- 完成一張「個人週訓練表」。
+- 能說出訓練日之間的回復時間。
+- 能描述過度訓練的症狀。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 影片參考
+
+- 英文："Weekly Training Schedule" — 查找「weekly workout plan」。
+- 中文：各大運動頻道「週訓練安排」。
+- 推薦關鍵字：`weekly workout plan`, `kettlebell weekly schedule`.
+
+### 5.2 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 郵件課程：《Set your goals, choose your plan》。

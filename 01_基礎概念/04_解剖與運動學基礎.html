@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>04 解剖與運動學基礎</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>04 解剖與運動學基礎</h1>
+    <div class="meta">章節 04｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../01_基礎概念/03_訓練原理與目標設定.html">← 上一節：03 訓練原理與目標設定</a>
+  <a class="jump-next" href="../02_動作基礎/05_髖關節槍開.html">下一節：05 髖關節槍開 →</a>
+</div>
+
+<h2 id="1">1. 影像學基礎</h2>
+<p><span class="section-label">概念</span><strong>影像學基礎</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>了解身體主要結構與動作關係，能幫助你正確執行壺鈴訓練。這裡只介紹與壺鈴訓練最相關的部位。</p>
+<p><span class="lang-label">English</span></p>
+<p>Understanding the main body structures and their relationship to movement helps you perform kettlebell training correctly. Here we introduce only the most relevant areas for kettlebell training.</p>
+
+<p><span class="section-label">概念</span><strong>與壺鈴訓練相關的解剖構造</strong></p>
+<table>
+<thead><tr><th>部位</th><th>主要肌群</th><th>功能</th><th>於壺鈴訓練中的角色</th></tr></thead>
+<tbody>
+<tr><td>髖關節</td><td>臀大肌、股二頭肌、竿樣肌、骶多裂肌</td><td>髖伸展、髖屈曲、骨盆穩定</td><td>擺盪、硬舉、上搏等髖伸展動作的核心</td></tr>
+<tr><td>膝關節</td><td>股四頭肌、伏臀肌</td><td>膝伸展、膝屈曲</td><td>深蹲、蹲起、硬舉等</td></tr>
+<tr><td>脊柱</td><td>竿樣肌、腹直肌、腹橫肌、腹斜肌</td><td>脊柱伸展、屈曲、旋轉、穩定</td><td>保持中立、核心剛性</td></tr>
+<tr><td>肩關節</td><td>三角肌、背闊肌、背上肌、肩袖</td><td>舉、推、旋轉、穩定</td><td>肩推、上搏、抓舉</td></tr>
+<tr><td>腕關節</td><td>橈骨、尺骨、前臂肌群</td><td>腕伸展、屈曲</td><td>握持壺鈴、保持中立</td></tr>
+<tr><td>骨盆</td><td>腹橫肌、骨盆底肌、竿樣肌</td><td>骨盆穩定、核心壓力</td><td>核心穩定、IAP 運用</td></tr>
+<tr><td>息肉</td><td>橫膈、腹內斜肌、腹橫肌、骨盆底</td><td>呼吸、核心壓力</td><td>呼吸發力、IAP</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>關鍵運動學概念</strong></p>
+<ul>
+<li><strong>髖關節槍開（Hip Hinge）</strong>：髖點前後移動，腿主要是支撐，非主動屈膝。表現為臀後推、背部平直。</li>
+<li><strong>中立脊柱（Neutral Spine）</strong>：脊柱保持自然曲線，不彎曲、不過伸。</li>
+<li><strong>核心穩定（Core Stability）</strong>：脊椎與骨盆在負荷下保持相對固定的能力。</li>
+<li><strong>IAP（Intra-Abdominal Pressure）</strong>：腹內壓，呼吸與核心繃緊產生的穩定機制。</li>
+</ul>
+
+<p><span class="section-label">概念</span><strong>肌群的角色：主動 vs 穩定</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>主動（Prime Mover）：主要產生動作的肌群。
+例如：擺盪中，臀大肌與股二頭肌是主動。
+穩定（Stabilizer）：控制關節位置、保持中立，幫助主動肌群高效運作。
+例如：擺盪中，核心與竿樣肌是穩定。</p>
+<p><span class="lang-label">English</span></p>
+<p>Prime Mover: the main muscle group producing movement.
+Example: in the swing, glutes and hamstrings are prime movers.
+Stabilizer: controls joint position, maintains neutral alignment, helps prime movers work efficiently.
+Example: in the swing, core and erector spinae are stabilizers.</p>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 骨骼與肌肉的關係</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>肌肉附著於骨骼，透過收縮產生張力，帶動關節運動。
+壺鈴訓練中，動作起點與終點的分析：
+- 擺盪：起點於髖，終點於肩（三角肌與核心）。
+- 硬舉：起點於地面，終點於站立。
+- 抓舉：起點於近膝，終點於過頭。</p>
+<p><span class="lang-label">English</span></p>
+<p>Muscles attach to the skeleton and produce tension through contraction, moving the joints.
+In kettlebell training, analyze movement origin and destination:
+- Swing: origin at the hip, destination at the shoulder (deltoid & core).
+- Deadlift: origin at the ground, destination at standing.
+- Snatch: origin below the knee, destination overhead.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 關節的運動方向</strong></p>
+<p><span class="lang-label">中文</span></p>
+- 髋關節：屈曲、伸展、外展、内收、旋轉。
+- 膝關節：屈曲、伸展。
+- 脊柱：屈曲、伸展、側彎、旋轉。
+- 肩關節：屈曲、伸展、外展、外旋、内旋。</p>
+<p><span class="lang-label">English</span></p>
+- Hip: flexion, extension, abduction, adduction, rotation.
+- Knee: flexion, extension.
+- Spine: flexion, extension, lateral bending, rotation.
+- Shoulder: flexion, extension, abduction, external rotation, internal rotation.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 常用符號（公式）</strong></p>
+<p class="formula-block">\(θ_{hip}\)　髋弯角度（度或弧度）</p>
+<p class="formula-block">\(σ = \frac{F}{A}\)　腰椎壓力（簡化：力 ÷ 面積）</p>
+<p class="formula-block">\(T\)　核心張力（N·m），與力臂與力成正比</p>
+<p class="formula-block">\(d\)　力臂，從關節軸到力的作用線</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 認識自己的身體</strong></p>
+<ol>
+<li>站立，雙手自然下垂，觀察：
+   - 脊柱是否有自然曲線。
+   - 骨盆是否中立。
+   - 肩膀是否發出（rounding）。
+</li>
+<li>做一次「無重髖關節槍開」：
+   - 注意：臀後推時，背部是否維持平直。
+   - 注意：膝蓋是否內扣。
+</li>
+<li>記錄感覺：哪個部位有觸感？哪個部位緊張？</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.2 核心穩定的自我檢查</strong></p>
+<table>
+<thead><tr><th>檢查項目</th><th>正確</th><th>錯誤</th></tr></thead>
+<tbody>
+<tr><td>腹式呼吸</td><td>肚子擴張，不只是胸部</td><td>肩膀抬起</td></tr>
+<tr><td>繃緊核心</td><td>整個腹部緊緻，像即將被擊中</td><td>只收腹</td></tr>
+<tr><td>骨盆中立</td><td>坐骨穩定，不前傾不後傾</td><td>骨盆過度前傾或後傾</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.3 馬賽克（Mobility）練習</strong></p>
+<ul>
+<li>坐骨觸地：坐下，兩腿打開，感受坐骨是否接觸地面。</li>
+<li>脊椎旋轉：坐姿、雙手抱膝，輕輕旋轉脊椎。</li>
+<li>肩胛圍圈：肩膀向後圍圈，感受肩胛穩定。</li>
+<li>踝關節活動：上下勾腳，每次 10 次。</li>
+</ul>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出與壺鈴訓練最相關的 5 個肌群。</li>
+<li>描述「髖關節槍開」的動作路徑（起點與終點）。</li>
+<li>用自己的話說明 IAP（腹內壓）是如何穩定脊椎的。</li>
+<li>完成一次「無重髖關節槍開」，描述感覺。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能說出主動肌與穩定肌的差異。</li>
+<li>能在鏡中識別中立脊柱。</li>
+<li>能描述骨盆與脊柱的關係。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>完成 3 組 × 10 次「無重髖關節槍開」，不出現：
+   - 背部彎曲。
+   - 膝蓋內扣。
+   - 脊柱過度前傾或後傾。
+</li>
+<li>能示範一種「圈肋」（rib cage）呼吸。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體骨骼示意：標記髖、膝、脊柱、肩、腕。</li>
+<li>肌群示意：標記臀大肌、股二頭肌、竿樣肌、腹直肌、腹橫肌、肩三角肌。</li>
+<li>動作路徑示意：擺盪、硬舉、抓舉。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+anatomy" target="_blank">[英文] kettlebell anatomy</a>
+  <a href="https://www.youtube.com/results?search_query=%E4%BA%BA%E9%AB%94%E8%A7%A3%E5%89%96%E4%B8%8E%E5%A3%93%E7%8E%8B%E8%B5%B7%E6%BA%90" target="_blank">[中文] 人體解剖與壺鈴訓練</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>國際運動醫學會（ACSM）《運動處方指南》。</li>
+<li>解剖學教科書（中文版）。</li>
+</ul>
+
+<div class="footer">
+  04 解剖與運動學基礎｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

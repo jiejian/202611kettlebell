@@ -1,0 +1,206 @@
+# 14 壺鈴抓舉（Snatch）
+
+## 壺鈴抓舉（Kettlebell Snatch）
+
+### 1. 抓舉是什麼
+
+**中文**：抓舉（Snatch）是一種「單手壺鈴從近膝到過頭」的連續動作。
+它結合了擺盪的髖伸展與上搏的肩前接收，是壺鈴中最複雜、最有表現力的動作之一。
+抓舉不是「手臂抬起」，而是「髖伸展驅動、臂膀完成軌道」—— 力量主要來自髖部與核心。
+
+**English**：The snatch is a "single-arm kettlebell movement from below the knee to overhead" performed in one continuous motion.
+It combines hip extension from the swing with the shoulder catch of the clean, and is one of the most complex and expressive kettlebell movements.
+The snatch is not "lifting with the arms"; it is "hip extension powers, arms complete the path" — power comes primarily from the hips and core.
+
+### 2. 抓舉的標準流程
+
+1. 站立，單手持壺鈴（可近地或擺盪）。
+2. 髖部後推，擺盪至大腿間。
+3. 髖部爆發，抬起壺鈴。
+4. 壺鈴沿著手臂向上升，與耳側、身體同一線。
+5. 手臂到達頂端，核心穩定，肩部下沉。
+6. 壺鈴過頭後，緩慢下落至大腿間。
+7. 連續完成兩個方向。
+
+**English**：
+1. Stand, hold the bell in one hand (from swing or ground).
+2. Hips push back, swing to thighs.
+3. Hips explode, lift the bell.
+4. Bell rises along the arm, alongside the ear, same line as body.
+5. Arm reaches top, core stable, shoulder down.
+6. Bell slowly lowers back to the thigh.
+7. Repeat.
+
+### 3. 抓舉的要點
+
+| 要點 | 說明 |
+|------|------|
+| 髖伸展 | 力量來源是髖部 |
+| 軌道垂直 | 壺鈴沿著「包圍」軌道，橫向要最小 |
+| 手臂被動 | 不主導，協助軌道 |
+| 核心穩定 | 支撐超過頭部 |
+| 呼吸 | 下擺吸氣，起身呼氣 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Hip extension | Power comes from hips |
+| Vertical orbit | Bell wraps around the arm, minimize lateral movement |
+| Arms passive | Not dominant, assist the path |
+| Core stable | Support above head |
+| Breathing | Inhale on down-swing, exhale on upswing |
+
+### 4. 常見錯誤
+
+| 錯誤 | 矯正 |
+|------|------|
+| 手臂主導 | 髖部爆發，肘部隨動作 |
+| 壺鈴橫向偏移 | 軌道垂直，穩定軌道 |
+| 肩膀感到 | 核心穩定，肩膀下沉 |
+| 呼吸停頓 | 保持呼吸 |
+| 壺鈴碰到身體 | 軌道中，避免碰撞 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Arms dominant | Hip explosion, elbow follows |
+| Bell moves laterally | Vertical trajectory, stable path |
+| Shoulder pain | Core stable, shoulder down |
+| Breath-holding | Breathe continuously |
+| Bell hits body | On path, avoid collision |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 抓舉的系統分析
+
+**中文**：抓舉是一套「上搏」的系統：
+- 擺盪：建立高度與速度，作為髋伸展。
+- 上搏：把壺鈴收到肩前，完成「二次」的坐緊。
+- 抓舉：二次爆發延伸，壺鈴沿著軌道上升。
+
+**English**：The snatch is a system of "cleans":
+- Swing: establish height and speed as hip extension.
+- Clean: bring the bell to shoulder, complete the "second" bracing.
+- Snatch: second extension extends, bell rises along the path.
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：臀大肌、股二頭肌、竿樣肌、肩三角肌（側部）、肱三頭肌。
+- 穩定肌：腹橫肌、腹斜肌、竿樣肌、肩袖。
+- 輔助肌：斜方肌、胸肌、臀中肌。
+
+**English**：
+- Prime movers: glutes, hamstrings, erector spinae, lateral deltoid, triceps.
+- Stabilizers: transversus abdominis, obliques, erector spinae, rotator cuff.
+- Assistants: trapezius, chest, gluteus medius.
+
+### 2.3 關鍵公式
+
+- 抓舉的輸入功：\(W_{in} = F \times d\)，髋伸展的能量。
+- 輸出功：\(W_{out} = m \times g \times h\)，提升壺鈴的功。
+- 軌道垂直：\(θ \approx 90^\circ\) 最小橫向偏差。
+- 心率：\(HR\)，抓舉訓練的心肺要求高。
+
+**English**：
+- Swing input work: \(W_{in} = F \times d\), hip extension energy.
+- Output work: \(W_{out} = m \times g \times h\), lifting the bell.
+- Vertical orbit: \(θ \approx 90^\circ\), minimal lateral deviation.
+- Heart rate: \(HR\), high cardiorespiratory demand.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 無重抓舉 | 感受軌道 |
+| 2 | 8–12 kg 抓舉 | 掌握髋伸展 |
+| 3 | 12–16 kg | 漸進 |
+| 4 | 連續抓舉 | 耐力與節奏 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | No-weight snatch | Feel the orbit |
+| 2 | 8–12 kg snatch | Master hip extension |
+| 3 | 12–16 kg | Progression |
+| 4 | Continuous snatch | Endurance & rhythm |
+
+### 3.2 抓舉流程
+
+1. 站立，單手持壺鈴。
+2. 髖部後推，擺盪。
+3. 髖部爆發。
+4. 壺鈴上升，轨道垂直。
+5. 頂端，核心穩定。
+6. 緩慢下落。
+7. 連續完成。
+
+**English**：
+1. Stand, hold bell in one hand.
+2. Hips back, swing.
+3. Hips explode.
+4. Bell rises, vertical orbit.
+5. Top, core stable.
+6. Slowly lower.
+7. Repeat.
+
+### 3.3 呼吸與發力
+
+- 髖伸展時：呼氣。
+- 下擺時：吸氣。
+- 保持連續，不要停頓。
+
+**English**：
+- On hip extension: exhale.
+- On down-swing: inhale.
+- Keep continuous, no pausing.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出抓舉與擺盪的兩個差異。
+2. 說出抓舉的主動肌與穩定肌。
+3. 完成 3 組 × 10 次「無重抓舉」。
+4. 描述抓舉中的呼吸。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，單腳穩定。
+- 脊柱中立，核心穩定。
+- 髖部推出，手臂不主導。
+- 軌道垂直，無橫向偏差。
+- 呼吸連續。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「單手抓舉」，3 組 × 10 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出抓舉的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體抓舉示意：標記髖部、脊柱、肩部、軌道。
+- 動作路徑：從近膝到過頭。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Snatch" — 查找「kettlebell snatch」。
+- 中文：各大運動頻道「壺鈴抓舉」。
+- 推薦關鍵字：`kettlebell snatch`, `snatch form`, `snatch trajectory`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Snatch》基礎課程。

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>28 體能測試指標</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>28 體能測試指標（Fitness Test Indicators）</h1>
+    <div class="meta">章節 28｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../08_測試評估/27_動作評估表.html">← 上一節：27 動作評估表</a>
+  <a class="jump-next" href="../00_索引/說明書.html">（本套教材說明書 →）</a>
+</div>
+
+<h2 id="1">1. 體能測試的目的</h2>
+<p><span class="section-label">概念</span><strong>體能測試的目的</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>體能測試是用來測量學習者體能水平的工具。
+它可以：建立起始基準；追蹤體能進步；為訓練提供依據；評估訓練效果。</p>
+<p><span class="lang-label">English</span></p>
+<p>Fitness testing is used to measure learners' fitness levels.
+It can: establish initial baselines; track fitness progress; provide a basis for training; evaluate training effectiveness.</p>
+
+<p><span class="section-label">概念</span><strong>體能測試的項目</strong></p>
+<table>
+<thead><tr><th>測試項目</th><th>測量方法</th><th>頻率</th><th>目標</th></tr></thead>
+<tbody>
+<tr><td>擺盪耐力</td><td>續擺 1 分鐘次數</td><td>每 4 週</td><td>增加次數</td></tr>
+<tr><td>硬起力量</td><td>硬起 1 分鐘次數</td><td>每 4 週</td><td>增加次數</td></tr>
+<tr><td>上搏耐力</td><td>上搏 1 分鐘次數</td><td>每 4 週</td><td>增加次數</td></tr>
+<tr><td>農夫走路</td><td>直走 20 米秒數</td><td>每 4 週</td><td>縮短時間</td></tr>
+<tr><td>核心穩定</td><td>核心繃緊秒數</td><td>每 4 週</td><td>增加秒數</td></tr>
+<tr><td>深蹲範圍</td><td>蹲至大腿平行</td><td>每 4 週</td><td>成功完成</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>測試流程</strong></p>
+<ol>
+<li>熱身 5–10 分鐘。</li>
+<li>練習 3 組，熟悉動作。</li>
+<li>正式測試，記錄數據。</li>
+<li>記錄結果。</li>
+<li>每 4 週重複。</li>
+</ol>
+
+<p><span class="section-label">概念</span><strong>測試數據記錄表</strong></p>
+<table>
+<thead><tr><th>項目</th><th>起始值</th><th>4 週後</th><th>8 週後</th><th>12 週後</th></tr></thead>
+<tbody>
+<tr><td>擺盪 1 分鐘次數</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>硬起 1 分鐘次數</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>上搏 1 分鐘次數</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>農夫走路 20 米秒數</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>核心繃緊秒數</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+<tr><td>深蹲至平行</td><td>___</td><td>___</td><td>___</td><td>___</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>測試的注意事項</strong></p>
+<ol>
+<li>測試前熱身充足。</li>
+<li>測試時專注於安全，不要逼迫自己。</li>
+<li>若有疼痛，立即停機。</li>
+<li>每次測試保持相同條件（重量、休息、環境）。</li>
+<li>記錄數據，追蹤進步。</li>
+</ol>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 體能測試的意義</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>建立起始基準。
+追蹤進步。
+評估訓練效果。
+推動動機。</p>
+<p><span class="lang-label">English</span></p>
+<p>Establish baseline.
+Track progress.
+Evaluate training effectiveness.
+Drive motivation.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 體能指標解釋</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>擺盪耐力：反映心肺與下半身耐力。
+硬起力量：反映後鏵鏈力量與爆發。
+上搏耐力：反映上肢與核心耐力。
+農夫走路：反映核心穩定與握力。
+核心繃緊秒數：反映核心穩定。
+深蹲範圍：反映下肢柔韌度與力量。</p>
+<p><span class="lang-label">English</span></p>
+<p>Swing endurance: reflects cardio & lower endurance.
+Deadlift strength: reflects posterior chain power.
+Clean endurance: reflects upper & core endurance.
+Farmer's walk: reflects core stability & grip.
+Core brace time: reflects core stability.
+Squat range: reflects lower mobility & strength.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(\%Change = \frac{S_{new} - S_{old}}{S_{old}} \times 100\)　改進率</p>
+<p class="formula-block">\(P = \frac{V_{now}}{V_{baseline}}\)　訓練進度</p>
+<p class="formula-block">\(f = \frac{1}{4\text{ 週}}\)　測試頻率</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 體能測試流程</strong></p>
+<ol>
+<li>熱身 5–10 分鐘。</li>
+<li>練習 3 組，熟悉動作。</li>
+<li>正式測試，記錄數據。</li>
+<li>記錄結果。</li>
+<li>每 4 週重複。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.2 記錄表的使用</strong></p>
+<ol>
+<li>選擇 3 個主要項目測試。</li>
+<li>每 4 週重複。</li>
+<li>記錄數據。</li>
+<li>追蹤改進。</li>
+<li>調整訓練。</li>
+</ol>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>完成一次體能測試。</li>
+<li>寫下自己的起始數據。</li>
+<li>每 4 週重複測試，追蹤進步。</li>
+<li>描述下一步的訓練目標。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能完成體能測試。</li>
+<li>能寫下自己的起始數據。</li>
+<li>能追蹤自己的進步。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能完成完整的體能測試。</li>
+<li>能追蹤自己的進步。</li>
+<li>能調整訓練。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>體能測試流程圖：熱身 → 練習 → 測試 → 記錄 → 追蹤。</li>
+<li>測試項目：擺盪耐力、硬起力量、農夫走路、核心穩定。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=fitness+test" target="_blank">[英文] fitness test</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E4%BD%93%E8%83%BD%E6%B8%AC%E8%A9%A6" target="_blank">[中文] 壺鈴體能測試</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>國際運動醫學會（ACSM）《運動處方指南》。</li>
+<li>體能測試指南。</li>
+</ul>
+
+<div class="footer">
+  28 體能測試指標｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

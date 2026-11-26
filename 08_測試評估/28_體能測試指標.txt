@@ -1,0 +1,219 @@
+# 28 體能測試指標
+
+## 體能測試指標（Fitness Test Indicators）
+
+### 1. 體能測試的目的
+
+**中文**：體能測試是用來測量學習者體能水平的工具。
+它可以：
+- 建立起始基準。
+- 追蹤體能進步。
+- 為訓練提供依據。
+- 評估訓練效果。
+
+**English**：Fitness testing is used to measure learners' fitness levels.
+It can:
+- Establish initial baselines.
+- Track fitness progress.
+- Provide a basis for training.
+- Evaluate training effectiveness.
+
+### 2. 體能測試的項目
+
+**中文**：以下是適合零基礎學習者的壺鈴體能測試：
+
+| 測試項目 | 測量方法 | 頻率 | 目標 |
+|----------|----------|------|------|
+| 擺盪耐力 | 續擺 1 分鐘次數 | 每 4 週 | 增加次數 |
+| 硬起力量 | 硬起 1 分鐘次數 | 每 4 週 | 增加次數 |
+| 上搏耐力 | 上搏 1 分鐘次數 | 每 4 週 | 增加次數 |
+| 農夫走路 | 直走 20 米秒數 | 每 4 週 | 縮短時間 |
+| 核心穩定 | 核心繃緊秒數 | 每 4 週 | 增加秒數 |
+| 深蹲範圍 | 蹲至大腿平行 | 每 4 週 | 成功完成 |
+
+**English**：| Test | Method | Frequency | Goal |
+|------|--------|-----------|------|
+| Swing endurance | Reps in 1 min | Every 4 weeks | Increase reps |
+| Deadlift strength | Reps in 1 min | Every 4 weeks | Increase reps |
+| Clean endurance | Reps in 1 min | Every 4 weeks | Increase reps |
+| Farmer's walk | Walking 20 m time | Every 4 weeks | Reduce time |
+| Core stability | Core brace time | Every 4 weeks | Increase time |
+| Goblet squat range | Squat to parallel | Every 4 weeks | Complete successfully |
+
+### 3. 測試流程
+
+**中文**：
+1. 熱身 5–10 分鐘。
+2. 練習 3 組，熟悉動作。
+3. 正式測試，記錄數據。
+4. 記錄結果。
+5. 每 4 週重複。
+
+**English**：
+1. Warm-up 5–10 min.
+2. Practice 3 sets, familiarize movement.
+3. Formal test, record data.
+4. Record results.
+5. Repeat every 4 weeks.
+
+### 4. 測試數據記錄表
+
+| 項目 | 起始值 | 4 週後 | 8 週後 | 12 週後 |
+|------|--------|--------|--------|---------|
+| 擺盪 1 分鐘次數 | ___ | ___ | ___ | ___ |
+| 硬起 1 分鐘次數 | ___ | ___ | ___ | ___ |
+| 上搏 1 分鐘次數 | ___ | ___ | ___ | ___ |
+| 農夫走路 20 米秒數 | ___ | ___ | ___ | ___ |
+| 核心繃緊秒數 | ___ | ___ | ___ | ___ |
+| 深蹲至平行 | ___ | ___ | ___ | ___ |
+
+**English**：| Item | Baseline | Week 4 | Week 8 | Week 12 |
+|------|----------|--------|--------|---------|
+| Swing 1 min reps | ___ | ___ | ___ | ___ |
+| Deadlift 1 min reps | ___ | ___ | ___ | ___ |
+| Clean 1 min reps | ___ | ___ | ___ | ___ |
+| Farmer's walk 20 m time | ___ | ___ | ___ | ___ |
+| Core brace time | ___ | ___ | ___ | ___ |
+| Goblet squat to parallel | ___ | ___ | ___ | ___ |
+
+### 5. 測試的注意事項
+
+**中文**：
+1. 測試前熱身充足。
+2. 測試時專注於安全，不要逼迫自己。
+3. 若有疼痛，立即停機。
+4. 每次測試保持相同條件（重量、休息、環境）。
+5. 記錄數據，追蹤進步。
+
+**English**：
+1. Adequate warm-up before test.
+2. Focus on safety during test, don't force.
+3. Stop immediately if pain.
+4. Same conditions each test (weight, rest, environment).
+5. Record data, track progress.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 體能測試的意義
+
+**中文**：
+- 建立起始基準。
+- 追蹤進步。
+- 評估訓練效果。
+- 推動動機。
+
+**English**：
+- Establish baseline.
+- Track progress.
+- Evaluate training effectiveness.
+- Drive motivation.
+
+### 2.2 體能指標解釋
+
+**中文**：
+- **擺盪耐力**：反映心肺與下半身耐力。
+- **硬起力量**：反映後鏵鏈力量與爆發。
+- **上搏耐力**：反映上肢與核心耐力。
+- **農夫走路**：反映核心穩定與握力。
+- **核心繃緊秒數**：反映核心穩定。
+- **深蹲範圍**：反映下肢柔韌度與力量。
+
+**English**：
+- **Swing endurance**: reflects cardio & lower endurance.
+- **Deadlift strength**: reflects posterior chain power.
+- **Clean endurance**: reflects upper & core endurance.
+- **Farmer's walk**: reflects core stability & grip.
+- **Core brace time**: reflects core stability.
+- **Squat range**: reflects lower mobility & strength.
+
+### 2.3 公式
+
+- 改進率：\(\%Change = \frac{S_{new} - S_{old}}{S_{old}} \times 100\)。
+- 訓練進度：\(P = \frac{V_{now}}{V_{baseline}}\)。
+- 測試頻率：\(f = \frac{1}{4 \text{ 週}}\)。
+
+**English**：
+- Improvement rate: \(\%Change = \frac{S_{new} - S_{old}}{S_{old}} \times 100\).
+- Training progress: \(P = \frac{V_{now}}{V_{baseline}}\).
+- Test frequency: \(f = \frac{1}{4 \text{ weeks}}\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 體能測試流程
+
+**中文**：
+1. 熱身 5–10 分鐘。
+2. 練習 3 組，熟悉動作。
+3. 正式測試，記錄數據。
+4. 記錄結果。
+5. 每 4 週重複。
+
+**English**：
+1. Warm-up 5–10 min.
+2. Practice 3 sets, familiarize movement.
+3. Formal test, record data.
+4. Record results.
+5. Repeat every 4 weeks.
+
+### 3.2 記錄表的使用
+
+**中文**：
+1. 選擇 3 個主要項目測試。
+2. 每 4 週重複。
+3. 記錄數據。
+4. 追蹤改進。
+5. 調整訓練。
+
+**English**：
+1. Choose 3 main items to test.
+2. Repeat every 4 weeks.
+3. Record data.
+4. Track improvement.
+5. Adjust training.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 完成一次體能測試。
+2. 寫下自己的起始數據。
+3. 每 4 週重複測試，追蹤進步。
+4. 描述下一步的訓練目標。
+
+### 4.2 自我檢查（Self-check）
+
+- 能完成體能測試。
+- 能寫下自己的起始數據。
+- 能追蹤自己的進步。
+
+### 4.3 能力測試（Competency test）
+
+- 能完成完整的體能測試。
+- 能追蹤自己的進步。
+- 能調整訓練。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 體能測試流程圖：熱身 → 練習 → 測試 → 記錄 → 追蹤。
+- 測試項目：擺盪耐力、硬起力量、農夫走路、核心穩定。
+
+### 5.2 影片參考
+
+- 英文："Fitness Test" — 查找「fitness test」。
+- 中文：各大運動頻道「壺鈴體能測試」。
+- 推薦關鍵字：`fitness test`, `kettlebell test`, `measure progress`.
+
+### 5.3 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 體能測試指南。

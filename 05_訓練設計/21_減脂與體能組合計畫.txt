@@ -1,0 +1,204 @@
+# 21 減脂與體能組合計畫
+
+## 減脂與體能組合計畫（Fat Loss & Conditioning Program）
+
+### 1. 減脂與體能的目標
+
+**中文**：減脂與體能的目標是：
+- 增強心肺耐力（cardiovascular endurance）。
+- 提高基礎代謝率。
+- 減少體脂肪。
+- 增加肌肉耐力與線粒體功能。
+- 提升整體身體質量。
+
+**English**：The goal of fat loss and conditioning is:
+- Improve cardiovascular endurance.
+- Increase basal metabolic rate.
+- Reduce body fat.
+- Increase muscle endurance and mitochondrial function.
+- Improve overall physical fitness.
+
+### 2. 減脂與體能的訓練模式
+
+| 模式 | 特點 | 適合 |
+|------|------|------|
+| 持續有氧（LISS） | 低強度，長時間 | 入門、恢復 |
+| 高強度間歇（HIIT） | 高強度，短時間 | 體能、燃脂 |
+| 組合訓練（Circuit） | 多動作連續 | 全身、耐力 |
+| 力量訓練 + 有氧 | 雙管齊下 | 減脂 + 肌肉 |
+
+**English**：| Pattern | Features | Suitable |
+|---------|----------|----------|
+| LISS (Low-intensity steady state) | Low intensity, long duration | Beginner, recovery |
+| HIIT (High-intensity interval training) | High intensity, short duration | Conditioning, fat loss |
+| Circuit training | Multi-movement continuous | Full body, endurance |
+| Strength + cardio | Both | Fat loss + muscle |
+
+### 3. 減脂與體能的壺鈴訓練
+
+**中文**：推薦的壺鈴訓練：
+- **擺盪（Swing）**：髋伸展，高強度耐力。
+- **上搏（Clean）**：力量與耐力。
+- **抓舉（Snatch）**：全身動態。
+- **農夫走路（Farmer's Walk）**：核心與握力。
+- **深蹲（Goblet Squat）**：下肢耐力。
+
+**English**：Recommended kettlebell movements:
+- **Swing**: hip extension, high endurance.
+- **Clean**: strength and endurance.
+- **Snatch**: whole-body dynamic.
+- **Farmer's Walk**: core and grip.
+- **Goblet Squat**: lower body endurance.
+
+### 4. 心率區間與訓練強度
+
+**中文**：
+- 輕中度（60–70% HRmax）：燃脂、耐力。
+- 中度（70–80% HRmax）：體能提升。
+- 高強度（80–90% HRmax）：爆發力、抗疲勞。
+- 最大（90%+）：專業訓練。
+
+**English**：
+- Light-medium (60–70% HRmax): fat burning, endurance.
+- Medium (70–80% HRmax): conditioning improvement.
+- High (80–90% HRmax): power, anti-fatigue.
+- Max (90%+): professional training.
+
+### 5. 減脂計畫的實際做法
+
+**中文**：
+1. 每週 3–5 次訓練。
+2. 每次 20–40 分鐘。
+3. 熱身 5 分鐘，主體 20–30 分鐘，放鬆 5 分鐘。
+4. 動作順序：擺盪 → 上搏 → 抓舉 → 農夫走路。
+5. 控制重量，善用疲勞感（但不超過痛苦）。
+
+**English**：
+1. Train 3–5 times per week.
+2. Each session 20–40 minutes.
+3. Warm-up 5 min, main 20–30 min, cool-down 5 min.
+4. Movement order: swing → clean → snatch → farmer's walk.
+5. Control weight, use fatigue (but not pain).
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 燃脂的機制
+
+**中文**：
+- 燃脂需要建立「能量缺口」：攝入 < 消耗。
+- 壺鈴訓練透過高強度提高消耗。
+- 肌肉量增加提高基礎代謝率。
+- 運動後過量氧耗（EPOC）增加總消耗。
+
+**English**：
+- Fat loss requires energy deficit: intake < expenditure.
+- Kettlebell training raises expenditure through high intensity.
+- More muscle increases basal metabolic rate.
+- EPOC (excess post-exercise oxygen consumption) increases total expenditure.
+
+### 2.2 心肺耐力的測量
+
+**中文**：
+- 心率：\(HR_{max} = 220 - 年齡\)。
+- 最大氧攝取量（VO2max）：\(VO_2max\)，最優指標。
+- 休息心率：\(HR_{rest}\)，反映心肺適合度。
+- 回復心跳：\(HR_{recovery}\)，運動後心率下降速度。
+
+**English**：
+- Heart rate: \(HR_{max} = 220 - age\).
+- Maximal oxygen uptake (VO2max): \(VO_2max\), the best indicator.
+- Resting heart rate: \(HR_{rest}\), reflects cardiorespiratory fitness.
+- Heart rate recovery: \(HR_{recovery}\), speed of heart rate decline after exercise.
+
+### 2.3 公式
+
+- 能量消耗：\(E = P \times t\)，功率乘以時間。
+- 心率區間：\(HR_{train} = (HR_{max} - HR_{rest}) \times % + HR_{rest}\)。
+- 每週總能量：\(E_{week} = \sum E_i\)。
+
+**English**：
+- Energy expenditure: \(E = P \times t\).
+- Heart rate zone: \(HR_{train} = (HR_{max} - HR_{rest}) \times % + HR_{rest}\).
+- Weekly total energy: \(E_{week} = \sum E_i\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 減脂循環訓練方案（20–30 分鐘）
+
+**中文**：
+1. 熱身 5 分鐘。
+2. 循環 4–6 組（每組：
+   - 擺盪 15 次
+   - 上搏 10 次
+   - 深蹲 15 次
+   - 休息 30 秒
+3. 放鬆 5 分鐘。
+
+**English**：
+1. Warm-up 5 min.
+2. Circuit 4–6 rounds (each round:
+   - Swing 15 reps
+   - Clean 10 reps
+   - Goblet squat 15 reps
+   - Rest 30 seconds
+3. Cool-down 5 min.
+
+### 3.2 HIIT 方案（10–20 分鐘）
+
+**中文**：
+1. 熱身 5 分鐘。
+2. 30 秒高強度擺盪 + 30 秒休息，共 8–12 組。
+3. 放鬆 5 分鐘。
+
+**English**：
+1. Warm-up 5 min.
+2. 30 sec high-intensity swing + 30 sec rest, 8–12 rounds.
+3. Cool-down 5 min.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 寫下自己的減脂與體能目標。
+2. 設計一個 20–30 分鐘的循環訓練。
+3. 描述自己的心率區間。
+4. 完成一次減脂循環訓練。
+
+### 4.2 自我檢查（Self-check）
+
+- 能寫出自己的減脂目標。
+- 能設計一個循環訓練。
+- 能描述心率區間。
+
+### 4.3 能力測試（Competency test）
+
+- 能完成一次 20–30 分鐘的減脂循環訓練。
+- 能描述心率與訓練強度。
+- 能說出減脂與體能的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 減脂循環訓練流程圖：熱身 → 循環 → 放鬆。
+- 心率區間示意：輕中度 → 中度 → 高強度。
+- 動作順序：擺盪 → 上搏 → 抓舉 → 農夫走路。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell HIIT" — 查找「kettlebell HIIT」。
+- 中文：各大運動頻道「減脂與體能」。
+- 推薦關鍵字：`kettlebell HIIT`, `kettlebell circuit`, `kettlebell conditioning`.
+
+### 5.3 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 減脂與體能訓練指南。

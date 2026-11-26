@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>23 常見錯誤與修正</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>23 常見錯誤與修正（Common Mistakes & Corrections）</h1>
+    <div class="meta">章節 23｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../05_訓練設計/22_週三入門計畫.html">← 上一節：22 週三入門計畫</a>
+  <a class="jump-next" href="../06_安全與傷害/24_傷害預防與停機指標.html">下一節：24 傷害預防與停機指標 →</a>
+</div>
+
+<h2 id="1">1. 壺鈴訓練常見錯誤</h2>
+<p><span class="section-label">概念</span><strong>壺鈴訓練常見錯誤</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>壺鈴訓練中，初學者最常見的錯誤有：
+1. 背部弓背（rounding back）。
+2. 膝蓋內扣（knee caving）。
+3. 肩膀耸起（shoulder shrugging）。
+4. 呼吸停頓（breath-holding）。
+5. 重量過大（too heavy）。
+6. 使用手臂發力（arm-dominant）。</p>
+<p><span class="lang-label">English</span></p>
+<p>Common kettlebell training mistakes for beginners:
+1. Rounding back.
+2. Knee caving.
+3. Shoulder shrugging.
+4. Breath-holding.
+5. Too heavy.
+6. Arm-dominant.</p>
+
+<p><span class="section-label">概念</span><strong>錯誤與修正對照表</strong></p>
+<table>
+<thead><tr><th>常見錯誤</th><th>可能風險</th><th>修正方法</th></tr></thead>
+<tbody>
+<tr><td>背部弓背</td><td>脊柱受傷</td><td>核心繃緊，髖後推</td></tr>
+<tr><td>膝蓋內扣</td><td>膝關節受傷</td><td>膝蓋向外，與腳尖同向</td></tr>
+<tr><td>肩膀耸起</td><td>肩部肩頸緊張</td><td>肩膀下沉，核心繃緊</td></tr>
+<tr><td>呼吸停頓</td><td>血壓上升、頭暈</td><td>保持呼吸，下擺吸氣，起身呼氣</td></tr>
+<tr><td>重量過大</td><td>姿勢崩潰</td><td>減輕重量，先練習無重</td></tr>
+<tr><td>手臂發力</td><td>肩部負荷</td><td>髖部爆發，手臂被動</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>每個動作的常見錯誤</strong></p>
+<ul>
+<li>擺盪：把擺盪當成「抬臂」— 修正：髖部爆發。</li>
+<li>硬起：膝蓋過度前進 — 修正：髖後推，減少膝蓋移動。</li>
+<li>上搏：肘部未收納 — 修正：肘部收到，壺鈴包圍。</li>
+<li>深蹲：膝蓋內扣 — 修正：膝蓋向外。</li>
+<li>肩推：耸肩 — 修正：肩膀下沉。</li>
+<li>抓舉：軌道橫向 — 修正：軌道垂直。</li>
+</ul>
+
+<p><span class="section-label">概念</span><strong>如何修正</strong></p>
+<ol>
+<li>慢一點：慢速練動作，檢查細節。</li>
+<li>無重練習：先練習無重，再加重量。</li>
+<li>照鏡：在鏡中觀察自己的姿勢。</li>
+<li>照片：每 2 週拍一次，比較。</li>
+<li>求助：向教練或有經驗者請教。</li>
+</ol>
+
+<p><span class="section-label">概念</span><strong>修正的原則</strong></p>
+<ul>
+<li>優先修正「影響安全」的錯誤（背部弓背、膝蓋內扣）。</li>
+<li>再修正「影響效果」的錯誤（手臂發力、軌道不直）。</li>
+<li>漸進修正，避免一次修正太多。</li>
+</ul>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 姿勢與安全</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>姿勢是安全的第一道防線。
+中立脊柱（neutral spine）最安全。
+核心繃緊提供穩定。
+負荷均勻分佈在全身。</p>
+<p><span class="lang-label">English</span></p>
+<p>Posture is the first line of safety.
+Neutral spine is safest.
+Core bracing provides stability.
+Load distributed evenly.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 錯誤的力學</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>背部弓背：脊柱壓力增加。
+膝蓋內扣：膝關節內側壓力增加。
+肩膀耸起：頸部肩部負荷增加。</p>
+<p><span class="lang-label">English</span></p>
+<p>Rounding back: spinal pressure increases.
+Knee caving: medial knee pressure increases.
+Shoulder shrugging: neck/shoulder load increases.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(σ = \frac{F}{A}\)　脊柱壓力（力 ÷ 面積）</p>
+<p class="formula-block">\(τ = F \times d\)　力臂（與力矩成正比）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 自我檢查列表</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>每次訓練後，問自己：
+1. 背部是否平直？
+2. 膝蓋是否內扣？
+3. 肩膀是否耸起？
+4. 呼吸是否連續？
+5. 是否感到痛？</p>
+<p><span class="lang-label">English</span></p>
+<p>After each session, ask yourself:
+1. Is the back straight?
+2. Are the knees caving?
+3. Are the shoulders shrugging?
+4. Is breathing continuous?
+5. Do I feel pain?</p>
+
+<p><span class="section-label">實踐</span><strong>3.2 修正練習</strong></p>
+<ol>
+<li>選一個自己常見的錯誤。</li>
+<li>做 3 組 × 10 次無重練習。</li>
+<li>專注於修正。</li>
+<li>每 2 週拍一張照片。</li>
+</ol>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>找出自己最常見的錯誤（至少 2 個）。</li>
+<li>描述修正方法。</li>
+<li>完成 3 組 × 10 次無重修正練習。</li>
+<li>描述自己訓練後的感覺。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能找出自己的常見錯誤。</li>
+<li>能描述修正方法。</li>
+<li>能完成修正練習。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能在鏡中識別自己的錯誤。</li>
+<li>能描述修正的具體方法。</li>
+<li>能說出修正的優先順序。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>常見錯誤示意：「背部弓背」「膝蓋內扣」「肩膀耸起」。</li>
+<li>修正流程圖：發現錯誤 → 分析 → 修正 → 練習。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+common+mistakes" target="_blank">[英文] kettlebell common mistakes</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E5%B8%B8%E8%A7%81%E9%8C%AF%E8%AA%A4" target="_blank">[中文] 壺鈴常見錯誤</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》。</li>
+<li>StrongFirst：《Form & Technique》。</li>
+</ul>
+
+<div class="footer">
+  23 常見錯誤與修正｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

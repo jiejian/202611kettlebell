@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>16 清潔與摔舉</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>16 清潔與摔舉（Clean and Jerk）</h1>
+    <div class="meta">章節 16｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../04_組合動作/15_清潔與推舉.html">← 上一節：15 清潔與推舉</a>
+  <a class="jump-next" href="../04_組合動作/17_農夫走路.html">下一節：17 農夫走路 →</a>
+</div>
+
+<h2 id="1">1. 清潔與摔舉是什麼</h2>
+<p><span class="section-label">概念</span><strong>清潔與摔舉是什麼</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>清潔與摔舉（Clean and Jerk）是「上搏 → 摔舉」的連續動作。
+它是壺鈴的三大競技動作之一（另有抓舉、遠環）。
+與清潔與推舉不同，摔舉包含「蹲下接接」與「雙手式」的元素。
+這是進階者可學習的高級連動動作。</p>
+<p><span class="lang-label">English</span></p>
+<p>Clean and Jerk is the continuous movement "clean → jerk."
+It is one of the three main competitive kettlebell lifts (plus Snatch and Long Cycle).
+Unlike Clean and Press, the Jerk includes a "squat under catch" and more athletic elements.
+This is an advanced connected movement for experienced trainees.</p>
+
+<p><span class="section-label">概念</span><strong>清潔與摔舉的標準流程</strong></p>
+<ol>
+<li>站立，雙手持壺鈴（雙壺或單壺）。</li>
+<li>髖部後推，擺盪，上搏。</li>
+<li>壺鈴收到肩前（rack position）。</li>
+<li>核心繃緊，蹲下，低位。</li>
+<li>利用髖伸展與肩部力量，快速擡起。</li>
+<li>蹲下接接，壺鈴在頭上。</li>
+<li>站起，完成。</li>
+<li>緩慢放下，回到起始。</li>
+</ol>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 清潔與摔舉的系統</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>清潔與摔舉是「上搏 + 摔舉」的雙重系統：
+- 上搏：將壺鈴從地面傳到肩前。
+- 摔舉：將壺鈴從肩前傳到過頭，包含蹲下接接。</p>
+<p><span class="lang-label">English</span></p>
+<p>Clean and Jerk is a double system "clean + jerk":
+- Clean: transfers the bell from ground to shoulder.
+- Jerk: transfers the bell from shoulder to overhead, including the squat-under catch.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 肌群參與</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>主動肌：三角肌、肱三頭肌、臀大肌、股二頭肌、核心肌群。
+穩定肌：竿樣肌、腹橫肌、腹斜肌。
+輔助肌：胸肌、斜方肌。</p>
+<p><span class="lang-label">English</span></p>
+<p>Prime movers: deltoids, triceps, glutes, hamstrings, core.
+Stabilizers: erector spinae, transversus abdominis, obliques.
+Assistants: chest, trapezius.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(W = m \times g \times h\)　摔舉之功（質量 × 重力 × 高度）</p>
+<p class="formula-block">\(τ = F \times d\)　蹲下接接力矩（力 × 力臂）</p>
+<p class="formula-block">\(σ = \frac{F}{A}\)　核心張力（力 ÷ 面積）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 階段練習</strong></p>
+<table>
+<thead><tr><th>階段</th><th>內容</th><th>目標</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>上搏 + 擡起</td><td>簡單連動</td></tr>
+<tr><td>2</td><td>8–12 kg 清潔與摔舉</td><td>掌握連動</td></tr>
+<tr><td>3</td><td>12–16 kg</td><td>漸進</td></tr>
+<tr><td>4</td><td>雙手清潔與摔舉</td><td>穩定與協調</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.2 清潔與摔舉流程</strong></p>
+<ol>
+<li>站立，雙手持壺鈴。</li>
+<li>髖部後推。</li>
+<li>髖部爆發，擺盪，上搏。</li>
+<li>壺鈴收到肩前。</li>
+<li>核心繃緊。</li>
+<li>蹲下接接。</li>
+<li>擡起過頭。</li>
+<li>緩慢放下。</li>
+<li>連續完成。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.3 呼吸與穩定</strong></p>
+<ul>
+<li>收集時：吸氣。</li>
+<li>擡起時：呼氣。</li>
+<li>核心繃緊，低位穩定。</li>
+</ul>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出清潔與推舉與摔舉的兩個差異。</li>
+<li>說出清潔與摔舉的主動肌與穩定肌。</li>
+<li>完成 3 組 × 6 次「無重清潔與摔舉」。</li>
+<li>描述蹲下接接的感覺。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>站立姿勢正確，雙腳跟穩定。</li>
+<li>清潔穩定，肘部收納。</li>
+<li>摔舉時核心繃緊。</li>
+<li>蹲下接接時低位穩定。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能以 8–16 kg 壺鈴完成「雙手清潔與摔舉」，3 組 × 6–8 次。</li>
+<li>姿勢無明顯崩潰。</li>
+<li>能用自己的話說出清潔與摔舉的要點。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體清潔與摔舉示意：標記上搏、摔舉、蹲下接接。</li>
+<li>動作路徑：從地面到肩前再到過頭。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=clean+and+jerk" target="_blank">[英文] clean and jerk</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E6%B8%85%E6%B7%80%E8%88%87%E6%8E%A8%E4%B8%8A" target="_blank">[中文] 壺鈴清潔與摔舉</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》。</li>
+<li>StrongFirst：《Clean and Jerk》基礎課程。</li>
+</ul>
+
+<div class="footer">
+  16 清潔與摔舉｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

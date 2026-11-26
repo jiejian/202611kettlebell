@@ -1,0 +1,205 @@
+# 13 壺鈴肩推（Press）
+
+## 壺鈴肩推（Kettlebell Press）
+
+### 1. 肩推是什麼
+
+**中文**：肩推（Press）是一種「手持壺鈴於肩前，向上推到過頭」的動作。
+與硬舉、擺盪不同，肩推主要依靠手臂與肩部力量，而非髖部爆發。
+肩推訓練肩部（三角肌）、三頭肌與核心穩定。
+是建立於上搏（clean）之上的動作—— 通常先完成上搏，再從肩前推起。
+
+**English**：The press is a "hold the bell at the shoulder, push overhead" movement.
+Unlike the deadlift and swing, the press primarily uses arm and shoulder strength, not hip explosion.
+The press trains the deltoids, triceps, and core stability.
+It is built on the clean — usually you clean first, then press from the shoulder.
+
+### 2. 肩推的標準流程
+
+1. 站立，持壺鈴於肩前（rack position）。
+2. 雙腳與肩同寬。
+3. 核心繃緊，脊柱中立。
+4. 壺鈴沿著耳側上升。
+5. 手臂伸直，肩部穩定。
+6. 緩慢放下，回到肩前。
+7. 連續完成。
+
+**English**：
+1. Stand, bell at the rack position (shoulder).
+2. Feet shoulder-width.
+3. Core braced, spine neutral.
+4. Bell rises alongside the ears.
+5. Arm extended, shoulder stable.
+6. Slowly lower, return to shoulder.
+7. Repeat.
+
+### 3. 肩推的要點
+
+| 要點 | 說明 |
+|------|------|
+| 肩膀穩定 | 不要耸肩，肩膀下沉 |
+| 核心繃緊 | 保護脊椎 |
+| 肘部穩定 | 不要搖晃 |
+| 呼吸 | 起身呼氣，放下吸氣 |
+| 手腕中立 | 避免過伸 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Shoulder stable | Don't shrug, shoulder down |
+| Core braced | Protect the spine |
+| Elbow stable | No shaking |
+| Breathing | Exhale on up, inhale on down |
+| Wrist neutral | Avoid hyperextension |
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 耸肩 | 肩膀下沉，核心繃緊 |
+| 手腕過伸 | 手腕中立 |
+| 躯幹前傾 | 保持中立 |
+| 呼吸停頓 | 保持呼吸 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Shrugging | Shoulder down, core braced |
+| Wrist hyperextension | Wrist neutral |
+| Torso leaning | Keep neutral |
+| Breath-holding | Breathe continuously |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 肩推與推舉的差異
+
+| 項目 | 肩推（Press） | 推舉（Push Press） |
+|------|--------------|-------------------|
+| 發力來源 | 手臂、肩部 | 髖伸展 + 手臂 |
+| 動態 | 穩定、控制 | 較快、爆發 |
+| 對髖部要求 | 低 | 高 |
+| 適合人群 | 肩部力量、控制 | 體能、爆發 |
+
+**English**：| Item | Press | Push Press |
+|------|-------|------------|
+| Power source | Arms, shoulders | Hip extension + arms |
+| Dynamic | Stable, controlled | Faster, explosive |
+| Hip demand | Low | High |
+| Suitable | Shoulder strength, control | Conditioning, power |
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：三角肌（前部、側部）、肱三頭肌。
+- 穩定肌：竿樣肌、腹橫肌、腹斜肌。
+- 輔助肌：胸肌、上背肌。
+
+**English**：
+- Prime movers: deltoids (anterior, lateral), triceps.
+- Stabilizers: erector spinae, transversus abdominis, obliques.
+- Assistants: chest, upper back muscles.
+
+### 2.3 公式
+
+- 肩推的力：\(F = m \times g\)。
+- 力臂：\(d\)，從關節軸到力的作用線。
+- 力矩：\(τ = F \times d\)。
+
+**English**：
+- Press force: \(F = m \times g\).
+- Moment arm: \(d\), from joint axis to line of force.
+- Torque: \(τ = F \times d\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 無重肩推 | 感受軌道 |
+| 2 | 8–12 kg 肩推 | 掌握穩定 |
+| 3 | 12–16 kg | 漸進 |
+| 4 | 單手肩推 | 精細控制 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | No-weight press | Feel trajectory |
+| 2 | 8–12 kg press | Master stability |
+| 3 | 12–16 kg | Progression |
+| 4 | Single-arm press | Fine control |
+
+### 3.2 肩推流程
+
+1. 站立，持壺鈴於肩前。
+2. 核心繃緊。
+3. 爆發上升，手臂伸直。
+4. 頂端，肩部穩定。
+5. 緩慢放下。
+6. 3 組 × 8–12 次。
+
+**English**：
+1. Stand, bell at shoulder.
+2. Core braced.
+3. Explosively rise, arm extended.
+4. Top, shoulder stable.
+5. Slowly lower.
+6. 3 sets × 8–12.
+
+### 3.3 呼吸與穩定
+
+- 起身時：呼氣。
+- 放下時：吸氣。
+- 核心繃緊，穩定。
+
+**English**：
+- On up: exhale.
+- On down: inhale.
+- Core braced, stable.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出肩推與推舉的兩個差異。
+2. 說出肩推的主動肌與穩定肌。
+3. 完成 3 組 × 8 次「無重肩推」。
+4. 描述肩膀穩定的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 肩膀不耸起，核心繃緊。
+- 手腕中立，手臂穩定。
+- 呼吸連續。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「雙手肩推」，3 組 × 8–12 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出肩推的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體肩推示意：標記肩部、肘部、脊柱。
+- 動作路徑：從肩前到過頭。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Press" — 查找「kettlebell press」。
+- 中文：各大運動頻道「壺鈴肩推」。
+- 推薦關鍵字：`kettlebell press`, `military press`, `shoulder press`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Press》基礎課程。

@@ -1,0 +1,202 @@
+# 04 解剖與運動學基礎
+
+## 解剖與運動學基礎（Anatomy & Kinesiology Basics）
+
+### 1. 影像學基礎
+
+**中文**：了解身體主要結構與動作關係，能幫助你正確執行壺鈴訓練。這裡只介紹與壺鈴訓練最相關的部位。
+
+**English**：Understanding the main body structures and their relationship to movement helps you perform kettlebell training correctly. Here we introduce only the most relevant areas for kettlebell training.
+
+### 2. 與壺鈴訓練相關的解剖構造
+
+| 部位 | 主要肌群 | 功能 | 於壺鈴訓練中的角色 |
+|------|----------|------|-------------------|
+| 髖關節 | 臀大肌、股二頭肌、竿樣肌、骶多裂肌 | 髖伸展、髖屈曲、骨盆穩定 | 擺盪、硬舉、上搏等髖伸展動作的核心 |
+| 膝關節 | 股四頭肌、伏臀肌 | 膝伸展、膝屈曲 | 深蹲、蹲起、硬舉等 |
+| 脊柱 | 竿樣肌、腹直肌、腹橫肌、腹斜肌 | 脊柱伸展、屈曲、旋轉、穩定 | 保持中立、核心剛性 |
+| 肩關節 | 三角肌、背闊肌、背上肌、肩袖 | 舉、推、旋轉、穩定 | 肩推、上搏、抓舉 |
+| 腕關節 | 橈骨、尺骨、前臂肌群 | 腕伸展、屈曲 | 握持壺鈴、保持中立 |
+| 骨盆 | 腹橫肌、骨盆底肌、竿樣肌 | 骨盆穩定、核心壓力 | 核心穩定、IAP 運用 |
+| 息肉 | 橫膈、腹內斜肌、腹橫肌、骨盆底 | 呼吸、核心壓力 | 呼吸發力、IAP |
+
+**English**：| Region | Main muscles | Function | Role in kettlebell training |
+|------|--------------|----------|------------------------------|
+| Hip joint | Glutes, hamstrings, adductors, erector spinae | Hip extension, hip flexion, pelvic stability | Core of hip-extension movements: swings, deadlifts, cleans |
+| Knee joint | Quadriceps, hamstrings | Knee extension, flexion | Squats, hinges, deadlifts |
+| Spine | Erector spinae, rectus abdominis, transverse abdominis, obliques | Extension, flexion, rotation, stability | Neutral spine, core rigidity |
+| Shoulder | Deltoids, latissimus dorsi, rotator cuff | Elevation, press, rotation, stability | Press, clean, snatch |
+| Wrist | Radius, ulna, forearm muscles | Wrist extension, flexion | Gripping the bell, neutral alignment |
+| Pelvis | Transverse abdominis, pelvic floor, erector spinae | Pelvic stability, core pressure | Core stability, IAP |
+| Diaphragm | Diaphragm, internal oblique, transverse abdominis, pelvic floor | Breathing, core pressure | Breathing & bracing, IAP |
+
+### 3. 關鍵運動學概念
+
+**中文**：
+- **髖關節槍開（Hip Hinge）**：髖點前後移動，腿主要是支撐，非主動屈膝。表現為臀後推、背部平直。
+- **中立脊柱（Neutral Spine）**：脊柱保持自然曲線，不彎曲、不過伸。
+- **核心穩定（Core Stability）**：脊椎與骨盆在負荷下保持相對固定的能力。
+- **IAP（Intra-Abdominal Pressure）**：腹內壓，呼吸與核心繃緊產生的穩定機制。
+
+**English**：
+- **Hip Hinge**: hip joint moves forward and backward; legs are mostly supportive, not actively bending. Appearance: hips push back, back straight.
+- **Neutral Spine**: spine maintains natural curves, not bent or hyperextended.
+- **Core Stability**: ability to maintain relative stability of the spine and pelvis under load.
+- **IAP (Intra-Abdominal Pressure)**: stability mechanism produced by breathing and core bracing.
+
+### 4. 肌群的角色：主動 vs 穩定
+
+**中文**：
+- **主動（Prime Mover）**：主要產生動作的肌群。
+  例如：擺盪中，臀大肌與股二頭肌是主動。
+- **穩定（Stabilizer）**：控制關節位置、保持中立，幫助主動肌群高效運作。
+  例如：擺盪中，核心與竿樣肌是穩定。
+
+**English**：
+- **Prime Mover**: the main muscle group producing movement.
+  Example: in the swing, glutes and hamstrings are prime movers.
+- **Stabilizer**: controls joint position, maintains neutral alignment, helps prime movers work efficiently.
+  Example: in the swing, core and erector spinae are stabilizers.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 骨骼與肌肉的關係
+
+**中文**：肌肉附著於骨骼，透過收縮產生張力，帶動關節運動。
+壺鈴訓練中，動作起點與終點的分析：
+- 擺盪：起點於髖，終點於肩（三角肌與核心）。
+- 硬舉：起點於地面，終點於站立。
+- 抓舉：起點於近膝，終點於過頭。
+
+**English**：Muscles attach to the skeleton and produce tension through contraction, moving the joints.
+In kettlebell training, analyze movement origin and destination:
+- Swing: origin at the hip, destination at the shoulder (deltoid & core).
+- Deadlift: origin at the ground, destination at standing.
+- Snatch: origin below the knee, destination overhead.
+
+### 2.2 關節的運動方向
+
+**中文**：
+- 髋關節：屈曲、伸展、外展、内收、旋轉。
+- 膝關節：屈曲、伸展。
+- 脊柱：屈曲、伸展、側彎、旋轉。
+- 肩關節：屈曲、伸展、外展、外旋、内旋。
+
+**English**：
+- Hip: flexion, extension, abduction, adduction, rotation.
+- Knee: flexion, extension.
+- Spine: flexion, extension, lateral bending, rotation.
+- Shoulder: flexion, extension, abduction, external rotation, internal rotation.
+
+### 2.3 常用符號
+
+- 髋弯角度：\(θ_{hip}\)（度或弧度）。
+- 腰椎壓力（簡化）：\(σ = \frac{F}{A}\)，力除以面積。
+- 核心張力：\(T\)（N·m），與力臂與力成正比。
+- 力臂：\(d\)，從關節軸到力的作用線。
+
+**English**：
+- Hip angle: \(θ_{hip}\) (degrees or radians).
+- Lumbar pressure (simplified): \(σ = \frac{F}{A}\).
+- Core tension: \(T\) (N·m), proportional to force and moment arm.
+- Moment arm: \(d\), distance from joint axis to line of force.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 認識自己的身體
+
+1. 站立，雙手自然下垂，觀察：
+   - 脊柱是否有自然曲線。
+   - 骨盆是否中立。
+   - 肩膀是否發出（rounding）。
+2. 做一次「無重髖關節槍開」：
+   - 注意：臀後推時，背部是否維持平直。
+   - 注意：膝蓋是否內扣。
+3. 記錄感覺：哪個部位有觸感？哪個部位緊張？
+
+**English**：
+1. Stand with hands naturally at sides, observe:
+   - Is the spine neutral?
+   - Is the pelvis neutral?
+   - Are the shoulders rounding?
+2. Perform a "no-weight hip hinge":
+   - Note: as hips push back, is the back straight?
+   - Note: do the knees cave inward?
+3. Record sensations: which areas feel active? which tense?
+
+### 3.2 核心穩定的自我檢查
+
+| 檢查項目 | 正確 | 錯誤 |
+|----------|------|------|
+| 腹式呼吸 | 肚子擴張，不只是胸部 | 肩膀抬起 |
+| 繃緊核心 | 整個腹部緊緻，像即將被擊中 | 只收腹 |
+| 骨盆中立 | 坐骨穩定，不前傾不後傾 | 骨盆過度前傾或後傾 |
+
+**English**：| Check | Correct | Incorrect |
+|------|---------|-----------|
+| Diaphragmatic breathing | Belly expands, not just chest | Shoulders rise |
+| Core bracing | Entire abdomen tight, like about to be hit | Only pulling belly in |
+| Pelvic neutral | Sit bones stable, not tilted | Pelvis tilted too far forward/backward |
+
+### 3.3 馬賽克（Mobility）練習
+
+- 坐骨觸地：坐下，兩腿打開，感受坐骨是否接觸地面。
+- 脊椎旋轉：坐姿、雙手抱膝，輕輕旋轉脊椎。
+- 肩胛圍圈：肩膀向後圍圈，感受肩胛穩定。
+- 踝關節活動：上下勾腳，每次 10 次。
+
+**English**：
+- Sit bones to ground: sit with legs open, feel sit bones contact the floor.
+- Spinal rotation: seated, hug knees, gently rotate spine.
+- Scapular circles: shoulders back and around, feel scapular stability.
+- Ankle mobility: dorsiflex and plantarflex 10 times each.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出與壺鈴訓練最相關的 5 個肌群。
+2. 描述「髖關節槍開」的動作路徑（起點與終點）。
+3. 用自己的話說明 IAP（腹內壓）是如何穩定脊椎的。
+4. 完成一次「無重髖關節槍開」，描述感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 能說出主動肌與穩定肌的差異。
+- 能在鏡中識別中立脊柱。
+- 能描述骨盆與脊柱的關係。
+
+### 4.3 能力測試（Competency test）
+
+- 完成 3 組 × 10 次「無重髖關節槍開」，不出現：
+  - 背部彎曲。
+  - 膝蓋內扣。
+  - 脊柱過度前傾或後傾。
+- 能示範一種「圈肋」（rib cage）呼吸。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體骨骼示意：標記髖、膝、脊柱、肩、腕。
+- 肌群示意：標記臀大肌、股二頭肌、竿樣肌、腹直肌、腹橫肌、肩三角肌。
+- 動作路徑示意：擺盪、硬舉、抓舉。
+
+### 5.2 影片參考
+
+- 英文："Anatomy for Kettlebell Training" — 查找「kettlebell anatomy」。
+- 中文：各大運動頻道「人體解剖與壺鈴訓練」。
+- 推薦關鍵字：`kettlebell anatomy`, `hip hinge anatomy`, `core stability anatomy`.
+
+### 5.3 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 解剖學教科書（中文版）。

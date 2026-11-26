@@ -1,0 +1,185 @@
+# 05 髖關節槍開（Hip Hinge）
+
+## 髖關節槍開（Hip Hinge）
+
+### 1. 髖關節槍開是什麼
+
+**中文**：髖關節槍開（Hip Hinge）是一種「髖點前後移動」的動作。
+並非蹲下，而是像要把椅子從後面撿起一樣，把臀部往後推，脊柱保持中立。
+這是壺鈴訓練中最重要的基礎動作之一，幾乎所有複合動作都建立在它之上。
+
+**English**：The hip hinge is a "hip joint forward-backward movement." It is not squatting; it is like picking up a chair from behind, pushing the hips back while keeping the spine neutral.
+It is one of the most important fundamental movements in kettlebell training, and almost all compound movements build upon it.
+
+### 2. 髖關節槍開與蹲（Squat）的差異
+
+| 項目 | 髖關節槍開（Hinge） | 深蹲（Squat） |
+|------|---------------------|---------------|
+| 主要移動 | 髖點後退 | 膝蓋前進、髋屈曲 |
+| 背部 | 保持平直 | 可能因蹲深度而前傾 |
+| 主要肌群 | 臀大肌、股二頭肌、竿樣肌 | 股四頭肌、臀大肌 |
+| 膝蓋 | 微屈，位置不變多 | 遠離腳尖進展 |
+| 感覺 | 背後及廣大肌群 | 前腿與大腿 |
+
+**English**：| Item | Hip Hinge | Deep Squat |
+|------|-----------|--------------|
+| Main movement | Hip moves backward | Knees advance, hip flexion |
+| Back | Keeps straight | May lean forward with depth |
+| Main muscles | Glutes, hamstrings, erector spinae | Quadriceps, glutes |
+| Knees | Slightly bent, little change | Move forward beyond toes |
+| Sensation | Tightness in the back of the leg | Front thigh & glute |
+
+### 3. 髖關節槍開的關鍵要素
+
+**中文**：
+1. 站立，雙腳與肩同寬。
+2. 膝蓋輕微彎曲，勿過度屈曲。
+3. 髖部向後推，像坐在後方的椅子。
+4. 躯幹柔軟前傾，脊柱保持中立。
+5. 手臂自然下垂，視情況握壺鈴。
+6. 通過臀部收縮站起。
+
+**English**：
+1. Stand with feet shoulder-width apart.
+2. Bend the knees slightly, do not overflex.
+3. Push the hips back, as if sitting on a chair behind you.
+4. Torso leans forward, spine stays neutral.
+5. Arms hang naturally, grip the bell if needed.
+6. Stand up by squeezing the glutes.
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 弓背（rounding back） | 更多地向後推髖部，減少前傾。 |
+| 膝蓋過度前進 | 減少膝蓋移動，更多向後推髖。 |
+| 膝蓋內扣 | 加強核心與臀部安定，向外推膝。 |
+| 背部受力 | 激活臀部，減少背部。 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Rounding back | Push hips back more, reduce forward lean. |
+| Knees too far forward | Reduce knee movement, push hips back more. |
+| Knees caving in | Strengthen core and glutes, push knees out. |
+| Back strain | Activate glutes, reduce back load. |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 運動學口訣
+
+- 髖關節槍開是「髖點前後移動」而非「膝蓋前進」。
+- 語言提示：「向後坐」或「像撿筆」。
+- 所有壺鈴動作的「起火站」（engine）位於髖。
+- 背部是「管家」而非「發動機」—— 保持中立，穩定即可。
+
+**English**：
+- The hip hinge is "hip joint forward-backward movement" not "knee forward."
+- Language cues: "sit back" or "pick up a pen."
+- The "engine" of all kettlebell movements is the hips.
+- The back is a "caretaker" not an "engine" — keep neutral and stable.
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：臀大肌、股二頭肌、竿樣肌。
+- 穩定肌：竿樣肌、腹橫肌、腹斜肌、骨盆底。
+- 輔助肌：竿樣肌、髂腰肌。
+
+**English**：
+- Prime movers: glutes, hamstrings, erector spinae.
+- Stabilizers: erector spinae, transverse abdominis, obliques, pelvic floor.
+- Assistants: hamstrings, iliopsoas.
+
+### 2.3 公式：髋弯角度
+
+- 髋關節的屈曲角度可用 \(θ_{hip}\) 描述。
+- 健康的髖關節槍開，髋點後退，脊柱中立，\(θ_{hip}\) 適中。
+- 若 \(θ_{hip}\) 過小（過度屈曲），可能增加膝蓋壓力。
+- 若 \(θ_{hip}\) 過大（過度前傾），可能增加腰壓力。
+
+**English**：
+- Hip flexion angle can be described by \(θ_{hip}\).
+- A healthy hip hinge: hips move back, spine neutral, \(θ_{hip}\) moderate.
+- If \(θ_{hip}\) too small (excessive flexion), may increase knee stress.
+- If \(θ_{hip}\) too large (excessive anterior tilt), may increase lumbar stress.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 無重髖關節槍開練習
+
+1. 站立，雙腳與肩同寬。
+2. 雙手握空腹（或無重量杲）。
+3. 髖部後推，像坐在後方的椅子。
+4. 維持背部平直。
+5. 站起，臀部收縮。
+
+**English**：
+1. Stand with feet shoulder-width apart.
+2. Hold an empty bell (or no weight bar).
+3. Push hips back, like sitting on a chair behind you.
+4. Keep the back straight.
+5. Stand up, squeeze the glutes.
+
+### 3.2 墊臀練習
+
+- 墊靠墊：靠墊高處坐，練習髖後推。
+- 壁肩槍（Wall Hinge）：側身靠墙，練習髖後推與脊柱中立。
+- 點滴（Wall Hinge Taps）：靠墙，屆時、臀部觸碰墻面，保留脊柱中立。
+
+**English**：
+- Wall Hinge: stand side-to-wall, practice hip push-back and neutral spine.
+- Wall Hinge Taps: wall, when butt touches the wall, maintain neutral spine.
+
+### 3.3 加重練習（進階）
+
+- 輕重量壺鈴：單手或雙手擺放。
+- 硬式風格：注重爆發。
+- 俄式風格：注重流暢。
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出髖關節槍開與深蹲的兩個差異。
+2. 說出髖關節槍開的主動肌與穩定肌。
+3. 完成 3 組 × 10 次「無重髖關節槍開」。
+4. 描述自己剛開始練習時的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 骨盆中立，脊柱不彎曲。
+- 臀部後推時，背部保持平直。
+- 膝蓋未內扣。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–12 kg 壺鈴完成「雙手擺放」，3 組 × 10 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出髖關節槍開的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體髖關節槍開示意：標記髖點、脊柱、臀部、膝蓋。
+- 動作路徑：從起跑到站立，髖前後移動。
+
+### 5.2 影片參考
+
+- 英文："Hip Hinge for Beginners" — 查找「kettlebell hip hinge」。
+- 中文：各大運動頻道「髖關節槍開」。
+- 推薦關鍵字：`kettlebell hip hinge`, `deadlift form`, `hip hinge vs squat`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Hip Hinge》基礎課程。

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>10 壺鈴擺盪</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>10 壺鈴擺盪（Kettlebell Swing）</h1>
+    <div class="meta">章節 10｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../03_基礎動作/09_壺鈴硬舉.html">← 上一節：09 壺鈴硬舉</a>
+  <a class="jump-next" href="../03_基礎動作/11_壺鈴抓舉_上搏.html">下一節：11 壺鈴抓舉/上搏 →</a>
+</div>
+
+<h2 id="1">1. 擺盪是什麼</h2>
+<p><span class="section-label">概念</span><strong>擺盪是什麼</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>擺盪（Swing）是一種「彈跳髖伸展」的動作。
+壺鈴從雙腳之間向後擺動，髖部後推後，利用臀部與大腿後側的爆發力，將壺鈴擺向肩部或胸部。
+擺盪不是「抬臂」，而是「髖伸展」—— 力量來源在臀部和大腿後側。</p>
+<p><span class="lang-label">English</span></p>
+<p>The swing is a "ballistic hip extension" movement.
+The bell swings backward from between the feet, then the hips push back and forward explosively using the glutes and hamstrings, swinging the bell to the shoulders or chest.
+The swing is not "lifting the arms"; it is "hip extension" — the power comes from the glutes and hamstrings.</p>
+
+<p><span class="section-label">概念</span><strong>擺盪的兩種風格</strong></p>
+<table>
+<thead><tr><th>項目</th><th>俄式（Girevoy / Russian）</th><th>硬式（Hardstyle）</th></tr></thead>
+<tbody>
+<tr><td>擺盪高度</td><td>接近肩部或胸部</td><td>眼睛或胸部高</td></tr>
+<tr><td>髋伸展</td><td>流暢、節奏</td><td>爆發、急促</td></tr>
+<tr><td>呼吸</td><td>連續</td><td>短促、爆發</td></tr>
+<tr><td>手臂</td><td>輕鬆、被動</td><td>稍微緊張</td></tr>
+<tr><td>重心</td><td>自然、流暢</td><td>快速、寬</td></tr>
+</tbody>
+</table>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 擺盪的機械學</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>擺盪可近似為「彈性旋轉」（ballistic rotation）：
+- 初始擺動：重力與髋屈曲。
+- 擺盪過程：重力與彈性能量的轉換。
+- 頂端：動能轉化為位能。
+- 下擺：彈性能量回收。</p>
+<p><span class="lang-label">English</span></p>
+<p>The swing can be approximated as a "ballistic rotation":
+- Initial swing: gravity and hip flexion.
+- Swinging process: conversion of gravitational and elastic energy.
+- Top: kinetic energy converts to potential energy.
+- Down-swing: elastic energy recovery.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 擺盪與硬舉的差異</strong></p>
+<table>
+<thead><tr><th>項目</th><th>擺盪</th><th>硬舉</th></tr></thead>
+<tbody>
+<tr><td>動態</td><td>彈跳、爆發</td><td>一次性、靜態</td></tr>
+<tr><td>重心</td><td>擺動</td><td>直線擡升</td></tr>
+<tr><td>目標</td><td>耐力、體能、協調</td><td>力量、結構</td></tr>
+<tr><td>心率</td><td>較高</td><td>較低</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">主題</span><strong>2.3 關鍵公式</strong></p>
+<p class="formula-block">\(θ_{swing}\)　擺盪角度（從起始到頂端）</p>
+<p class="formula-block">\(f\)　擺盪頻率（次數/時間，rep/s）</p>
+<p class="formula-block">\(% HR_{max}\) 或 HRR　心率區間</p>
+<p class="formula-block">\(W = \sum F \times d\)　總功（每次擺盪的功的總和）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 階段練習</strong></p>
+<table>
+<thead><tr><th>階段</th><th>內容</th><th>目標</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>無重擺放</td><td>感受重量</td></tr>
+<tr><td>2</td><td>8–12 kg 擺盪</td><td>掌握髖伸展</td></tr>
+<tr><td>3</td><td>12–16 kg</td><td>漸進</td></tr>
+<tr><td>4</td><td>連續擺盪</td><td>耐力與節奏</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.2 擺盪流程</strong></p>
+<ol>
+<li>站立，雙腳與肩同寬。</li>
+<li>髖部後推，髋屈。</li>
+<li>髖部爆發，向前推。</li>
+<li>壺鈴擺向肩部或胸部。</li>
+<li>頂端，臀部收縮。</li>
+<li>緩慢下擺。</li>
+<li>連續完成。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.3 擺盪的呼吸</strong></p>
+<ul>
+<li>下擺時：吸氣入肚。</li>
+<li>起身時：呼氣。</li>
+<li>保持連續，不要停頓。</li>
+</ul>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出擺盪與抓舉的兩個差異。</li>
+<li>說出擺盪的主動肌與穩定肌。</li>
+<li>完成 3 組 × 10 次「無重擺放」。</li>
+<li>描述擺盪中的呼吸。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>站立姿勢正確，雙腳跟穩定。</li>
+<li>脊柱中立，背部不弓。</li>
+<li>髖部推出，手臂不主導。</li>
+<li>呼吸連續。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能以 8–16 kg 壺鈴完成「雙手擺盪」，3 組 × 10 次。</li>
+<li>姿勢無明顯崩潰。</li>
+<li>能用自己的話說出擺盪的要點。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體擺盪示意：標記髖點、脊柱、臀部、肩膀。</li>
+<li>動作路徑：從起始到頂端再到下擺。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+swing" target="_blank">[英文] kettlebell swing</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E6%93%87%E5%86%B7" target="_blank">[中文] 壺鈴擺盪</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》。</li>
+<li>StrongFirst：《Swing》基礎課程。</li>
+</ul>
+
+<div class="footer">
+  10 壺鈴擺盪｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,192 @@
+# 18 負荷漸進原則
+
+## 負荷漸進原則（Progressive Overload）
+
+### 1. 為什麼需要漸進超負荷
+
+**中文**：身體對刺激的適應是訓練進步的核心。
+如果每次訓練都以同樣的方式進行，身體就沒有新的刺激，適應會停滯。
+漸進超負荷就是「隨著適應，逐漸增加刺激」—— 這是訓練進步的關鍵。
+
+**English**：The body's adaptation to stimulus is the core of training progression.
+If each training session is the same, the body receives no new stimulus, and adaptation plateaus.
+Progressive overload is "gradually increasing stimulus as adaptation occurs" — the key to training progression.
+
+### 2. 漸進超負荷的四種方式
+
+| 方式 | 說明 | 適用 |
+|------|------|------|
+| 重量（Weight） | 逐漸增加重量 | 力量、肌肉量 |
+| 次數（Reps） | 逐漸增加次數 | 耐力、肌肉量 |
+| 組數（Sets） | 逐漸增加組數 | 總量增加 |
+| 時間（Time） | 延長練習時間 | 耐力、體能 |
+
+**English**：| Method | Description | Application |
+|------|-------------|--------------|
+| Weight | Gradually increase weight | Strength, muscle mass |
+| Reps | Gradually increase reps | Endurance, muscle mass |
+| Sets | Gradually increase sets | Increase volume |
+| Time | Extend session time | Endurance, conditioning |
+
+### 3. 重載與開放
+
+**中文**：
+- **重載（Progression）**：逐漸增加負荷。
+- **開放（Deload）**：每 4–6 週安排一週，負荷降低 50%，讓身體回復。
+- **停滯（Plateau）**：長期無進步，檢查訓練與回復。
+
+**English**：
+- Progression: gradually increase load.
+- Deload: every 4–6 weeks, reduce load by 50% for 1 week, allow recovery.
+- Plateau: no progress for a long time, check training and recovery.
+
+### 4. 個人上限（1RM）與百分比
+
+**中文**：
+- 1RM：一次最大負荷。
+- 常用百分比：
+  - 60–70% 1RM：高次數，耐力（12–15 次）。
+  - 70–80% 1RM：中高次數，力量（8–12 次）。
+  - 80–90% 1RM：低次數，力量（1–6 次）。
+  - 90%+ 1RM：最大力量訓練。
+
+**English**：
+- 1RM: one-repetition maximum.
+- Common percentages:
+  - 60–70% 1RM: high reps, endurance (12–15 reps).
+  - 70–80% 1RM: medium-high reps, strength (8–12 reps).
+  - 80–90% 1RM: low reps, strength (1–6 reps).
+  - 90%+ 1RM: maximal strength training.
+
+### 5. 漸進超負荷的實際做法
+
+**中文**：
+1. 先以輕重量確立動作。
+2. 逐漸增加重量（每週 1–2 kg）。
+3. 當姿勢崩潰，減少重量或休息。
+4. 記錄每次訓練，追蹤進步。
+
+**English**：
+1. Start with light weight to establish the movement.
+2. Gradually increase weight (1–2 kg per week).
+3. If posture breaks, reduce weight or rest.
+4. Record each session, track progress.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 適應與超負荷的科學
+
+**中文**：身體對刺激的適應是「超恢復」（supercompensation）。
+- 刺激（訓練）→ 耗能 → 回復（缺乏）→ 超恢復（超越原有）→ 再刺激。
+- 若在超恢復前再次刺激，得到進步。
+- 若未達到，維持。
+- 若長期不刺激，退化（detraining）。
+
+**English**：The body's adaptation to stimulus is "supercompensation":
+- Stimulus (training) → energy consumed → recovery (deficit) → supercompensation (beyond original) → re-stimulus.
+- If re-stimulated before supercompensation, gains.
+- If not reached, maintain.
+- If no stimulus long, decline (detraining).
+
+### 2.2 漸進超負荷的三個原則
+
+**中文**：
+1. 順序漸進（orderly progression）：先擺脫姿勢，再增加重量。
+2. 質量優先（quality first）：姿勢正確，才能加重量。
+3. 個別差異（individual differences）：每個人的上限不同。
+
+**English**：
+1. Orderly progression: establish posture first, then increase weight.
+2. Quality first: correct posture, then add weight.
+3. Individual differences: everyone has different limits.
+
+### 2.3 公式
+
+- 總量：\(V = W \times R \times S\)，質量乘以次數乘以組數。
+- 負荷比例：\(% 1RM\)，1RM 的百分比。
+- 漸進負載：\(\Delta W = \frac{W_{new} - W_{old}}{W_{old}}\)。
+
+**English**：
+- Volume: \(V = W \times R \times S\).
+- Load percentage: \(%1RM\).
+- Progressive load: \(\Delta W = \frac{W_{new} - W_{old}}{W_{old}}\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 設計漸進負載
+
+**中文**：
+1. 選擇一個動作（例如：擺盪）。
+2. 起始重量：8–12 kg 女士，12–16 kg 男士。
+3. 每週增加 1–2 kg，或次數 +2。
+4. 每 4 週安排 1 週開放。
+5. 記錄每次訓練。
+
+**English**：
+1. Choose one movement (e.g., swing).
+2. Starting weight: women 8–12 kg, men 12–16 kg.
+3. Increase weight by 1–2 kg per week, or +2 reps.
+4. Every 4 weeks, schedule 1 deload week.
+5. Record each session.
+
+### 3.2 負荷表範例
+
+| 週數 | 重量（kg） | 次數 | 組數 | 開放週 |
+|------|------------|------|------|--------|
+| 1 | 10 | 10 | 3 | — |
+| 2 | 12 | 10 | 3 | — |
+| 3 | 12 | 12 | 3 | — |
+| 4 | 14 | 10 | 3 | 開放 |
+| 5 | 14 | 10 | 3 | — |
+| 6 | 16 | 10 | 3 | — |
+
+**English**：| Week | Weight (kg) | Reps | Sets | Deload |
+|------|-------------|------|------|--------|
+| 1 | 10 | 10 | 3 | — |
+| 2 | 12 | 10 | 3 | — |
+| 3 | 12 | 12 | 3 | — |
+| 4 | 14 | 10 | 3 | Deload |
+| 5 | 14 | 10 | 3 | — |
+| 6 | 16 | 10 | 3 | — |
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 寫下自己的 4 週漸進負載表。
+2. 說出漸進超負荷的三種方式。
+3. 說出開放（deload）的目的。
+4. 計算自己的 1RM 與百分比。
+
+### 4.2 自我檢查（Self-check）
+
+- 能用自己的話說出漸進超負荷。
+- 能寫出自己的負荷表。
+- 能說出開放的意義。
+
+### 4.3 能力測試（Competency test）
+
+- 完成一張「個人漸進負載表」。
+- 能說出下一週要增加什麼。
+- 能描述開放週的安排。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 影片參考
+
+- 英文："Progressive Overload" — 查找「progressive overload strength training」。
+- 中文：各大運動頻道「漸進超負荷」。
+- 推薦關鍵字：`progressive overload`, `periodization`.
+
+### 5.2 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 郵件課程：《Set your goals, choose your plan》。

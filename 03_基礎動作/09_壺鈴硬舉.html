@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>09 壺鈴硬舉</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>09 壺鈴硬舉（Deadlift）</h1>
+    <div class="meta">章節 09｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../02_動作基礎/08_握持與關節保護.html">← 上一節：08 握持與關節保護</a>
+  <a class="jump-next" href="../03_基礎動作/10_壺鈴擺盪.html">下一節：10 壺鈴擺盪 →</a>
+</div>
+
+<h2 id="1">1. 硬舉是什麼</h2>
+<p><span class="section-label">概念</span><strong>硬舉是什麼</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>硬舉是一種「從地面到站立」的直線擡升動作，主要訓練後鏵鏈（臀大肌、股二頭肌、竿樣肌）與核心。
+在壺鈴訓練中，硬舉是最基本的力量動作，所有上搏、擺盪、大纜等動作都基於硬舉的力量。</p>
+<p><span class="lang-label">English</span></p>
+<p>The deadlift is a "ground-to-standing straight lift" that primarily trains the posterior chain (glutes, hamstrings, erector spinae) and core.
+In kettlebell training, the deadlift is the most fundamental strength movement, and all clean, swing, and carry movements are based on its strength.</p>
+
+<p><span class="section-label">概念</span><strong>硬式（Hardstyle）與俄式（Girevoy）的硬舉差異</strong></p>
+<table>
+<thead><tr><th>項目</th><th>硬式（Hardstyle）</th><th>俄式（Girevoy）</th></tr></thead>
+<tbody>
+<tr><td>重點</td><td>爆發性髖伸展、核心剛性</td><td>流暢、穩定、控制</td></tr>
+<tr><td>呼吸</td><td>短促、快速、爆發性</td><td>連續、呼吸與動作同步</td></tr>
+<tr><td>速度</td><td>快、急促</td><td>稍慢、節奏感</td></tr>
+<tr><td>最終姿勢</td><td>脊柱中立、臀部收縮</td><td>自然、流暢</td></tr>
+</tbody>
+</table>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 硬舉與髖關節槍開的關聯</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>硬舉基礎於髖關節槍開。
+硬舉是「槍開的垂直化」—— 髖點後退的同時，真正移動了重量。
+在擺盪中，髖伸展的彈性能量被產生；在硬舉中，這種力量被轉化為直線擡升。</p>
+<p><span class="lang-label">English</span></p>
+<p>The deadlift builds on the hip hinge.
+The deadlift is the "verticalization of the hinge" — while the hip moves back, the weight actually moves.
+In the swing, the elastic energy of hip extension is generated; in the deadlift, this force is converted into a straight lift.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 肌群參與</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>主動肌：臀大肌、股二頭肌、竿樣肌、腹橫肌。
+穩定肌：竿樣肌、腹斜肌、骨盆底。
+輔助肌：竿樣肌、臀中肌。</p>
+<p><span class="lang-label">English</span></p>
+<p>Prime movers: glutes, hamstrings, erector spinae, transverse abdominis.
+Stabilizers: erector spinae, obliques, pelvic floor.
+Assistants: hamstrings, gluteus medius.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(F = m \times g\)　引力（質量 × 重力加速度）</p>
+<p class="formula-block">\(W = F \times d\)　做功（力 × 距離）</p>
+<p class="formula-block">\(P = \frac{W}{t}\)　輸出功率（功 ÷ 時間）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 階段練習</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>零基礎者建議分階段練習：</p>
+<table>
+<thead><tr><th>階段</th><th>內容</th><th>目標</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>無重髖關節槍開</td><td>姿勢正確</td></tr>
+<tr><td>2</td><td>輕重量壺鈴無重擺放</td><td>感受重量</td></tr>
+<tr><td>3</td><td>8–12 kg 硬起</td><td>掌握坐緊</td></tr>
+<tr><td>4</td><td>12–16 kg</td><td>漸進</td></tr>
+</tbody>
+</table>
+<p><span class="lang-label">English</span></p>
+<p>Beginners are recommended to practice in stages:</p>
+<table>
+<thead><tr><th>Stage</th><th>Content</th><th>Goal</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>No-weight hip hinge</td><td>Correct posture</td></tr>
+<tr><td>2</td><td>Light kettlebell no-weight swing</td><td>Feel the weight</td></tr>
+<tr><td>3</td><td>8–12 kg deadlift</td><td>Master the squat</td></tr>
+<tr><td>4</td><td>12–16 kg</td><td>Progression</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.2 硬舉流程</strong></p>
+<ol>
+<li>站立，壺鈴置於雙腳前方。</li>
+<li>膝蓋微屈，髖部後推。</li>
+<li>身體前傾，握壺鈴。</li>
+<li>爆發站起，臀部收縮。</li>
+<li>緩慢放下。</li>
+<li>3 組 × 10 次。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.3 硬式與俄式風格</strong></p>
+<table>
+<thead><tr><th>風格</th><th>動作</th><th>重點</th></tr></thead>
+<tbody>
+<tr><td>硬式</td><td>快、爆發</td><td>髖伸展、核心剛性</td></tr>
+<tr><td>俄式</td><td>慢、連續</td><td>控制、呼吸連續</td></tr>
+</tbody>
+</table>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出硬舉與擺盪的兩個差異。</li>
+<li>說出硬舉的主動肌與穩定肌。</li>
+<li>完成 3 組 × 10 次「硬起練習」。</li>
+<li>描述自己練習硬舉的感覺。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>站立姿勢正確，雙腳跟穩定。</li>
+<li>脊柱中立，背部不弓。</li>
+<li>膝蓋不過度前進。</li>
+<li>核心繃緊。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能以 8–16 kg 壺鈴完成「硬起」，3 組 × 10 次。</li>
+<li>姿勢無明顯崩潰。</li>
+<li>能用自己的話說出硬舉的要點。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體硬起示意：標記髖點、脊柱、臀部、膝蓋。</li>
+<li>動作路徑：從地面到站立。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+deadlift" target="_blank">[英文] kettlebell deadlift</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E7%A1%AC%E4%BD%9C" target="_blank">[中文] 壺鈴硬舉</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》。</li>
+<li>StrongFirst：《Deadlift》基礎課程。</li>
+</ul>
+
+<div class="footer">
+  09 壺鈴硬舉｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

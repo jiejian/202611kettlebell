@@ -1,0 +1,214 @@
+# 26 每週四次體能方案
+
+## 每週四次體能方案（Four-Day Conditioning Program）
+
+### 1. 每週四次體能方案的目標
+
+**中文**：每週四次體能方案是一個 4 週的體能訓練方案，目標是：
+- 增強心肺耐力（cardiovascular endurance）。
+- 提高肌肉耐力與核心穩定。
+- 建立完整的體能訓練習慣。
+- 在第 4 週結束時，能完成完整的體能循環。
+
+**English**：The four-day conditioning program is a 4-week conditioning training program to:
+- Improve cardiovascular endurance.
+- Increase muscle endurance and core stability.
+- Establish a complete conditioning training habit.
+- After week 4, complete a full conditioning circuit.
+
+### 2. 週四次體能訓練安排
+
+| 週 | 星期一 | 星期二 | 星期三 | 星期四 |
+|----|--------|--------|--------|--------|
+| 1 | 上半身力量 | 體能循環 | 下半身力量 | 拉伸與休息 |
+| 2 | 擺盪與硬舉 | 核心穩定 | 上搏與深蹲 | 拉伸與休息 |
+| 3 | 肩推與抓舉 | 組合訓練 | 擺盪與上搏 | 拉伸與休息 |
+| 4 | 農夫走路 | 壺鈴HIIT | 完整循環 | 拉伸與休息 |
+
+**English**：| Week | Mon | Tue | Wed | Thu |
+|------|-------|------|-----|-----|
+| 1 | Upper strength | Conditioning circuit | Lower strength | Stretch & rest |
+| 2 | Swing & deadlift | Core stability | Clean & goblet squat | Stretch & rest |
+| 3 | Press & snatch | Circuit training | Swing & clean | Stretch & rest |
+| 4 | Farmer's walk | Kettlebell HIIT | Full circuit | Stretch & rest |
+
+### 3. 每天的訓練內容
+
+**中文**：
+- **上半身力量**：肩推、推舉、抓舉（雙手）。
+- **體能循環**：擺盪、上搏、深蹲、農夫走路，循環 4 組。
+- **下半身力量**：硬起、深蹲、擺盪。
+- **核心穩定**：農夫走路、核心繃緊、呼吸練習。
+- **組合訓練**：上搏、擺盪、抓舉、肩推，循環。
+- **壺鈴HIIT**：30 秒高強度擺盪 + 30 秒休息，8 組。
+- **完整循環**：上半身 → 下半身 → 核心 → 放鬆。
+
+**English**：
+- **Upper strength**: press, clean, snatch (both hands).
+- **Conditioning circuit**: swing, clean, goblet squat, farmer's walk, 4 rounds.
+- **Lower strength**: deadlift, goblet squat, swing.
+- **Core stability**: farmer's walk, core bracing, breathing.
+- **Circuit training**: clean, swing, snatch, press, circuit.
+- **Kettlebell HIIT**: 30 sec high-intensity swing + 30 sec rest, 8 rounds.
+- **Full circuit**: upper → lower → core → cool-down.
+
+### 4. 每週四次體能方案的進階
+
+**中文**：
+- 第 5 週開始：加入 10–15 分鐘的有氧。
+- 每週 4 次的完整體能方案。
+- 每 2 週增加 1 組或 1 分鐘。
+- 開始設計個人體能計畫。
+
+**English**：
+- From Week 5: add 10–15 min cardio.
+- Full 4-times-per-week conditioning program.
+- Add 1 set or 1 minute every 2 weeks.
+- Start designing a personal conditioning plan.
+
+### 5. 注意事項
+
+- 每次訓練以熱身開始。
+- 每次訓練以放鬆結束。
+- 重量以「姿勢正確」為準。
+- 若有疼痛，立即停止。
+- 記錄每次訓練。
+
+**English**：
+- Warm up at the start of each session.
+- Cool down at the end of each session.
+- Weight based on "correct posture."
+- Stop immediately if pain occurs.
+- Record each session.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 體能訓練的要素
+
+**中文**：
+- 心肺耐力（cardiorespiratory endurance）。
+- 肌肉耐力（muscle endurance）。
+- 核心穩定（core stability）。
+- 柔韌度（mobility）。
+- 爆發力（power）。
+
+**English**：
+- Cardiorespiratory endurance.
+- Muscle endurance.
+- Core stability.
+- Mobility.
+- Power.
+
+### 2.2 週訓練安排的原理
+
+**中文**：
+- 訓練刺激與回復的平衡。
+- 每週至少 1–2 天休息。
+- 避免連續多天高強度。
+- 漸進超負荷。
+
+**English**：
+- Balance of training stimulus and recovery.
+- At least 1–2 rest days per week.
+- Avoid consecutive high-intensity days.
+- Progressive overload.
+
+### 2.3 公式
+
+- 體能循環總量：\(V = \sum (W \times R \times S)\)。
+- 心肺耐力：\(HR_{max}\)、\(VO_2max\)。
+- 回復週：\(\Delta = 0.5 \times V\)。
+
+**English**：
+- Conditioning volume: \(V = \sum (W \times R \times S)\).
+- Cardio endurance: \(HR_{max}\), \(VO_2max\).
+- Recovery week: \(\Delta = 0.5 \times V\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 每天的訓練流程
+
+**中文**：
+1. 熱身 5–10 分鐘。
+2. 力量或體能練習 20–30 分鐘。
+3. 放鬆 5–10 分鐘。
+4. 記錄感受。
+
+**English**：
+1. Warm-up 5–10 min.
+2. Strength or conditioning 20–30 min.
+3. Cool-down 5–10 min.
+4. Record feelings.
+
+### 3.2 每週四次的具體方案
+
+| 週 | 星期一 | 星期二 | 星期三 | 星期四 |
+|----|--------|--------|--------|--------|
+| 1 | 肩推 3 組 × 8 次 | 擺盪 3 組 × 10 次 | 硬起 3 組 × 10 次 | 拉伸與休息 |
+| 2 | 抓舉 3 組 × 8 次 | 核心穩定 4 組 × 30 秒 | 深蹲 3 組 × 10 次 | 拉伸與休息 |
+| 3 | 擺盪 3 組 × 10 次 | 組合 4 組 × 30 秒 | 上搏 3 組 × 8 次 | 拉伸與休息 |
+| 4 | 農夫走路 3 組 × 20 米 | 壺鈴HIIT 8 組 | 完整循環 4 組 | 拉伸與休息 |
+
+**English**：| Week | Mon | Tue | Wed | Thu |
+|------|-------|------|-----|-----|
+| 1 | Press 3 × 8 | Swing 3 × 10 | Deadlift 3 × 10 | Stretch & rest |
+| 2 | Snatch 3 × 8 | Core stability 4 × 30s | Goblet squat 3 × 10 | Stretch & rest |
+| 3 | Swing 3 × 10 | Circuit 4 × 30s | Clean 3 × 8 | Stretch & rest |
+| 4 | Farmer's walk 3 × 20m | KB HIIT 8 rounds | Full circuit 4 | Stretch & rest |
+
+### 3.3 記錄表的簡單模板
+
+| 項目 | 星期一 | 星期二 | 星期三 | 星期四 |
+|------|--------|--------|--------|--------|
+| 熱身時間 | ___ | ___ | ___ | ___ |
+| 主要動作 | ___ | ___ | ___ | ___ |
+| 重量 | ___ | ___ | ___ | ___ |
+| 態度評分（1–5） | ___ | ___ | ___ | ___ |
+| 感受 | ___ | ___ | ___ | ___ |
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 完成 4 週每週四次體能方案。
+2. 描述每週的感想。
+3. 寫下第 4 週的自評。
+4. 說出下一步的目標。
+
+### 4.2 自我檢查（Self-check）
+
+- 能完成 4 週的訓練。
+- 能描述每週的感想。
+- 能寫下自評。
+
+### 4.3 能力測試（Competency test）
+
+- 能在第 4 週完成完整體能循環。
+- 能描述下一步目標。
+- 能說出體能訓練的要素。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 每週四次體能方案流程圖：第 1 週 → 第 2 週 → 第 3 週 → 第 4 週。
+- 每天的訓練流程：熱身 → 力量/體能 → 放鬆。
+
+### 5.2 影片參考
+
+- 英文："Four-Day Kettlebell Program" — 查找「four day kettlebell program」。
+- 中文：各大運動頻道「壺鈴每周四次」。
+- 推薦關鍵字：`kettlebell four day program`, `kettlebell weekly schedule`, `conditioning circuit`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Four-Day Program》。

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>07 姿勢評估與自檢</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>07 姿勢評估與自檢</h1>
+    <div class="meta">章節 07｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../02_動作基礎/06_核心穩定與呼吸發力.html">← 上一節：06 核心穩定與呼吸發力</a>
+  <a class="jump-next" href="../02_動作基礎/08_握持與關節保護.html">下一節：08 握持與關節保護 →</a>
+</div>
+
+<h2 id="1">1. 為什麼需要姿勢評估</h2>
+<p><span class="section-label">概念</span><strong>為什麼需要姿勢評估</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>零基礎者最常見的問題是「姿勢未穩」，在無人指引下很難發現。
+姿勢評估能幫助你：發現自身的姿勢習慣（如骨盆前傾、肩膀駝背）；建立動作的基準（benchmark）與自我檢查；避免不當姿勢造成傷害。</p>
+<p><span class="lang-label">English</span></p>
+<p>Beginners most commonly face "posture not stable," which is hard to notice without guidance.
+Posture assessment helps you: discover your postural habits (e.g., anterior pelvic tilt, rounded shoulders); establish benchmarks and self-checks for movements; avoid injury from improper form.</p>
+
+<p><span class="section-label">概念</span><strong>基本姿勢評估</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>站立姿勢評估（可借鏡鏡、拍照、自我觸感）：
+| 項目 | 正確 | 需要修正 |
+|------|------|----------|
+| 脊柱 | 自然曲線，胸部開放 | 弓背、過伸 |
+| 骨盆 | 中立，前傾不過後傾 | 前傾或後傾 |
+| 肩膀 | 向後下沉，未收縮 | 耸肩、前傾 |
+| 頭頸 | 耳部在肩膀上方 | 前伸（text neck） |
+| 膝蓋 | 指向正前方，不內扣 | 內扣或外翻 |
+| 足部 | 三點觸地（腳跟、足外側、足大趾球） | 扁平足、外翻 |</p>
+<p><span class="lang-label">English</span></p>
+<p>Standing posture assessment (use mirror, photo, or self-touch):
+| Item | Correct | Needs correction |
+|------|---------|------------------|
+| Spine | Natural curve, chest open | Rounding, hyperextension |
+| Pelvis | Neutral, not overly tilted | Anterior or posterior tilt |
+| Shoulders | Retracted and depressed | Shrugged, forward |
+| Head | Ears above shoulders | Forward head (text neck) |
+| Knees | Point forward, not caving | Caving or bowing |
+| Feet | Three-point contact (heel, outer, big toe ball) | Flat feet, outward |</p>
+
+<p><span class="section-label">概念</span><strong>動作評估</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>在練習動作時，觀察以下指標：
+| 動作 | 觀察項目 | 標記 |
+|------|----------|------|
+| 髖關節槍開 | 背部是否平直 | ✓ / ✗ |
+| 擺盪 | 臀部是否推出 | ✓ / ✗ |
+| 硬舉 | 背部是否保持平直 | ✓ / ✗ |
+| 肩推 | 肩膀是否上升 | ✓ / ✗ |
+| 上搏 | 肘部是否收納 | ✓ / ✗ |</p>
+<p><span class="lang-label">English</span></p>
+<p>Movement assessment: observe the following indicators:
+| Movement | Observation | Mark |
+|----------|-------------|------|
+| Hip Hinge | Back straight? | ✓ / ✗ |
+| Swing | Hips push back? | ✓ / ✗ |
+| Deadlift | Back stays straight? | ✓ / ✗ |
+| Press | Shoulders shrugging? | ✓ / ✗ |
+| Clean | Elbow tucked? | ✓ / ✗ |</p>
+
+<p><span class="section-label">概念</span><strong>自我檢查的方法</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>1. 鏡檢：正面、側面觀察，對比上表。
+2. 影像記錄：每 2 週拍一次，比較進步。
+3. 觸感檢查：
+   - 背部：用手感受腰椎是否有過度彎曲。
+   - 腹部：觸摸腹肌是否有緊繃感。
+   - 肩膀：抱肩膀是否有緊繃感。
+4. 牆檢：背靠牆，雙腳觸地，觀察後腦、下背、臀部是否接觸牆。</p>
+<p><span class="lang-label">English</span></p>
+<p>1. Mirror check: front & side view, compare to the table.
+2. Video record: every 2 weeks, compare progress.
+3. Touch check:
+   - Back: hand on lower back, feel for excessive curve.
+   - Abdomen: feel core tightness.
+   - Shoulders: feel tightness from hunching.
+4. Wall check: back to wall, feet on floor, check if head, lower back, butt touch.</p>
+
+<p><span class="section-label">概念</span><strong>常見姿勢問題</strong></p>
+<table>
+<thead><tr><th>問題</th><th>表現</th><th>矯正</th></tr></thead>
+<tbody>
+<tr><td>骨盆前傾</td><td>臀部後傾，腰部過度彎曲</td><td>激活臀肌、竿樣肌、核心</td></tr>
+<tr><td>肩膀駝背</td><td>肩膀向前、胸部收縮</td><td>胸部拉伸、肩胛收縮</td></tr>
+<tr><td>頭前伸</td><td>頭部向前，頸部前傾</td><td>頸部後縮、胸部拉伸</td></tr>
+<tr><td>膝蓋內扣</td><td>膝蓋向內彎曲</td><td>髖外旋肌強化、核心穩定</td></tr>
+</tbody>
+</table>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 姿勢的定義</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>姿勢是身體在靜止或動態時的位置組合。
+良好的姿勢是：關節對齊，負荷均勻；肌肉 cân bằng，無過度張力；能以最小能量維持穩定。</p>
+<p><span class="lang-label">English</span></p>
+<p>Posture is the combination of body positions in stillness or movement.
+Good posture: joints aligned, load distributed evenly; muscles balanced, no excessive tension; maintains stability with minimal energy.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 姿勢與負荷</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>脊柱的自然曲線（頸椎、胸椎、腰椎）有助於分散負荷。
+若脊柱失去中立，負荷會集中在某一區域，增加傷害風險。
+壺鈴訓練中的負荷（重量 × 距離）會透過核心傳遞。</p>
+<p><span class="lang-label">English</span></p>
+<p>The spine's natural curves (cervical, thoracic, lumbar) help distribute load.
+If the spine loses neutral, load concentrates on specific areas, increasing injury risk.
+In kettlebell training, load (weight × distance) is transmitted through the core.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(σ = \frac{F}{A}\)　壓力（力 ÷ 面積）</p>
+<p class="formula-block">\(τ = F \times d\)　力矩（力 × 力臂）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 鏡中評估（5 分鐘）</strong></p>
+<ol>
+<li>站在鏡前，雙手自然下垂。</li>
+<li>觀察：
+   - 肩膀是否發出？
+   - 骨盆是否中立？
+   - 脊柱是否有自然曲線？
+</li>
+<li>記錄，並給自己打分（1–5）。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.2 影像追蹤（每 2 週）</strong></p>
+<ol>
+<li>選擇三種動作：
+   - 髖關節槍開。
+   - 擺放。
+   - 硬舉。
+</li>
+<li>拍側面影片。</li>
+<li>每次比較，標記進步。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.3 牆檢練習</strong></p>
+<ol>
+<li>背靠牆，雙腳與肩同寬。</li>
+<li>觀察：
+   - 後腦是否接牆？
+   - 下背是否有微小空隙？
+   - 臀部是否接牆？
+</li>
+<li>保持 10 秒，放鬆。</li>
+</ol>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>完成鏡中評估，將自己打分（1–5）。</li>
+<li>完成影像追蹤（每 2 週）。</li>
+<li>完成牆檢練習，描述感覺。</li>
+<li>說出三種常見姿勢問題與矯正。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能描述自己的姿勢問題（如骨盆前傾、肩膀駝背）。</li>
+<li>能在鏡中識別中立脊柱。</li>
+<li>能說出牆檢的四個觀察項目。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能完成 3 種動作的評估表。</li>
+<li>能在未經指導下，發現姿勢問題。</li>
+<li>能描述自我矯正的方法。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體標準姿勢示意：標記脊柱、骨盆、肩膀、頭頸。</li>
+<li>姿勢問題示意：骨盆前傾、肩膀駝背。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=posture+assessment" target="_blank">[英文] posture assessment</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E5%9E%82%E7%BD%AE%E8%87%AA%E6%8F%90%E6%A3%80%E6%9F%A5" target="_blank">[中文] 壺鈴姿勢評估</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>國際運動醫學會（ACSM）《姿態評估指南》。</li>
+<li>人體動作學教科書。</li>
+</ul>
+
+<div class="footer">
+  07 姿勢評估與自檢｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

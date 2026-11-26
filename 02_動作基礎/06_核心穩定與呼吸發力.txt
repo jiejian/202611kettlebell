@@ -1,0 +1,220 @@
+# 06 核心穩定與呼吸發力
+
+## 核心穩定與呼吸發力（Core Stability & Breathing）
+
+### 1. 核心為什麼重要
+
+**中文**：核心是身體的「中心穩定系統」。
+在壺鈴訓練中，核心的作用是：
+- 保持脊柱中立，避免在負荷下弯曲或扭轉。
+- 將髖部的力量傳遞到手臂與壺鈴。
+- 保護背部免受過度負荷。
+
+**English**：The core is the body's "central stability system."
+In kettlebell training, the core's role is:
+- Keep the spine neutral, avoiding bending or twisting under load.
+- Transfer power from the hips to the arms and bell.
+- Protect the back from excessive load.
+
+### 2. 核心穩定的構建
+
+**中文**：
+- **腹直肌（Rectus abdominis）**：前面「繃緊」。
+- **腹橫肌（Transverse abdominis）**：最深層，像「吊帶」，提供默默穩定。
+- **腹斜肌（Obliques）**：側邊穩定。
+- **竿樣肌（Erector spinae）**：脊柱後方，保持中立。
+- **骨盆底肌（Pelvic floor）**：下方封閉，與腹內壓配合。
+
+**English**：
+- **Rectus abdominis**: front "bracing".
+- **Transverse abdominis**: deepest layer, like a "weight belt", provides silent stability.
+- **Obliques**: side stability.
+- **Erector spinae**: back of the spine, keep neutral.
+- **Pelvic floor**: bottom closure, works with intra-abdominal pressure.
+
+### 3. 呼吸與發力
+
+**中文**：
+- **腹式呼吸（Diaphragmatic breathing）**：用肚子呼吸，橫膈下降，腹腔擴張。
+- **腹內壓（IAP）**：呼吸與核心繃緊產生的內部壓力，穩定脊椎。
+- **發力時機**：在爆發的瞬間（如擺盪上升、硬舉起身）同時呼氣。
+- **呼吸基礎**：先呼吸，再繃緊，再發力。
+
+**English**：
+- **Diaphragmatic breathing**: breathe with the belly, diaphragm descends, abdominal cavity expands.
+- **IAP (Intra-Abdominal Pressure)**: internal pressure produced by breathing and core bracing, stabilizes the spine.
+- **Power timing**: exhale simultaneously at the explosive moment (e.g., swing up, deadlift up).
+- **Breathing basics**: breathe first, brace, then generate power.
+
+### 4. 核心穩定與呼吸的練習口訣
+
+**中文**：
+- 「繃緊臍下，像即將被擊中。」
+- 「吸氣入肚子，胸膛不抬起。」
+- 「呼氣時，排出來。」
+- 「呼吸在動作中，而非停止。」
+
+**English**：
+- "Brace below the navel, like being punched."
+- "Inhale into the belly, chest not raised."
+- "Exhale at the moment of exertion."
+- "Breathe with the movement, never hold."
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 核心穩定的種類
+
+**中文**：
+- **靜態核心穩定**：在靜止狀態下保持中立，例如：「扶樁」。
+- **動態核心穩定**：在運動中保持中立，例如：「擺盪」。
+- **反動核心穩定**：承受外力時保持中立，例如：「壺鈴落下時」。
+
+**English**：
+- **Static core stability**: maintain neutral in stillness, e.g., "bracing."
+- **Dynamic core stability**: maintain neutral in movement, e.g., "swing."
+- **Reactive core stability**: maintain neutral under external load, e.g., "kettlebell drop."
+
+### 2.2 IAP 的運用
+
+**中文**：
+- IAP 是腹內壓，即腹腔內的壓力。
+- 生成方式：吸氣入肚（橫膈下降） + 核心繃緊（腹壁收縮） + 骨盆底收縮（下方封閉）。
+- 作用：穩定脊椎，形成「剛性圓筒」。
+
+**English**：
+- IAP is intra-abdominal pressure, the pressure inside the abdominal cavity.
+- Production: diaphragmatic inhale + core bracing + pelvic floor contraction.
+- Function: stabilize the spine, forming a "rigid cylinder."
+
+### 2.3 呼吸與發力的時機
+
+| 動作 | 吸氣時機 | 呼氣時機 |
+|------|----------|----------|
+| 擺盪 | 下擺時吸氣 | 起身時呼气 |
+| 硬舉 | 起身時呼气 | 完成時 |
+| 上搏 | 收集並提升時吸氣 | 收到後呼气 |
+| 肩推 | 起身時呼气 | 達到頂端 |
+
+**English**：| Movement | Inhale | Exhale |
+|---------|--------|--------|
+| Swing | Lower back | Up |
+| Deadlift | Up | At top |
+| Clean | Collect & pull | At rack |
+| Press | Up | At lockout |
+
+### 2.4 公式
+
+- 核心張力與壓力：\(P = \frac{F}{A}\)，力除以面積。
+- IAP 穩定化：吸氣入肚 + 繃緊 + 骨盆底收縮。
+- 力臂：\(d\)，與力矩 \(τ = F \times d\) 成正比。
+
+**English**：
+- Core tension & pressure: \(P = \frac{F}{A}\).
+- IAP stabilization: inhale belly + brace + pelvic floor.
+- Moment arm: \(d\), proportional to torque \(τ = F \times d\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 呼吸練習
+
+1. 仰臥或坐姿：
+   - 雙手放在肚子。
+   - 吸氣時，感覺肚子擴張，手被推開。
+   - 呼氣時，肚子回縮。
+2. 完成 10 次。
+3. 再試著用胸部呼吸，比較差異。
+
+**English**：
+1. Supine or seated:
+   - Hands on belly.
+   - Inhale, feel belly expand, hands pushed away.
+   - Exhale, belly returns.
+2. Do 10 reps.
+3. Try chest breathing, compare differences.
+
+### 3.2 核心繃緊練習
+
+1. 站立，雙腳與肩同寬。
+2. 想像即將被擊中腹部。
+3. 收縮整個腹部：
+   - 前方：腹直肌。
+   - 兩側：腹斜肌。
+   - 背後：竿樣肌。
+   - 下方：骨盆底。
+4. 保持 10 秒，放鬆。
+5. 完成 3 組。
+
+**English**：
+1. Stand, feet shoulder-width apart.
+2. Imagine you are about to be punched in the belly.
+3. Contract the entire abdomen:
+   - Front: rectus abdominis.
+   - Sides: obliques.
+   - Back: erector spinae.
+   - Bottom: pelvic floor.
+4. Hold 10 seconds, relax.
+5. Complete 3 sets.
+
+### 3.3 呼吸與發力結合
+
+1. 準備姿勢。
+2. 吸氣入肚。
+3. 繃緊核心。
+4. 爆發起身，呼氣。
+5. 落下，吸氣。
+6. 完成 3 組 × 10 次。
+
+**English**：
+1. Prepare position.
+2. Inhale into belly.
+3. Brace core.
+4. Explosively stand up, exhale.
+5. Lower, inhale.
+6. Complete 3 sets × 10.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 完成 3 組 × 10 次「呼吸練習」。
+2. 完成 3 組 × 10 次「核心繃緊練習」。
+3. 完成 3 組 × 10 次「呼吸與發力結合」。
+4. 描述 IAP 是如何穩定脊椎的。
+
+### 4.2 自我檢查（Self-check）
+
+- 能在鏡中看到腹式呼吸（肚子擴張）。
+- 能延續 30 秒繃緊核心。
+- 能在擺盪中配合呼吸與發力。
+
+### 4.3 能力測試（Competency test）
+
+- 能完成 3 組 × 10 次「呼吸與發力結合」。
+- 能在擺盪中維持中立脊柱。
+- 能描述 IAP 的三個構成。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- /core 柱塞示意：橫膈、腹直肌、腹橫肌、骨盆底。
+- 呼吸與發力流程示意。
+
+### 5.2 影片參考
+
+- 英文："Breathing & Bracing" — 查找「kettlebell breathing bracing」。
+- 中文：各大運動頻道「核心穩定與呼吸發力」。
+- 推薦關鍵字：`kettlebell breathing core`, `diaphragmatic breathing`.
+
+### 5.3 補充資源
+
+- StrongFirst：《Breathing & Bracing》。
+- 國際運動醫學會（ACSM）《核心穩定訓練指南》。

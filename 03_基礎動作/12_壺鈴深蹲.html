@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>12 壺鈴深蹲</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>12 壺鈴深蹲（Goblet Squat）</h1>
+    <div class="meta">章節 12｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../03_基礎動作/11_壺鈴抓舉_上搏.html">← 上一節：11 壺鈴抓舉/上搏</a>
+  <a class="jump-next" href="../03_基礎動作/13_壺鈴肩推.html">下一節：13 壺鈴肩推 →</a>
+</div>
+
+<h2 id="1">1. 深蹲是什麼</h2>
+<p><span class="section-label">概念</span><strong>深蹲是什麼</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>深蹲（Goblet Squat）是一種「手持壺鈴於胸前，做深蹲」的動作。
+壺鈴放在胸前能提供穩定中心，適合零基礎者學習深蹲的基本軌跡。
+深蹲的主要肌群是股四頭肌（quadriceps）、臀大肌、竿樣肌與核心。</p>
+<p><span class="lang-label">English</span></p>
+<p>The goblet squat is a "hold the bell in front of the chest and do a squat" movement.
+Holding the bell at the chest provides a stable center of mass, suitable for beginners learning the squat pattern.
+Main muscles: quadriceps, glutes, erector spinae, core.</p>
+
+<p><span class="section-label">概念</span><strong>深蹲的標準流程</strong></p>
+<ol>
+<li>站立，雙腳與肩同寬或略窄。</li>
+<li>雙手持壺鈴於胸前（rack position）。</li>
+<li>髖部後推，膝蓋向外展開（但不內扣）。</li>
+<li>臀部向後，身體前傾，維持中立。</li>
+<li>蹲到舒適深度（可達大腿平行或更深）。</li>
+<li>爆發站起，臀部收縮。</li>
+<li>緩慢放下，回到起始姿勢。</li>
+</ol>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 深蹲與髖關節槍開的差異</strong></p>
+<table>
+<thead><tr><th>項目</th><th>深蹲（Squat）</th><th>髖關節槍開（Hinge）</th></tr></thead>
+<tbody>
+<tr><td>主要移動</td><td>膝蓋前進、髋屈曲</td><td>髖點後退</td></tr>
+<tr><td>主要肌群</td><td>股四頭肌、臀大肌</td><td>臀大肌、股二頭肌</td></tr>
+<tr><td>背部</td><td>維持平直</td><td>前傾</td></tr>
+<tr><td>膝蓋</td><td>遠離腳尖</td><td>微屈</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">主題</span><strong>2.2 肌群參與</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>主動肌：股四頭肌、臀大肌、竿樣肌、腹橫肌。
+穩定肌：竿樣肌、腹斜肌、骨盆底。
+輔助肌：竿樣肌、臀中肌。</p>
+<p><span class="lang-label">English</span></p>
+<p>Prime movers: quadriceps, glutes, erector spinae, transversus abdominis.
+Stabilizers: erector spinae, obliques, pelvic floor.
+Assistants: hamstrings, gluteus medius.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 公式</strong></p>
+<p class="formula-block">\(W = m \times g \times d\)　深蹲所做之功（質量 × 重力 × 深度）</p>
+<p class="formula-block">\(τ = F \times d\)　膝關節力矩（力 × 力臂）</p>
+<p class="formula-block">\(σ = \frac{F}{A}\)　核心張力（力 ÷ 面積）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 階段練習</strong></p>
+<table>
+<thead><tr><th>階段</th><th>內容</th><th>目標</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>無重深蹲</td><td>感受膝蓋與髖部</td></tr>
+<tr><td>2</td><td>壺鈴於胸前深蹲</td><td>穩定重量</td></tr>
+<tr><td>3</td><td>8–12 kg 深蹲</td><td>掌握軌跡</td></tr>
+<tr><td>4</td><td>12–16 kg</td><td>漸進</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.2 深蹲流程</strong></p>
+<ol>
+<li>站立，雙腳與肩同寬。</li>
+<li>雙手持壺鈴於胸前。</li>
+<li>髖部後推，膝蓋向外。</li>
+<li>蹲到舒適深度。</li>
+<li>爆發站起。</li>
+<li>緩慢放下。</li>
+<li>3 組 × 10 次。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.3 呼吸與穩定</strong></p>
+<ul>
+<li>蹲下時：吸氣，核心繃緊。</li>
+<li>站起時：呼氣。</li>
+<li>壺鈴保持在胸前，不要下滑。</li>
+</ul>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出深蹲與擺盪的兩個差異。</li>
+<li>說出深蹲的主動肌與穩定肌。</li>
+<li>完成 3 組 × 10 次「無重深蹲」。</li>
+<li>描述深蹲中膝蓋的位置。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>站立姿勢正確，雙腳跟穩定。</li>
+<li>膝蓋指向外，不內扣。</li>
+<li>脊柱中立，背部不弓。</li>
+<li>壺鈴保持在胸前。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>能以 8–16 kg 壺鈴完成「深蹲」，3 組 × 10 次。</li>
+<li>姿勢無明顯崩潰。</li>
+<li>能用自己的話說出深蹲的要點。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>人體深蹲示意：標記膝蓋、髖部、脊柱、壺鈴。</li>
+<li>動作路徑：從站立到蹲下再到站起。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=goblet+squat" target="_blank">[英文] goblet squat</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E6%B7%B1%E8%86%9C" target="_blank">[中文] 壺鈴深蹲</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》。</li>
+<li>StrongFirst：《Goblet Squat》基礎課程。</li>
+</ul>
+
+<div class="footer">
+  12 壺鈴深蹲｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

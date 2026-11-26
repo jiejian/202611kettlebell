@@ -1,0 +1,170 @@
+# 02 壺鈴類型與規格
+
+## 壺鈴類型與規格（Kettlebell Types & Specifications）
+
+### 1. 壺鈴的主要類型
+
+**中文**：壺鈴依材質與設計可分為多種類型。了解各類型的差異，能幫助你選擇適合訓練、適合技能的壺鈴。
+
+**English**：Kettlebells can be classified by material and design. Understanding the differences helps you choose the right bell for your training and skill level.
+
+### 2. 主要類型對照
+
+| 類型 | 特點 | 適合人群 | 注意 |
+|------|------|----------|------|
+| 硬式（Iron / Hardstyle） | 把手處較陡、重量分散，適合硬式訓練 | 力量、爆發力訓練 | 把手較粗，握法需適應 |
+| 蜂蜜 / 鑄鐵（Cast Iron） | 質地穩固、價格較低 | 通用初學 | 表面可能粗糙，注意手掌防滑 |
+| 競業（Competition） | 較小、更均衡、標準形狀 | 競技、精細動作、進階訓練 | 對精細扣環與軌道要求高 |
+| 軟式 / 可調式（Soft/Adjustable） | 檔位可調，體積小 | 家庭、儲存空間小 | 耐久性需注意 |
+
+**English**：| Type | Characteristics | Suitable for | Note |
+|------|-----------------|-------------|------|
+| Hardstyle (Iron) | Steeper handle, better for hardstyle | Strength, power | Handle thicker; grip may need adaptation |
+| Cast Iron | Stable, lower cost | General beginner | Rough surface; care for palms |
+| Competition | Smaller, more proportional, standard shape | Competition, precise technique | High precision demands |
+| Soft / Adjustable | Adjustable length, compact | Home, limited storage | Durability matters |
+
+### 3. 壺鈴規格與選擇
+
+**中文**：
+- 重量：零基礎：女士 8–12 kg；男士 12–16 kg。
+- 手柄粗細：隨個人握法與拳頭寬度選擇。
+- 材料：鐵質、硼鋼、合金金屬等，耐久性與質量不同。
+- 把手直徑：約 25–35 mm，太細易滑落，太粗影響握法。
+
+**English**：
+- Weight: beginners: women 8–12 kg; men 12–16 kg.
+- Handle thickness: choose according to grip and hand width.
+- Material: iron, boron steel, alloy metal; durability varies.
+- Handle diameter: about 25–35 mm; too thin slips, too thick affects grip.
+
+### 4. 風格差異：俄式 vs 硬式
+
+**中文**：
+- **俄式（Girevoy）**：追求連續流暢、呼吸連續、穩定耐力。擺盪、上搏、抓舉等動作，強調節奏與控制。
+- **硬式（Hardstyle）**：強調髖伸展爆發力、核心剛性、發力節奏。常見動作：硬舉、肩推、擺盪的快速發力。
+
+**English**：
+- **Russian (Girevoy)**: focuses on smooth continuity, continuous breathing, stability, endurance. Swings, cleans, snatches emphasize rhythm and control.
+- **Hardstyle**: emphasizes explosive hip extension, core rigidity, power rhythm. Common movements: deadlift, press, explosive swings.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 壺鈴形狀與重心
+
+**中文**：壺鈴的把手位於重物之外，這使得「握持」本身就是一項穩定需求。這是壺鈴與哑鈴的主要差別之一。
+英文名稱 Kettlebell 的「Kettle」即「壺、鍋」之意，形狀近似倒置的壺子。
+
+**English**：The kettlebell's handle is positioned away from the heavy body, making "gripping" itself a stability demand. This is a key difference from dumbbells.
+The name "Kettlebell" — "kettle" means "pot" or "pan" in English — resembles an inverted pot.
+
+### 2.2 重量與力量的關係
+
+**中文**：重量越大，負荷越高，但也增加技術要求。零基礎者應先以輕重量熟悉動作，避免用重量掩蓋姿勢錯誤。
+公式：\(W = m \times g\)，重量 = 質量 × 重力加速度。
+
+**English**：Greater weight means greater load, but also higher technical demands. Beginners should first use light weight to learn the movement, avoiding using weight to mask poor posture.
+Formula: \(W = m \times g\).
+
+### 2.3 常用符號
+
+- 重量：\(w\)（kg / lb）
+- 質量：\(m\)（kg）
+- 重力加速度：\(g \approx 9.81 \, \text{m/s}^2\)
+- 能量消耗（粗略推定）：\(E \approx 0.5 \times w \times d\)（功）
+
+**English**：
+- Weight: \(w\) (kg / lb)
+- Mass: \(m\) (kg)
+- Gravity: \(g \approx 9.81 \, \text{m/s}^2\)
+- Approximate energy: \(E \approx 0.5 \times w \times d\) (work)
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 重量選擇流程
+
+1. 準備：選擇 8–16 kg 之間的壺鈴，視性別與經驗選擇。
+2. 測試：單手握持，做「無重擺放」或「無重髖關節槍開」。
+3. 判定：能保持姿勢正常 10 秒 → 適合。
+4. 若姿勢明顯崩潰 → 減輕重量。
+
+**English**：
+1. Prepare: choose a kettlebell between 8–16 kg, based on sex and experience.
+2. Test: grip one hand, do a "no-weight swing" or "no-weight hip hinge".
+3. Judge: can maintain good posture for 10 seconds → suitable.
+4. If posture collapses obviously → reduce weight.
+
+### 3.2 握持方法（Grip）
+
+| 握法 | 說明 | 注意 |
+|------|------|------|
+| 正握（FOREHAND） | 手掌向上，手柄垂直 | 最常用 |
+| 反握（REVERSE） | 掌心向前 | 進階 |
+| 抓握（CRISP） | 手指緊握，手指朝前 | 保守用法 |
+
+**English**：| Grip | Description | Note |
+|------|-------------|------|
+| Forehand | Palm up, handle vertical | Most common |
+| Reverse | Palm forward | Advanced |
+| Crisp grip | Fingers tight, forward | Conservative |
+
+### 3.3 選擇壺鈴時的自我檢查
+
+- 能以單手握持、做 10 次「無重擺放」而姿勢不崩潰。
+- 握持時無明顯手無力或手僵。
+- 能感受到手腕於把手處穩定。
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出壺鈴的四種主要類型。
+2. 說出自分子與外壳的差異。
+3. 正確選擇適合自己的重量（女士 8–12 kg / 男士 12–16 kg）。
+4. 完成「無重擺放 + 髖關節槍開」體驗 3 組，描述感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 能說出自己選擇的壺鈴重量與選擇原因。
+- 能描述四種類型的差異。
+- 能用自己的話說明為什麼「壺鈴的把手位置」影響訓練。
+
+### 4.3 能力測試（Competency test）
+
+- 用 8–16 kg 壺鈴完成 3 組 × 10 次「無重擺放」。
+- 姿勢無明顯崩潰。
+- 能描述手腕於把手處的穩定感。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 壺鈴實物示意圖：標記重量、手柄、重心。
+- 握持示意圖：正握、反握、抓握。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell types" by Kettlebell Concepts — 查找「kettlebell types video」。
+- 中文：各大運動頻道「壺鈴種類」解析。
+- 推薦關鍵字：`kettlebell types`, `kettlebell handle diameter`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst 壺鈴基礎知識。
+
+---
+
+## 6. 練習建議
+
+- 選擇壺鈴時，重點在於「姿態正確」而非「重量」。
+- 每次練習可更換重量，比較不同重量的穩定感。
+- 壺鈴應存放在乾燥、安全的地方，遠離兒童。

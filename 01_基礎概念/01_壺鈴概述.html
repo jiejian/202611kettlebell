@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>01 壺鈴概述</title>
+<!-- KaTeX for math formulas -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b; --card:#ffffff;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule);
+    padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none;
+    border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section{margin-bottom:20px;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px;
+    padding:2px 8px; border-radius:3px; margin-bottom:6px; vertical-align:middle;}
+  .bilingual{display:block; margin-bottom:18px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .code{background:#f4f2ee; border-left:3px solid var(--accent); padding:4px 10px;
+    border-radius:0 4px 4px 0; font-size:13px; margin:8px 0; white-space:pre-wrap;}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px;
+    border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px;
+    padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px;
+    border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .formula-span{display:inline-block; margin:0 4px;}
+  .tasks{color:#333; list-style:disc; padding-left:22px;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px;
+    padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px;
+    font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>01 壺鈴概述</h1>
+    <div class="meta">章節 01｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<!-- ===== 目錄跳轉 ===== -->
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<!-- ===== 章節導航 ===== -->
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../01_基礎概念/02_壺鈴類型與規格.html">← 上一節：（02 壺鈴類型與規格）</a>
+  <a class="jump-next" href="../01_基礎概念/03_訓練原理與目標設定.html">下一節：（03 訓練原理與目標設定）→</a>
+</div>
+
+<!-- ================================================================= -->
+<!-- 1. 壺鈴概述                                                       -->
+<!-- ================================================================= -->
+<h2 id="1">1. 壺鈴概述（Kettlebell Overview）</h2>
+
+<p><span class="section-label">概念</span><strong>壺鈴是什麼</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>壺鈴（Kettlebell）是一種以金屬製成、把手置於重物頂端的訓練器材。它的形狀像一個倒置的壺子，因此得名。壺鈴的把手位於重心之外，使得訓練時需要更強的核心穩定與握力。</p>
+<p><span class="lang-label">English</span></p>
+<p>A kettlebell is a training tool made of metal, with a handle attached to the top of a weighted bell. Its shape resembles an inverted pot, hence its name. The handle is positioned away from the center of mass, requiring greater core stability and grip strength during training.</p>
+
+<p><span class="section-label">概念</span><strong>壺鈴的歷史與來源</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>壺鈴起源於俄羅斯，在 1700 年代已有記錄。當時農民與工人用重物進行力量與耐力訓練。後來發展成一項競技體育，稱為「壺鈴舉」（Kettlebell Lifting），現為俄羅斯官方運動項目之一。主要出版地：俄羅斯、剛果（金）、斯洛伐克等。</p>
+<p><span class="lang-label">English</span></p>
+<p>The kettlebell originated in Russia, with records dating back to the 1700s. Peasants and workers used heavy objects for strength and endurance training. It later developed into a competitive sport known as "Kettlebell Lifting," now an official Russian sporting discipline. Major publishing regions include Russia, the DRC, and Slovakia.</p>
+
+<p><span class="section-label">概念</span><strong>壺鈴與哑鈴、杠鈴的差異</strong></p>
+<table>
+<thead><tr><th>項目</th><th>壺鈴</th><th>哑鈴</th><th>杠鈴</th></tr></thead>
+<tbody>
+<tr><td>把手位置</td><td>有（重心外側）</td><td>無</td><td>無</td></tr>
+<tr><td>核心需求</td><td>高（需穩定重心）</td><td>中</td><td>低</td></tr>
+<tr><td>握力需求</td><td>高</td><td>中</td><td>低</td></tr>
+<tr><td>常見訓練</td><td>擺盪、上搏、抓舉</td><td>推、舉、屈曲</td><td>深蹲、硬舉</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>壺鈴的訓練優勢</strong></p>
+<ul>
+<li>全身協調：動作需要多關節與核心同步配合。</li>
+<li>核心穩定：重心不固定，迫使核心代償。</li>
+<li>握力與腕部力量：把手位置特殊。</li>
+<li>便攜性：體積小，適合居家訓練。</li>
+<li>可訓練力量、耐力、柔韌度與身體控制。</li>
+</ul>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 壺鈴的物理特性</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>壺鈴的把手位於重心之外，形成「偏心負荷」（eccentric load），這與哑鈴與杠鈴不同。這種設計迫使身體在訓練時主動穩定手臂與核心。</p>
+<p><span class="lang-label">English</span></p>
+<p>The kettlebell's handle is positioned away from the center of mass, creating an eccentric load different from dumbbells and barbells. This design forces the body to actively stabilize the arms and core during training.</p>
+
+<p><span class="section-label">主題</span><strong>2.2 運動力學口訣</strong></p>
+<ul>
+<li>擺盪可近似為「彈性旋轉」（ballistic rotation）—— 髖伸展產生彈性。</li>
+<li>上搏可用「槓桿原理」（lever principle）理解：肘部收到固定，壺鈴沿著手腕「包圍」軌道。</li>
+<li>抓舉是「垂直軌道」（vertical path）運動—— 從近膝到過頭，直線軌跡。</li>
+<li>硬舉是「靜態→動態」的直線擡升—— 類似死 lift。</li>
+</ul>
+
+<p><span class="section-label">主題</span><strong>2.3 常用符號（公式）</strong></p>
+<p class="formula-block">\(W = F \times d\)　功 　（Work = Force × Distance）</p>
+<p class="formula-block">\(P = \frac{W}{t}\)　輸出功率 　（Power = Work ÷ Time）</p>
+<p class="formula-block">\(HR_{max} = 220 - 年齡\)　最大心率</p>
+<p class="formula-block">訓練心率：\(% HR_{max}\) 或 \(HRR\)（Heart Rate Reserve）</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 選擇第一個壺鈴</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>零基礎者建議：女士 8–12 kg；男士 12–16 kg。由輕到重，先搞懂動作，再增加重量。每次練習以輕重量為主，能保持姿勢正確。</p>
+<p><span class="lang-label">English</span></p>
+<p>For beginners: women 8–12 kg; men 12–16 kg. Progress from light to heavy, master the movement first, then increase weight. Always train with light weight, maintaining correct posture.</p>
+
+<p><span class="section-label">實踐</span><strong>3.2 壺鈴類型選擇</strong></p>
+<table>
+<thead><tr><th>類型</th><th>特點</th><th>適合人群</th></tr></thead>
+<tbody>
+<tr><td>硬式（Iron）</td><td>稍粗、把手處較陡</td><td>力量、硬式訓練</td></tr>
+<tr><td>蜂蜜/鑄鐵</td><td>質地相近</td><td>通用</td></tr>
+<tr><td>競業（Competition）</td><td>更小、更均衡、標準形狀</td><td>競技、精細動作</td></tr>
+<tr><td>軟式/可調式</td><td>檔位可調</td><td>家庭、儲存空間小</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.3 基礎姿勢（Set-up）</strong></p>
+<ol>
+<li>站立，雙腳與肩同寬。</li>
+<li>壺鈴置於雙腳之間。</li>
+<li>膝蓋輕微彎曲，髖部後推。</li>
+<li>背部平直，核心繃緊。</li>
+<li>雙手握住把手。</li>
+</ol>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>說出壺鈴與哑鈴、杠鈴的兩個差異。</li>
+<li>說出「硬式」與「俄式」的兩個差異。</li>
+<li>正確擺放壺鈴，完成一組「整位置」（stand with hip hinge）。</li>
+<li>測量自己的最大心率 \(HR_{max} = 220 - 年齡\)，並說出輕中度訓練目標心率區間（\(60–80\%\)）。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能在 30 秒內說出壺鈴的三個優勢。</li>
+<li>能以正確姿勢舉起與放下壺鈴。</li>
+<li>能描述壺鈴把手位置與訓練差異。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>站立姿勢正確，雙腳穩定。</li>
+<li>核心繃緊，呼吸正常。</li>
+<li>練習 3 組 × 10 次「標準擺放」。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">圖示</span><strong>5.1 圖示（Diagrams）</strong></p>
+<ul>
+<li>壺鈴形狀示意：把手在頂部，重心落在中上方。</li>
+<li>拉丁三腳架示意：重心對準中心，三點支撐（雙腳、雙側核心）。</li>
+</ul>
+
+<p><span class="section-label">影片</span><strong>5.2 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=kettlebell+history+strongfirst" target="_blank">[英文] kettlebell history StrongFirst</a>
+  <a href="https://www.youtube.com/results?search_query=%E5%A3%93%E7%8E%8B%E8%B5%B7%E6%BA%90" target="_blank">[中文] 壺鈴起源</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.3 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>Human Kinetics《Kettlebell Training 2nd Edition》（史蒂夫·寇特）。</li>
+<li>ACE《Kettlebells》訓練指南。</li>
+</ul>
+
+<h2 id="6">6. 練習建議</h2>
+<ul>
+<li>週數：星期一、三、五，各 15 分鐘。</li>
+<li>內容：熱身 5 分鐘 → 核心穩定 5 分鐘 → 擺放練習 5 分鐘。</li>
+<li>要求：「姿勢正確」優先於「重量」。</li>
+</ul>
+
+<h2 id="7">7. 常見問題（FAQ）</h2>
+<ul>
+<li><b>Q：壺鈴需要多貴？</b> A：初學者可用 10–16 kg，約新台幣 1,500–3,000 元。不要追求過輕，應先習慣動作。</li>
+<li><b>Q：壺鈴適合零基礎？</b> A：適合——但必須先學習正確姿勢，不要一開始就暴力練習。</li>
+<li><b>Q：每天練習可以嗎？</b> A：可以，但應練習「低強度、技術型」動作；避免高強度的擺盪。可隔日練習，給肌肉恢復時間。</li>
+</ul>
+
+<!-- ===== 章節導航 (底部) ===== -->
+<div style="margin-top:30px; border-top:1px solid var(--rule); padding-top:12px;">
+  <a class="jump-prev" href="../01_基礎概念/02_壺鈴類型與規格.html">← 上一節：02 壺鈴類型與規格</a>
+  <a class="jump-next" href="../01_基礎概念/03_訓練原理與目標設定.html">下一節：03 訓練原理與目標設定 →</a>
+</div>
+
+<div class="footer">
+  01 壺鈴概述｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

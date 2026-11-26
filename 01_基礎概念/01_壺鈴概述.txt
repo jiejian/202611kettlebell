@@ -1,0 +1,202 @@
+# 01 壺鈴概述
+
+## 壺鈴概述（Kettlebell Overview）
+
+### 1. 壺鈴是什麼
+
+**中文**：壺鈴（Kettlebell）是一種以金屬製成、把手置於重物頂端的訓練器材。
+它的形狀像一個倒置的壺子，因此得名。壺鈴的把手位於重心之外，使得訓練時需要更強的核心穩定與握力。
+
+**English**：A kettlebell is a training tool made of metal, with a handle attached to the top of a weighted bell.
+Its shape resembles an inverted pot, hence its name.
+The handle is positioned away from the center of mass, requiring greater core stability and grip strength during training.
+
+### 2. 壺鈴的歷史與來源
+
+**中文**：壺鈴起源於俄羅斯，在 1700 年代已有記錄。當時農民與工人用重物進行力量與耐力訓練。
+後來發展成一項競技體育，稱為「壺鈴舉」（Kettlebell Lifting），現為俄羅斯官方運動項目之一。
+主要出版地：俄羅斯、剛果（金）、斯洛伐克等。
+
+**English**：The kettlebell originated in Russia, with records dating back to the 1700s.
+Peasants and workers used heavy objects for strength and endurance training.
+It later developed into a competitive sport known as "Kettlebell Lifting," now an official Russian sporting discipline.
+Major publishing regions include Russia, the Democratic Republic of the Congo, and Slovakia.
+
+### 3. 壺鈴與哑鈴、杠鈴的差異
+
+| 項目 | 壺鈴 | 哑鈴 | 杠鈴 |
+|------|------|------|------|
+| 把手位置 | 有（重心外側） | 無 | 無 |
+| 核心需求 | 高（需穩定重心） | 中 | 低 |
+| 握力需求 | 高 | 中 | 低 |
+| 傳統用途 | 力量、耐力、體能 | 局部肌群 | 最大力量 |
+| 常見訓練 | 擺盪、上搏、抓舉 | 推、舉、屈曲 | 深蹲、硬舉 |
+
+**English**：| Item | Kettlebell | Dumbbell | Barbell |
+|------|------------|------------|--------|
+| Handle position | Yes (offset center of mass) | No | No |
+| Core demand | High (need to stabilize the center of mass) | Medium | Low |
+| Grip demand | High | Medium | Low |
+| Traditional use | Strength, endurance, conditioning | Local muscle groups | Max strength |
+| Common training | Swing, clean, snatch | Press, curl, flexion | Squat, deadlift |
+
+### 4. 壺鈴的訓練優勢
+
+**中文**：1. 全身協調：動作需要多關節與核心同步配合。2. 核心穩定：重心不固定，迫使核心代償。3. 握力與腕部力量：把手位置特殊。4. 便攜性：體積小，適合居家訓練。5. 可訓練力量、耐力、柔韌度與身體控制。
+
+**English**：1. Whole-body coordination: movements require multi-joint and core synchronization. 2. Core stability: an unstable center of mass forces the core to work isometrically. 3. Grip and wrist strength: the handle position is specialized. 4. Portability: compact, suitable for home training. 5. Train strength, endurance, mobility, and body control.
+
+### 5. 主要風格：俄式（Girevoy）與硬式（Hardstyle）
+
+**中文**：
+- **俄式（Girevoy / 流暢風格）**：強調連續性、呼吸連續、穩定、耐力。動作如擺盪、上搏、抓舉，追求流暢的節奏。
+- **硬式（Hardstyle）**：強調髖伸展的爆發力、核心剛性、發力節奏。強調「發力」與「控制」的瞬間。
+
+**English**：
+- **Russian (Girevoy / Fluid Style)**: Emphasizes continuity, continuous breathing, stability, endurance. Movements such as swings, cleans, and snatches pursue a smooth rhythm.
+- **Hardstyle**: Emphasizes explosive hip extension, core rigidity, and power rhythm. Focused on the instant of "power generation" and "control".
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 壺鈴的物理特性
+
+**中文**：壺鈴的把手位於重心之外，形成「偏心負荷」（eccentric load），這與哑鈴與杠鈴不同。這種設計迫使身體在訓練時主動穩定手臂與核心。
+
+**English**：The kettlebell's handle is positioned away from the center of mass, creating an eccentric load different from dumbbells and barbells. This design forces the body to actively stabilize the arms and core during training.
+
+### 2.2 運動力學口訣
+
+- 擺盪可近似為「彈性旋轉」（ballistic rotation）—— 髖伸展產生彈性。
+- 上搏可用「槓桿原理」（lever principle）理解：肘部收到固定，壺鈴沿著手腕「包圍」軌道。
+- 抓舉是「垂直軌道」（vertical path）運動—— 從近膝到過頭，直線軌跡。
+- 硬舉是「靜態→動態」的直線擡升—— 類似死 lift。
+
+**English**：
+- The swing can be approximated as a "ballistic rotation" — hip extension generates elastic energy.
+- The clean can be understood with the "lever principle": the elbow is fixed, the bell wraps around the wrist path.
+- The snatch is a "vertical path" movement — from below the knee to overhead in a straight line.
+- The deadlift is a "static to dynamic" straight vertical lift — similar to a deadlift.
+
+### 2.3 常用符號
+
+- 重量：\(w\)，單位公斤（kg）或磅（lb）。
+- 距離：\(d\)，單位公分（cm）或公尺（m）。
+- 功：\(W = F \times d\)，力乘以距離。
+- 輸出功率：\(P = \frac{W}{t}\)，功除以時間。
+- 心率區間：\(HR_{max}\)，最大心率；訓練心率區間常用 \(% \) 心率保留（HRR）。
+
+**English**：
+- Weight: \(w\), kg or lb.
+- Distance: \(d\), cm or m.
+- Work: \(W = F \times d\).
+- Power output: \(P = \frac{W}{t}\).
+- Heart rate zones: \(HR_{max}\), maximum heart rate; training intensity often expressed as % of Heart Rate Reserve (HRR).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 選擇第一個壺鈴
+
+**中文**：零基礎者建議：女士 8–12 kg；男士 12–16 kg。由輕到重，先搞懂動作，再增加重量。
+每次練習以輕重量為主，能保持姿勢正確。
+
+**English**：For beginners: women 8–12 kg; men 12–16 kg. Progress from light to heavy, master the movement first, then increase weight.
+Always train with light weight, maintaining correct posture.
+
+### 3.2 壺鈴類型選擇
+
+| 類型 | 特點 | 適合人群 |
+|------|------|----------|
+| 硬式（Iron） | 稍粗、把手處較陡 | 力量、硬式訓練 |
+| 蜂蜜/鑄鐵 | 質地相近 | 通用 |
+| 競業（Competition） | 更小、更均衡、標準形狀 | 競技、精細動作 |
+| 軟式/可調式 | 檔位可調 | 家庭、儲存空間小 |
+
+**English**：| Type | Characteristics | Suitable for |
+|------|-----------------|-------------|
+| Hardstyle (Iron) | Slightly thicker, steeper handle | Strength, hardstyle training |
+| Cast Iron | Similar to above | General use |
+| Competition | Smaller, better proportion, standard shape | Competition, fine technique |
+| Soft/Adjustable | Adjustable length | Home, small storage |
+
+### 3.3 基礎姿勢（Set-up）
+
+1. 站立，雙腳與肩同寬。
+2. 壺鈴置於雙腳之間。
+3. 膝蓋輕微彎曲，髖部後推。
+4. 背部平直，核心繃緊。
+5. 雙手握住把手。
+
+**English**：
+1. Stand with feet shoulder-width apart.
+2. Place the kettlebell between the feet.
+3. Bend the knees slightly, push the hips back.
+4. Keep the back straight, brace the core.
+5. Grip the handle with both hands.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出壺鈴與哑鈴、杠鈴的兩個差異。
+2. 說出「硬式」與「俄式」的兩個差異。
+3. 正確擺放壺鈴，完成一組「整位置」（stand with hip hinge）。
+4. 測量自己的最大心率 \(HR_{max} = 220 - 年齡\)，並說出輕中度訓練目標心率區間（\(60–80\%\)）。
+
+### 4.2 自我檢查（Self-check）
+
+- 能在 30 秒內說出壺鈴的三個優勢。
+- 能以正確姿勢舉起與放下壺鈴。
+- 能描述壺鈴把手位置與訓練差異。
+
+### 4.3 能力測試（Competency test）
+
+- 站立姿勢正確，雙腳穩定。
+- 核心繃緊，呼吸正常。
+- 練習 3 組 × 10 次「標準擺放」。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 壺鈴形狀示意：把手在頂部，重心落在中上方。
+- 拉丁三腳架示意：重心對準中心，三點支撐（雙腳、雙側核心）。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell History" by StrongFirst — 查找「Kettlebell history StrongFirst」。
+- 中文：各大運動頻道「壺鈴起源」解析。
+- 推薦關鍵字：`kettlebell history russia`, `kettlebell vs dumbbell vs barbell`。
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》（史蒂夫·寇特）。
+- ACE《Kettlebells》訓練指南。
+
+---
+
+## 6. 練習建議
+
+- 週數：星期一、三、五，各 15 分鐘。
+- 內容：熱身 5 分鐘 → 核心穩定 5 分鐘 → 擺放練習 5 分鐘。
+- 要求：「姿勢正確」優先於「重量」。
+
+---
+
+## 7. 常見問題（FAQ）
+
+**Q：壺鈴需要多貴？**
+A：初學者可用 10–16 kg，約新台幣 1,500–3,000 元。不要追求過輕，應先習慣動作。
+
+**Q：壺鈴適合零基礎？**
+A：適合——但必須先學習正確姿勢，不要一開始就暴力練習。
+
+**Q：每天練習可以嗎？**
+A：可以，但應練習「低強度、技術型」動作；避免高強度的擺盪。可隔日練習，給肌肉恢復時間。

@@ -1,0 +1,188 @@
+# 03 訓練原理與目標設定
+
+## 訓練原理與目標設定（Training Principles & Goal Setting）
+
+### 1. 為什麼需要訓練原理
+
+**中文**：訓練不是隨便舉起重物，而是需要有計畫的刺激與回復。了解原理可以讓你：
+- 不浪費時間與能量；
+- 避免傷害；
+- 持續進步；
+- 符合自己的目標。
+
+**English**：Training is not simply lifting weights randomly; it requires planned stimulus and recovery. Understanding principles helps you: not waste time and energy; avoid injury; progress continuously; match your goals.
+
+### 2. 核心訓練原理
+
+| 原理 | 說明 | 應用 |
+|------|------|------|
+| 特異性（Specificity） | 訓練效果朝向所訓練的方向 | 想減脂 → 高頻、高量；想力量 → 重負荷、低次數 |
+| 漸進超負荷（Progressive Overload） | 隨著適應，逐漸增加刺激 | 重量、次數、組數、時間增加 |
+| 恢復（Recovery） | 肌肉在恢復後變強 | 休息日、睡眠、營養 |
+| 個體差異（Individual Differences） | 每個人的起點與反應不同 | 根據自己的感覺調整 |
+| 過度訓練（Overtraining）避免 | 刺激過多、回復不足 | 休息、降低負荷 |
+
+**English**：| Principle | Description | Application |
+|------|-------------|--------------|
+| Specificity | Training effects target the direction trained | Fat loss → high frequency/volume; Strength → heavy loads, low reps |
+| Progressive Overload | Gradually increase stimulus as adaptation occurs | Increase weight, reps, sets, time |
+| Recovery | Muscles get stronger during recovery | Rest days, sleep, nutrition |
+| Individual Differences | Everyone starts and responds differently | Adjust based on your feel |
+| Avoid Overtraining | Too much stimulus, too little recovery | Rest, reduce load |
+
+### 3. FITT 原則
+
+**中文**：FITT 是設計訓練計畫的基礎框架：
+- **F**requency（頻率）：每週幾次。
+- **I**ntensity（強度）：重量、心率或主觀努力程度（RPE）。
+- **T**ime（時間）：每次練習多久。
+- **T**ype（型別）：訓練類型（力量、體能、柔韌）。
+
+**English**：FITT is the basic framework for designing training programs:
+- **F**requency: how many times per week.
+- **I**ntensity: weight, heart rate, or RPE.
+- **T**ime: duration per session.
+- **T**ype: training type (strength, conditioning, mobility).
+
+### 4. 目標設定（SMART）
+
+**中文**：使用 SMART 設定目標：
+- **S**pecific：具體。
+- **M**easurable：可測量。
+- **A**chievable：可實現。
+- **R**elevant：相關（符合個人情況）。
+- **T**ime-bound：有時限。
+
+例如：
+- 「我要在 8 週內完成雙手擺盪 10 次 × 3 組，且姿勢無崩潰。」
+- 「我要在 12 週內將壺鈴重量從 12 kg 提升至 16 kg。」
+
+**English**：Use SMART for goal setting:
+- **S**pecific: concrete.
+- **M**easurable: measurable.
+- **A**chievable: achievable.
+- **R**elevant: relevant to personal situation.
+- **T**ime-bound: time-limited.
+
+Examples:
+- "I will complete 3 sets of 10 double kettlebell swings within 8 weeks, with no posture breakdown."
+- "I will increase my kettlebell weight from 12 kg to 16 kg within 12 weeks."
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 適應與超負荷
+
+**中文**：身體對刺激的適應，是訓練進步的核心。每次訓練都是一個「刺激」；
+身體適應後，刺激增加，適應再次提升。這就是「漸進超負荷」。
+如果刺激不增加，適應會維持或退化（去適應，detraining）。
+
+**English**：The body's adaptation to stimulus is the core of training progression. Each training session is a "stimulus"; after adaptation, increasing stimulus further raises adaptation. This is "progressive overload."
+If stimulus does not increase, adaptation may plateau or decline (detraining).
+
+### 2.2 強度與量
+
+**中文**：
+- 強度（Intensity）：重量的相對負荷（% 1RM）或主觀努力程度（RPE）。
+- 量（Volume）：總工作量 = 重量 × 次數 × 組數。
+  例如：10 kg × 10 次 × 3 組 = 300 kg·reps。
+
+**English**：
+- Intensity: relative load (% of 1RM) or RPE.
+- Volume: total work = Weight × Reps × Sets.
+  Example: 10 kg × 10 reps × 3 sets = 300 kg·reps.
+
+### 2.3 常用符號
+
+- \(% 1RM\)：1RM 的百分比。
+- \(RPE\)：主觀用力等級（Rate of Perceived Exertion），1–10。
+- \(V = W \times R \times S\)：總量。
+- 恢復週：\(DELOAD\)，通常每 4–6 週安排 1 週負荷降低 50%。
+
+**English**：
+- \(% 1RM\): percentage of 1RM.
+- \(RPE\): Rate of Perceived Exertion, 1–10.
+- \(V = W \times R \times S\): volume.
+- \(DELOAD\): typically every 4–6 weeks, reduce load by 50% for 1 week.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 設定個人目標
+
+1. 寫下你的目標（例如：減脂、體能、力量、姿勢）。
+2. 將目標變成 SMART 形式。
+3. 拆解為 4 週、8 週、12 週的里程碑。
+
+**English**：
+1. Write down your goal (e.g., fat loss, conditioning, strength, posture).
+2. Turn the goal into SMART format.
+3. Break into 4-week, 8-week, 12-week milestones.
+
+### 3.2 設計一個簡單的週訓練表
+
+**中文**：零基礎者推薦週 3 次：
+| 天 | 內容 |
+|----|------|
+| 週一 | 熱身 5 分鐘 + 擺放 3 組 × 10 次 |
+| 週三 | 熱身 5 分鐘 + 硬舉 3 組 × 10 次 + 深蹲 3 組 × 10 次 |
+| 週五 | 熱身 5 分鐘 + 擺盪 3 組 × 10 次 + 肩推 2 組 × 8 次 |
+
+**English**：For beginners: 3 times per week:
+| Day | Content |
+|-----|---------|
+| Mon | Warm-up 5 min + Swing 3 × 10 |
+| Wed | Warm-up 5 min + Deadlift 3 × 10 + Goblet Squat 3 × 10 |
+| Fri | Warm-up 5 min + Swing 3 × 10 + Press 2 × 8 |
+
+### 3.3 漸進負載的實際做法
+
+1. 開始：輕重量，能保持姿勢。
+2. 每週增加：重量或次數的 1 處。
+3. 當質數下降，減少負荷或休息（deload）。
+4. 記錄每次訓練，避免主觀臆測。
+
+**English**：
+1. Start: light weight, maintain posture.
+2. Each week: increase one of: weight, reps, or sets.
+3. If quality drops, reduce load or rest (deload).
+4. Record each session, avoiding subjective guesswork.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 寫下自己的 4 週目標（使用 SMART 格式）。
+2. 設計一個週 3 次的訓練表（包含熱身、動作、放鬆）。
+3. 計算自己的「輕中度訓練心率區間」：\(% HR_{max}\) 或 HRR。
+4. 描述漸進超負荷的三種做法。
+
+### 4.2 自我檢查（Self-check）
+
+- 能用自己的話說出特異性、漸進超負荷、恢復三個概念。
+- 能寫出自己的目標與周訓練表。
+- 能說出 RPE 的意義。
+
+### 4.3 能力測試（Competency test）
+
+- 完成一張「個人訓練計畫表」：目標、週頻率、動作、負荷。
+- 能說出下一週要增加什麼（重量/次數/組數）。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 影片參考
+
+- 英文："Training Principles" — 查找「periodization strength training」。
+- 中文：各大運動頻道「運動原理與漸進超負荷」。
+- 推薦關鍵字：`FITT principle`, `progressive overload`, `periodization`.
+
+### 5.2 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 郵件課程：《Set your goals, choose your plan》。

@@ -1,0 +1,203 @@
+# 23 常見錯誤與修正
+
+## 常見錯誤與修正（Common Mistakes & Corrections）
+
+### 1. 壺鈴訓練常見錯誤
+
+**中文**：壺鈴訓練中，初學者最常見的錯誤有：
+1. 背部弓背（rounding back）。
+2. 膝蓋內扣（knee caving）。
+3. 肩膀耸起（shoulder shrugging）。
+4. 呼吸停頓（breath-holding）。
+5. 重量過大（too heavy）。
+6. 使用手臂發力（arm-dominant）。
+
+**English**：Common kettlebell training mistakes for beginners:
+1. Rounding back.
+2. Knee caving.
+3. Shoulder shrugging.
+4. Breath-holding.
+5. Too heavy.
+6. Arm-dominant.
+
+### 2. 錯誤與修正對照表
+
+| 常見錯誤 | 可能風險 | 修正方法 |
+|----------|----------|----------|
+| 背部弓背 | 脊柱受傷 | 核心繃緊，髖後推 |
+| 膝蓋內扣 | 膝關節受傷 | 膝蓋向外，與腳尖同向 |
+| 肩膀耸起 | 肩部肩頸緊張 | 肩膀下沉，核心繃緊 |
+| 呼吸停頓 | 血壓上升、頭暈 | 保持呼吸，下擺吸氣，起身呼氣 |
+| 重量過大 | 姿勢崩潰 | 減輕重量，先練習無重 |
+| 手臂發力 | 肩部負荷 | 髖部爆發，手臂被動 |
+
+**English**：| Common mistake | Risk | Correction |
+|----------------|------|------------|
+| Rounding back | Spine injury | Core braced, hips back |
+| Knee caving | Knee injury | Knee outward, aligned with toes |
+| Shoulder shrugging | Shoulder/neck tension | Shoulder down, core braced |
+| Breath-holding | Blood pressure rise, dizziness | Breathe continuously, inhale on down, exhale on up |
+| Too heavy | Posture breakdown | Reduce weight, practice no-weight |
+| Arm-dominant | Shoulder load | Hip explosion, arms passive |
+
+### 3. 每個動作的常見錯誤
+
+**中文**：
+- **擺盪**：把擺盪當成「抬臂」— 修正：髖部爆發。
+- **硬起**：膝蓋過度前進 — 修正：髖後推，減少膝蓋移動。
+- **上搏**：肘部未收納 — 修正：肘部收到，壺鈴包圍。
+- **深蹲**：膝蓋內扣 — 修正：膝蓋向外。
+- **肩推**：耸肩 — 修正：肩膀下沉。
+- **抓舉**：軌道橫向 — 修正：軌道垂直。
+
+**English**：| Movement | Common mistake | Correction |
+|----------|----------------|------------|
+| Swing | Treating swing as "lifting arms" | Hip explosion |
+| Deadlift | Knees too forward | Hips back, reduce knee movement |
+| Clean | Elbow not tucked | Elbow in, bell wraps |
+| Goblet squat | Knee caving | Knee outward |
+| Press | Shrugging | Shoulder down |
+| Snatch | Lateral orbit | Vertical orbit |
+
+### 4. 如何修正
+
+**中文**：
+1. **慢一點**：慢速練動作，檢查細節。
+2. **無重練習**：先練習無重，再加重量。
+3. **照鏡**：在鏡中觀察自己的姿勢。
+4. **照片**：每 2 週拍一次，比較。
+5. **求助**：向教練或有經驗者請教。
+
+**English**：| Method | How |
+|--------|-----|
+| Slow | Slow down, check details |
+| No-weight | Practice no-weight first |
+| Mirror | Observe posture in mirror |
+| Video | Record every 2 weeks |
+| Coach | Ask a coach or experienced person |
+
+### 5. 修正的原則
+
+- 優先修正「影響安全」的錯誤（背部弓背、膝蓋內扣）。
+- 再修正「影響效果」的錯誤（手臂發力、軌道不直）。
+- 漸進修正，避免一次修正太多。
+
+**English**：
+- Fix mistakes affecting safety first (rounding back, knee caving).
+- Then fix those affecting effectiveness (arm-dominant, trajectory).
+- Correct progressively, avoid fixing too many at once.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 姿勢與安全
+
+**中文**：姿勢是安全的第一道防線。
+- 中立脊柱（neutral spine）最安全。
+- 核心繃緊提供穩定。
+- 負荷均勻分佈在全身。
+
+**English**：Posture is the first line of safety.
+- Neutral spine is safest.
+- Core bracing provides stability.
+- Load distributed evenly.
+
+### 2.2 錯誤的力學
+
+**中文**：
+- 背部弓背：脊柱壓力增加。
+- 膝蓋內扣：膝關節內側壓力增加。
+- 肩膀耸起：頸部肩部負荷增加。
+
+**English**：
+- Rounding back: spinal pressure increases.
+- Knee caving: medial knee pressure increases.
+- Shoulder shrugging: neck/shoulder load increases.
+
+### 2.3 公式
+
+- 脊柱壓力：\(σ = \frac{F}{A}\)。
+- 膝關節內側壓力：\(σ = \frac{F}{A}\)（角度影響）。
+- 力臂：\(d\)，與力矩成正比。
+
+**English**：
+- Spinal pressure: \(σ = \frac{F}{A}\).
+- Medial knee pressure: \(σ = \frac{F}{A}\) (angle effect).
+- Moment arm: \(d\), proportional to torque.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 自我檢查列表
+
+**中文**：每次訓練後，問自己：
+1. 背部是否平直？
+2. 膝蓋是否內扣？
+3. 肩膀是否耸起？
+4. 呼吸是否連續？
+5. 是否感到痛？
+
+**English**：
+1. Is the back straight?
+2. Are the knees caving?
+3. Are the shoulders shrugging?
+4. Is breathing continuous?
+5. Do I feel pain?
+
+### 3.2 修正練習
+
+1. 選一個自己常見的錯誤。
+2. 做 3 組 × 10 次無重練習。
+3. 專注於修正。
+4. 每 2 週拍一張照片。
+
+**English**：
+1. Choose one common mistake.
+2. Do 3 sets × 10 no-weight reps.
+3. Focus on correction.
+4. Take a photo every 2 weeks.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 找出自己最常見的錯誤（至少 2 個）。
+2. 描述修正方法。
+3. 完成 3 組 × 10 次無重修正練習。
+4. 描述自己訓練後的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 能找出自己的常見錯誤。
+- 能描述修正方法。
+- 能完成修正練習。
+
+### 4.3 能力測試（Competency test）
+
+- 能在鏡中識別自己的錯誤。
+- 能描述修正的具體方法。
+- 能說出修正的優先順序。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 常見錯誤示意：「背部弓背」「膝蓋內扣」「肩膀耸起」。
+- 修正流程圖：發現錯誤 → 分析 → 修正 → 練習。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Common Mistakes" — 查找「kettlebell common mistakes」。
+- 中文：各大運動頻道「壺鈴常見錯誤」。
+- 推薦關鍵字：`kettlebell mistakes`, `kettlebell form cues`, `kettlebell form correction`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Form & Technique》。

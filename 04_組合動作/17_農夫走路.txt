@@ -1,0 +1,201 @@
+# 17 農夫走路（Farmer's Walk）
+
+## 農夫走路（Farmer's Walk）
+
+### 1. 農夫走路是什麼
+
+**中文**：農夫走路（Farmer's Walk）是一種「手持重物，直走」的動作。
+可以用雙手（雙壺）或單手（單壺）進行。
+這是訓練核心穩定、握力與肩部穩定的優秀動作。
+它的特點是「重心穩定」—— 重量固定，核心需要持續繃緊。
+
+**English**：Farmer's Walk is a "hold the weight, walk straight" movement.
+Can be done with both hands (dual bells) or one hand (single bell).
+It trains core stability, grip strength, and shoulder stability.
+It's an excellent movement for stability — the weight is fixed, and the core must maintain tension throughout.
+
+### 2. 農夫走路的標準流程
+
+1. 站立，雙手（或單手）持壺鈴。
+2. 核心繃緊，脊柱中立。
+3. 直立，沿著任何安全路徑行走。
+4. 保持肩膀下沉，手臂穩定。
+5. 行走一段距離或固定時間。
+6. 緩慢放下。
+7. 連續完成。
+
+**English**：
+1. Stand, hold the bell with both hands (or one hand).
+2. Core braced, spine neutral.
+3. Stand tall, walk along any safe path.
+4. Keep shoulders down, arms stable.
+5. Walk a distance or time.
+6. Slowly lower.
+7. Repeat.
+
+### 3. 農夫走路的要點
+
+| 要點 | 說明 |
+|------|------|
+| 核心繃緊 | 保護脊椎，維持中立 |
+| 肩膀穩定 | 不要耸肩 |
+| 姿勢直立 | 脊柱中立 |
+| 呼吸 | 連續呼吸，保持穩定 |
+| 握力 | 握持穩定，避免滑落 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Core braced | Protect spine, neutral |
+| Shoulder stable | Don't shrug |
+| Posture tall | Spine neutral |
+| Breathing | Continuous, stable |
+| Grip | Stable, avoid slip |
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 耸肩 | 肩膀下沉，核心繃緊 |
+| 脊柱彎曲 | 保持中立 |
+| 握力不足 | 練習握力，減輕重量 |
+| 步伐不穩 | 慢慢練，保持核心 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Shrugging | Shoulder down, core braced |
+| Spine bent | Keep neutral |
+| Grip weak | Practice grip, reduce weight |
+| Unsteady steps | Practice slow, core intact |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 農夫走路與核心穩定
+
+**中文**：農夫走路是一種「抗側屈」（anti-lateral flexion）訓練。
+核心需要抵抗重心的偏移，保持脊柱中立。
+這種穩定訓練對於保護背部與提升動作質量很重要。
+
+**English**：Farmer's Walk is a "anti-lateral flexion" training.
+The core must resist center-of-mass shift, maintaining a neutral spine.
+This stability training is important for protecting the back and improving movement quality.
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：核心肌群（腹直肌、腹橫肌、腹斜肌）、肩三角肌、上背肌。
+- 穩定肌：竿樣肌、骨盆底肌。
+- 輔助肌：臀中肌、腓腸肌。
+
+**English**：
+- Prime movers: core (rectus abdominis, transverse abdominis, obliques), deltoids, upper back.
+- Stabilizers: erector spinae, pelvic floor.
+- Assistants: gluteus medius, calf muscles.
+
+### 2.3 公式
+
+- 核心抗側屈：\(F_{core}\)，抵抗拉力。
+- 握力：\(F_{grip}\)，擺動。
+- 走路功：\(W = F \times d\)，力乘以距離。
+
+**English**：
+- Anti-lateral flexion: \(F_{core}\), counteracting force.
+- Grip strength: \(F_{grip}\), pressure.
+- Walking work: \(W = F \times d\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 輕重量雙手 | 感受核心綑緊 |
+| 2 | 8–12 kg 雙手 | 掌握穩定 |
+| 3 | 12–16 kg | 漸進 |
+| 4 | 單手農夫走路 | 精細控制 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | Light dual hands | Feel core bracing |
+| 2 | 8–12 kg dual hands | Master stability |
+| 3 | 12–16 kg | Progression |
+| 4 | Single-arm farmer's walk | Fine control |
+
+### 3.2 農夫走路流程
+
+1. 站立，雙手持壺鈴。
+2. 核心繃緊。
+3. 直立，行走。
+4. 保持肩膀穩定。
+5. 行走 10–20 米。
+6. 緩慢放下。
+7. 連續完成。
+
+**English**：
+1. Stand, hold bell with both hands.
+2. Core braced.
+3. Stand tall, walk.
+4. Keep shoulders stable.
+5. Walk 10–20 m.
+6. Slowly lower.
+7. Repeat.
+
+### 3.3 呼吸與穩定
+
+- 保持連續呼吸。
+- 核心繃緊，不要放鬆。
+- 呼吸與步伐同步。
+
+**English**：
+- Keep continuous breathing.
+- Core braced, don't relax.
+- Sync breathing with steps.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出農夫走路的兩個優勢。
+2. 說出農夫走路的主動肌與穩定肌。
+3. 完成 3 組 × 20 米「輕重量農夫走路」。
+4. 描述核心穩定的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 核心繃緊，脊柱中立。
+- 肩膀不耸起。
+- 握力穩定。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「雙手農夫走路」，3 組 × 20 米。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出農夫走路的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體農夫走路示意：標記核心、肩部、手部。
+- 動作路徑：直行。
+
+### 5.2 影片參考
+
+- 英文："Farmer's Walk" — 查找「farmer's walk」。
+- 中文：各大運動頻道「農夫走路」。
+- 推薦關鍵字：`farmer's walk`, `farmer's walk kettlebell`, `grip strength`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Farmer's Walk》基礎課程。

@@ -1,0 +1,188 @@
+# 20 熱身與放鬆（Warm-up / Cool-down）
+
+## 熱身與放鬆（Warm-up / Cool-down）
+
+### 1. 為什麼需要熱身與放鬆
+
+**中文**：熱身與放鬆是訓練前後不可缺少的部份。它們能：
+- 熱身：提高體溫、心率，為運動做準備，降低受傷風險。
+- 放鬆：幫助肌肉恢復，舒緩神經系統，降低肌肉僵硬。
+
+**English**：Warm-up and cool-down are essential parts of training.
+- Warm-up: raise body temperature and heart rate, prepare for exercise, reduce injury risk.
+- Cool-down: help muscles recover, relax the nervous system, reduce muscle stiffness.
+
+### 2. 熱身流程（5–10 分鐘）
+
+**中文**：熱身流程：
+1. **靜態自體動員**：安靜地做深呼吸、肩膀圍圈。
+2. **關節活動**：腕、肘、肩、髖、膝、踝各活動 10 次。
+3. **肌肉激活**：臀部收縮、核心繃緊、身體激活。
+4. **低強度有氧**：快走、輕快搏動，或輕輕擺盪。
+5. **動態伸展**：弓步、開合跳、身體旋轉。
+
+**English**：Warm-up flow:
+1. **Static self-mobilization**: quiet deep breathing, shoulder circles.
+2. **Joint mobility**: wrist, elbow, shoulder, hip, knee, ankle, 10 reps each.
+3. **Muscle activation**: glute squeeze, core bracing, body activation.
+4. **Low-intensity cardio**: brisk walking, light jogging, or gentle swing.
+5. **Dynamic stretching**: lunges, jumping jacks, body rotations.
+
+### 3. 放鬆流程（5–10 分鐘）
+
+**中文**：放鬆流程：
+1. **靜態伸展**：腿後側、髖屈肌、胸部、肩部、各主要肌群伸展。
+2. **呼吸放鬆**：深呼吸，緩慢呼氣，降低心率。
+3. **肌肉放鬆**：自我按摩、揉捏緊張肌肉。
+4. **靜態放鬆**：坐下，閉眼，意識放鬆全身。
+
+**English**：Cool-down flow:
+1. **Static stretching**: hamstrings, hip flexors, chest, shoulders, major muscle groups.
+2. **Breathing relaxation**: deep breathing, slow exhales, lower heart rate.
+3. **Muscle relaxation**: self-massage, kneading tight muscles.
+4. **Static relaxation**: sit, close eyes, relax the whole body.
+
+### 4. 熱身與放鬆的要點
+
+| 項目 | 熱身 | 放鬆 |
+|------|------|------|
+| 目的 | 準備運動 | 恢復 |
+| 強度 | 低 → 漸升 | 高 → 漸降 |
+| 時間 | 5–10 分鐘 | 5–10 分鐘 |
+| 動作 | 動態 | 靜態 |
+| 呼吸 | 連續 | 緩慢深呼吸 |
+
+**English**：| Item | Warm-up | Cool-down |
+|------|---------|-----------|
+| Purpose | Prepare for exercise | Recovery |
+| Intensity | Low → Gradual increase | High → Gradual decrease |
+| Time | 5–10 min | 5–10 min |
+| Movement | Dynamic | Static |
+| Breathing | Continuous | Slow, deep |
+
+### 5. 熱身與放鬆的注意事項
+
+- 熱身不宜過度，避免提前疲勞。
+- 放鬆時不宜過度拉伸，避免肌肉拉傷。
+- 若有舊傷，熱身前先諮詢醫師。
+- 熱身後自己能感到「溫熱」與「輕鬆」即可。
+
+**English**：
+- Warm-up too intense, causing early fatigue.
+- Cool-down do not overstretch, avoid muscle strain.
+- If old injuries, consult a doctor before warm-up.
+- After warm-up, feel "warm" and "relaxed" is enough.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 熱身的生理學
+
+**中文**：
+- 體溫升高：肌肉彈性增加，肌腱韌帶更能承受負荷。
+- 心率升高：血液供應增加，能量供應更充足。
+- 急性系統活動：神經系統更活跃，動作反應更靈敏。
+
+**English**：
+- Body temperature rises: muscles elasticity increases, tendons/ligaments better tolerate load.
+- Heart rate rises: blood supply increases, energy supply better.
+- Acute system activity: nervous system more active, reactions more agile.
+
+### 2.2 放鬆的生理學
+
+**中文**：
+- 心率降：呼吸和循環恢復。
+- 腎上腺素降：神經系統放鬆。
+- 乳酸代謝：運動後乳酸被代謝，緩解肌肉酸痛。
+
+**English**：
+- Heart rate drops: breathing and circulation recover.
+- Adrenaline drops: nervous system relaxes.
+- Lactate metabolism: post-exercise lactate metabolized, easing muscle soreness.
+
+### 2.3 公式
+
+- 脈搏上限：\(HR_{max} = 220 - 年齡\)。
+- 訓練心率：\(HR_{train} = % HR_{max}\)。
+- 放鬆心率：\(HR_{relax}\)，接近靜息心率。
+
+**English**：
+- Pulse max: \(HR_{max} = 220 - age\).
+- Training heart rate: \(HR_{train} = % HR_{max}\).
+- Relax heart rate: \(HR_{relax}\), near resting heart rate.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 完整熱身流程（5–10 分鐘）
+
+1. 靜態自體動員：深呼吸 5 次。
+2. 關節活動：腕、肘、肩、髖、膝、踝各 10 次。
+3. 肌肉激活：臀部收縮 10 次，核心繃緊 10 秒。
+4. 低強度有氧：快走、輕快搏動 3 分鐘。
+5. 動態伸展：弓步 10 次，開合跳 20 次，身體旋轉 10 次。
+
+**English**：
+1. Static self-mobilization: deep breathing 5 reps.
+2. Joint mobility: wrist, elbow, shoulder, hip, knee, ankle, 10 reps each.
+3. Muscle activation: glute squeeze 10 reps, core bracing 10 seconds.
+4. Low-intensity cardio: brisk walking, light jogs, 3 minutes.
+5. Dynamic stretching: lunges 10 reps, jumping jacks 20 reps, body rotations 10 reps.
+
+### 3.2 完整放鬆流程（5–10 分鐘）
+
+1. 靜態伸展：腿後側、髖屈肌、胸部、肩部、各主要肌群伸展 30 秒。
+2. 呼吸放鬆：深呼吸 5 次，緩慢呼氣。
+3. 肌肉放鬆：自我按摩、揉捏緊張肌肉。
+4. 靜態放鬆：坐下，閉眼，意識放鬆全身。
+
+**English**：
+1. Static stretching: hamstrings, hip flexors, chest, shoulders, major muscle groups, 30 seconds each.
+2. Breathing relaxation: deep breathing 5 reps, slow exhales.
+3. Muscle relaxation: self-massage, kneading tight muscles.
+4. Static relaxation: sit, close eyes, relax the whole body.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 完成一次完整熱身流程（5–10 分鐘）。
+2. 完成一次完整放鬆流程（5–10 分鐘）。
+3. 描述熱身與放鬆的兩個差異。
+4. 說出自己訓練後的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 能完成 5–10 分鐘熱身。
+- 能完成 5–10 分鐘放鬆。
+- 能描述熱身與放鬆的差異。
+
+### 4.3 能力測試（Competency test）
+
+- 能在訓練前後分別完成熱身與放鬆。
+- 能描述訓練後的體感。
+- 能說出熱身與放鬆的注意事項。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 熱身流程圖：靜態自體動員 → 關節活動 → 肌肉激活 → 低強度有氧 → 動態伸展。
+- 放鬆流程圖：靜態伸展 → 呼吸放鬆 → 肌肉放鬆 → 靜態放鬆。
+
+### 5.2 影片參考
+
+- 英文："Warm-up & Cool-down" — 查找「warm-up cool-down」。
+- 中文：各大運動頻道「熱身與放鬆」。
+- 推薦關鍵字：`warm-up cool-down`, `dynamic stretching`.
+
+### 5.3 補充資源
+
+- 國際運動醫學會（ACSM）《運動處方指南》。
+- 熱身放鬆指南（中文）—— 各地健身機構出版。

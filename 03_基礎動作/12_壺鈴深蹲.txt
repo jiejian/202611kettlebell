@@ -1,0 +1,205 @@
+# 12 壺鈴深蹲（Goblet Squat）
+
+## 壺鈴深蹲（Goblet Squat）
+
+### 1. 深蹲是什麼
+
+**中文**：深蹲（Goblet Squat）是一種「手持壺鈴於胸前，做深蹲」的動作。
+壺鈴放在胸前能提供穩定中心，適合零基礎者學習深蹲的基本軌跡。
+深蹲的主要肌群是股四頭肌（quadriceps）、臀大肌、竿樣肌與核心。
+
+**English**：The goblet squat is a "hold the bell in front of the chest and do a squat" movement.
+Holding the bell at the chest provides a stable center of mass, suitable for beginners learning the squat pattern.
+Main muscles: quadriceps, glutes, erector spinae, core.
+
+### 2. 深蹲的標準流程
+
+1. 站立，雙腳與肩同寬或略窄。
+2. 雙手持壺鈴於胸前（rack position）。
+3. 髖部後推，膝蓋向外展開（但不內扣）。
+4. 臀部向後，身體前傾，維持中立。
+5. 蹲到舒適深度（可達大腿平行或更深）。
+6. 爆發站起，臀部收縮。
+7. 緩慢放下，回到起始姿勢。
+
+**English**：
+1. Stand, feet shoulder-width or slightly narrower.
+2. Hold the bell at the chest.
+3. Hips push back, knees outward (not caving).
+4. Hips back, torso leaning, neutral spine.
+5. Squat to comfortable depth (thighs parallel or deeper).
+6. Explosively stand, glutes contracted.
+7. Slowly lower, return.
+
+### 3. 深蹲的要點
+
+| 要點 | 說明 |
+|------|------|
+| 膝蓋指向外 | 不要內扣 |
+| 胸部開放 | 脊柱中立 |
+| 足部穩定 | 三點觸地 |
+| 壺鈴位置 | 胸前，保持穩定 |
+| 呼吸 | 蹲下時吸氣，站起時呼氣 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Knees outward | Don't cave in |
+| Chest open | Neutral spine |
+| Feet stable | Three-point contact |
+| Bell position | At chest, stable |
+| Breathing | Inhale on down, exhale on up |
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 膝蓋內扣 | 膝蓋向外，與腳尖同向 |
+| 脊柱弯曲 | 保持中立，核心繃緊 |
+| 足部不穩 | 感受三點觸地， gcds 穩定 |
+| 壺鈴下滑 | 把壺鈴托在胸前，核心繃緊 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Knees caving | Knees outward, aligned with toes |
+| Spine bending | Neutral, core braced |
+| Feet unstable | Feel three-point contact |
+| Bell sliding | Hold bell on chest, core braced |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 深蹲與髖關節槍開的差異
+
+| 項目 | 深蹲（Squat） | 髖關節槍開（Hinge） |
+|------|---------------|-------------------|
+| 主要移動 | 膝蓋前進、髋屈曲 | 髖點後退 |
+| 主要肌群 | 股四頭肌、臀大肌 | 臀大肌、股二頭肌 |
+| 背部 | 維持平直 | 前傾 |
+| 膝蓋 | 遠離腳尖 | 微屈 |
+
+**English**：| Item | Squat | Hinge |
+|------|-------|-----|
+| Main movement | Knee forward, hip flexion | Hip moves back |
+| Main muscles | Quadriceps, glutes | Glutes, hamstrings |
+| Back | Straight | Leaning |
+| Knees | Forward | Slightly bent |
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：股四頭肌、臀大肌、竿樣肌、腹橫肌。
+- 穩定肌：竿樣肌、腹斜肌、骨盆底。
+- 輔助肌：竿樣肌、臀中肌。
+
+**English**：
+- Prime movers: quadriceps, glutes, erector spinae, transversus abdominis.
+- Stabilizers: erector spinae, obliques, pelvic floor.
+- Assistants: hamstrings, gluteus medius.
+
+### 2.3 公式
+
+- 深蹲的損失：\(W = m \times g \times d\)，質量乘以重力乘以深度。
+- 膝關節的力矩：\(τ = F \times d\)，力乘以力臂。
+- 核心張力：\(σ = \frac{F}{A}\)，力除以面積。
+
+**English**：
+- Squat work: \(W = m \times g \times d\).
+- Knee torque: \(τ = F \times d\).
+- Core tension: \(σ = \frac{F}{A}\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 無重深蹲 | 感受膝蓋與髖部 |
+| 2 | 壺鈴於胸前深蹲 | 穩定重量 |
+| 3 | 8–12 kg 深蹲 | 掌握軌跡 |
+| 4 | 12–16 kg | 漸進 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | No-weight squat | Feel knee & hip |
+| 2 | Bell at chest squat | Stabilize weight |
+| 3 | 8–12 kg squat | Master trajectory |
+| 4 | 12–16 kg | Progression |
+
+### 3.2 深蹲流程
+
+1. 站立，雙腳與肩同寬。
+2. 雙手持壺鈴於胸前。
+3. 髖部後推，膝蓋向外。
+4. 蹲到舒適深度。
+5. 爆發站起。
+6. 緩慢放下。
+7. 3 組 × 10 次。
+
+**English**：
+1. Stand, feet shoulder-width.
+2. Hold bell at chest.
+3. Hips push back, knees outward.
+4. Squat to comfortable depth.
+5. Explosively stand.
+6. Slowly lower.
+7. 3 sets × 10.
+
+### 3.3 呼吸與穩定
+
+- 蹲下時：吸氣，核心繃緊。
+- 站起時：呼氣。
+- 壺鈴保持在胸前，不要下滑。
+
+**English**：
+- On down: inhale, core braced.
+- On up: exhale.
+- Bell stays on chest, don't slide.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出深蹲與擺盪的兩個差異。
+2. 說出深蹲的主動肌與穩定肌。
+3. 完成 3 組 × 10 次「無重深蹲」。
+4. 描述深蹲中膝蓋的位置。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 膝蓋指向外，不內扣。
+- 脊柱中立，背部不弓。
+- 壺鈴保持在胸前。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「深蹲」，3 組 × 10 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出深蹲的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體深蹲示意：標記膝蓋、髖部、脊柱、壺鈴。
+- 動作路徑：從站立到蹲下再到站起。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Goblet Squat" — 查找「goblet squat」。
+- 中文：各大運動頻道「壺鈴深蹲」。
+- 推薦關鍵字：`goblet squat`, `kettlebell squat`, `squat form`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Goblet Squat》基礎課程。

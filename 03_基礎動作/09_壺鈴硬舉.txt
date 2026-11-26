@@ -1,0 +1,195 @@
+# 09 壺鈴硬舉（Deadlift）
+
+## 壺鈴硬舉（Kettlebell Deadlift）
+
+### 1. 硬舉是什麼
+
+**中文**：硬舉是一種「從地面到站立」的直線擡升動作，主要訓練後鏵鏈（臀大肌、股二頭肌、竿樣肌）與核心。
+在壺鈴訓練中，硬舉是最基本的力量動作，所有上搏、擺盪、大纜等動作都基於硬舉的力量。
+
+**English**：The deadlift is a "ground-to-standing straight lift" that primarily trains the posterior chain (glutes, hamstrings, erector spinae) and core.
+In kettlebell training, the deadlift is the most fundamental strength movement, and all clean, swing, and carry movements are based on its strength.
+
+### 2. 硬式（Hardstyle）與俄式（Girevoy）的硬舉差異
+
+| 項目 | 硬式（Hardstyle） | 俄式（Girevoy） |
+|------|-------------------|-----------------|
+| 重點 | 爆發性髖伸展、核心剛性 | 流暢、穩定、控制 |
+| 呼吸 | 短促、快速、爆發性 | 連續、呼吸與動作同步 |
+| 速度 | 快、急促 | 稍慢、節奏感 |
+| 最終姿勢 | 脊柱中立、臀部收縮 | 自然、流暢 |
+
+**English**：| Item | Hardstyle | Girevoy |
+|------|-----------|---------|
+| Focus | Explosive hip extension, core rigidity | Smooth, stable, controlled |
+| Breathing | Short, quick, explosive | Continuous, synced with movement |
+| Speed | Fast, abrupt | Slightly slower, rhythmic |
+| Final posture | Neutral spine, glutes contracted | Natural, smooth |
+
+### 3. 硬舉的標準要點
+
+1. 站立，壺鈴置於雙腳前方、稍遠。
+2. 雙腳與肩同寬或略窄。
+3. 膝蓋微屈，髖部後推。
+4. 身體前傾，手持壺鈴，掌心向內。
+5. 背部平直，核心繃緊。
+6. 爆發性站起，臀部收縮。
+7. 緩慢放下，回到起始姿勢。
+
+**English**：
+1. Stand with the bell in front of the feet, slightly far.
+2. Feet shoulder-width or slightly narrower.
+3. Knees slightly bent, hips push back.
+4. Torso leans forward, hold the bell, palms inward.
+5. Back straight, core braced.
+6. Explosively stand up, glutes contracted.
+7. Slowly lower, return to start.
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 弓背（rounding back） | 更多時後推髖部，保持中立。 |
+| 膝蓋過度前進 | 減少膝蓋移動，更多向後推髖。 |
+| 重量過大 | 減輕重量，先練習無重。 |
+| 呼吸不連續 | 保持呼吸，不要屏氣。 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Rounding back | Push hips back more, keep neutral. |
+| Knees too forward | Reduce knee movement, push hips back more. |
+| Too heavy | Reduce weight, practice no-weight. |
+| Uncoordinated breathing | Breathe continuously, don't hold. |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 硬舉與髖關節槍開的關聯
+
+**中文**：硬舉基礎於髖關節槍開。
+硬舉是「槍開的垂直化」—— 髖點後退的同時，真正移動了重量。
+在擺盪中，髖伸展的彈性能量被產生；在硬舉中，這種力量被轉化為直線擡升。
+
+**English**：The deadlift builds on the hip hinge.
+The deadlift is the "verticalization of the hinge" — while the hip moves back, the weight actually moves.
+In the swing, the elastic energy of hip extension is generated; in the deadlift, this force is converted into a straight lift.
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：臀大肌、股二頭肌、竿樣肌、腹橫肌。
+- 穩定肌：竿樣肌、腹斜肌、骨盆底。
+- 輔助肌：竿樣肌、臀中肌。
+
+**English**：
+- Prime movers: glutes, hamstrings, erector spinae, transverse abdominis.
+- Stabilizers: erector spinae, obliques, pelvic floor.
+- Assistants: hamstrings, gluteus medius.
+
+### 2.3 公式
+
+- 引力：\(F = m \times g\)，質量乘以重力加速度。
+- 做功：\(W = F \times d\)，力乘以距離。
+- 輸出功率：\(P = \frac{W}{t}\)，功除以時間。
+
+**English**：
+- Gravity: \(F = m \times g\).
+- Work: \(W = F \times d\).
+- Power output: \(P = \frac{W}{t}\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段練習：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 無重髖關節槍開 | 姿勢正確 |
+| 2 | 輕重量壺鈴無重擺放 | 感受重量 |
+| 3 | 8–12 kg 硬起 | 掌握坐緊 |
+| 4 | 12–16 kg | 漸進 |
+
+**English**：Zero beginners are recommended to practice in stages:
+| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | No-weight hip hinge | Correct posture |
+| 2 | Light kettlebell no-weight swing | Feel the weight |
+| 3 | 8–12 kg deadlift | Master the squat |
+| 4 | 12–16 kg | Progression |
+
+### 3.2 硬舉流程
+
+1. 站立，壺鈴置於雙腳前方。
+2. 膝蓋微屈，髖部後推。
+3. 身體前傾，握壺鈴。
+4. 爆發站起，臀部收縮。
+5. 緩慢放下。
+6. 3 組 × 10 次。
+
+**English**：
+1. Stand, bell in front of feet.
+2. Knees slightly bent, hips push back.
+3. Torso leans forward, grip the bell.
+4. Explosively stand up, glutes contracted.
+5. Slowly lower.
+6. 3 sets × 10.
+
+### 3.3 硬式與俄式風格
+
+| 風格 | 動作 | 重點 |
+|------|------|------|
+| 硬式 | 快、爆發 | 髖伸展、核心剛性 |
+| 俄式 | 慢、連續 | 控制、呼吸連續 |
+
+**English**：| Style | Movement | Focus |
+|-------|----------|-------|
+| Hardstyle | Fast, explosive | Hip extension, core rigidity |
+| Girevoy | Slow, continuous | Control, continuous breathing |
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出硬舉與擺盪的兩個差異。
+2. 說出硬舉的主動肌與穩定肌。
+3. 完成 3 組 × 10 次「硬起練習」。
+4. 描述自己練習硬舉的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 脊柱中立，背部不弓。
+- 膝蓋不過度前進。
+- 核心繃緊。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「硬起」，3 組 × 10 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出硬舉的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體硬起示意：標記髖點、脊柱、臀部、膝蓋。
+- 動作路徑：從地面到站立。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Deadlift" — 查找「kettlebell deadlift」。
+- 中文：各大運動頻道「壺鈴硬舉」。
+- 推薦關鍵字：`kettlebell deadlift`, `deadlift form`, `hardstyle deadlift`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Deadlift》基礎課程。

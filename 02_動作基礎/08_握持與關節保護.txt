@@ -1,0 +1,223 @@
+# 08 握持與關節保護
+
+## 握持與關節保護（Grip & Joint Protection）
+
+### 1. 握持的重要性
+
+**中文**：壺鈴的把手位置特殊，握持是整個動作的基礎。
+良好的握持能：
+- 保持壺鈴穩定，避免滑落。
+- 減少手腕、肘部的不必要負荷。
+- 幫助核心與肩膀穩定。
+
+**English**：The kettlebell's handle position is specialized, and gripping is the foundation of the whole movement.
+Good gripping:
+- Keeps the bell stable, prevents slipping.
+- Reduces unnecessary load on wrists and elbows.
+- Helps stabilize the core and shoulders.
+
+### 2. 握持方法
+
+**中文**：
+- 握把（Grip）：手指與手掌捏住把手。
+- 正握（Forehand）：掌心向上，常用於擺盪、硬舉。
+- 反握（Reverse）：掌心向前，常用於負重深蹲、抓舉。
+- 抓握（Crisp）：手指緊握，常用於强力訓練。
+
+**English**：
+- Grip: fingers and palm wrap around the handle.
+- Forehand: palm up, commonly used for swings, deadlifts.
+- Reverse: palm forward, commonly used for goblet squats, cleans.
+- Crisp: fingers tight, used for intensity training.
+
+### 3. 關節中立
+
+**中文**：
+- 腕關節中立：手腕與前臂在同一直線，避免過伸或過屈。
+- 肘關節：輕微彎曲，在動作中保持穩定。
+- 肩關節：穩定，不過度抬高。
+
+**English**：
+- Wrist neutral: wrist aligned with forearm, avoid hyperextension or flexion.
+- Elbow: slightly bent, stable in movement.
+- Shoulder: stable, not overly elevated.
+
+### 4. 常用模板
+
+| 關節 | 保護的要點 | 常見錯誤 |
+|------|------------|----------|
+| 腕 | 中立，不過伸 | 手腕過伸，壓迫 |
+| 肘 | 輕微彎曲 | 過伸、過緊 |
+| 肩 | 穩定，不抬高 | 耸肩、肩關節錯位 |
+| 髖 | 中立，無內扣 | 膝蓋內扣 |
+
+**English**：| Joint | Protection points | Common mistakes |
+|------|-----------------|-------------|
+| Wrist | Neutral, no hyperextension | Hyperextension, compression |
+| Elbow | Slightly bent | Hyperextension, excessive tension |
+| Shoulder | Stable, not elevated | Shrugging, joint misalignment |
+| Hip | Neutral, no caving | Knee caving |
+
+### 5. 壺鈴握持練習
+
+1. 站立，雙腳與肩同寬。
+2. 拿起壺鈴，熟悉手柄位置。
+3. 檢查手腕：
+   - 是否中立？
+   - 是否有壓痛？
+4. 做 3 組 × 10 次「無重擺放」。
+5. 描述握持感覺。
+
+**English**：
+1. Stand, feet shoulder-width.
+2. Pick up the bell, familiarize with handle.
+3. Check wrist:
+   - Neutral?
+   - Any pain?
+4. Do 3 sets × 10 "no-weight swings".
+5. Describe grip sensation.
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 握持與穩定
+
+**中文**：
+- 握持是「反作用力」（reaction force）：手指與手掌收緊，把手包住。
+- 把手位於重心之外，增加了穩定需求。
+- 握力差會導致動作不穩，增加腕部與前臂負荷。
+
+**English**：
+- Grip is a "reaction force": fingers and palm tighten, wrap around the handle.
+- The handle offset from the center of mass increases stability demands.
+- Poor grip leads to unstable movement, increasing wrist and forearm load.
+
+### 2.2 力學關係
+
+**中文**：
+- 握力（Grip strength）：手指與手掌的壓力。
+- 手腕角度：\(θ_{wrist}\)，過伸或過屈會增加壓力。
+- 壺鈴的重心：\(w\)，距離把手的距離 \(d\)。
+- 力矩：\(τ = F \times d\)。
+
+**English**：
+- Grip strength: pressure of fingers and palm.
+- Wrist angle: \(θ_{wrist}\), hyperextension or flexion increases pressure.
+- Bell center of mass: \(w\), distance from handle \(d\).
+- Torque: \(τ = F \times d\).
+
+### 2.3 關節保護原則
+
+**中文**：
+- 順應自然解剖學（respect natural anatomy）。
+- 避免極端角度（avoid extreme angles）。
+- 負荷均勻（load distribution）。
+- 感覺不適立即減輕。
+
+**English**：
+- Respect natural anatomy.
+- Avoid extreme angles.
+- Load distribution.
+- Reduce immediately if discomfort is felt.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 握持練習
+
+1. 站立，雙腳與肩同寬。
+2. 拿起壺鈴。
+3. 檢查手腕：
+   - 是否中立？
+   - 是否有壓痛？
+4. 做 3 組 × 10 次「無重擺放」。
+5. 描述握持感覺。
+
+**English**：
+1. Stand, feet shoulder-width.
+2. Pick up the bell.
+3. Check wrist:
+   - Neutral?
+   - Any pain?
+4. Do 3 sets × 10 "no-weight swings".
+5. Describe grip sensation.
+
+### 3.2 握力練習
+
+- 壺鈴碎（Grip holds）：握住壺鈴，保持 10 秒。
+- 壺鈴吊（Bell hangs）：手握壺鈴，慢慢下落，感受握力。
+- 壺鈴擺（Bell yawns）：手握壺鈴，慢慢擺動，感受穩定。
+
+**English**：
+- Bell hangs: grip the bell, slowly lower, feel grip strength.
+- Bell swings: grip the bell, slowly swing, feel stability.
+
+### 3.3 關節保護練習
+
+1. 關節活動：
+   - 腕關節旋轉。
+   - 肘關節屈伸。
+   - 肩關節圍圈。
+2. 靜態檢查：
+   - 觀察各關節是否在自然位置。
+3. 呼吸：
+   - 保持核心繃緊。
+4. 動作：
+   - 完成 3 組 × 10 次「無重擺放」。
+
+**English**：
+1. Joint mobility:
+   - Wrist rotation.
+   - Elbow flexion/extension.
+   - Shoulder circles.
+2. Static check:
+   - Observe if joints are in natural positions.
+3. Breathing:
+   - Maintain core bracing.
+4. Movement:
+   - Complete 3 sets × 10 "no-weight swings".
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 完成握持練習（3 組 × 10 次「無重擺放」）。
+2. 完成握力練習（3 組 × 10 秒）。
+3. 完成關節活動（腕、肘、肩各 10 次）。
+4. 描述握持時的感覺與感受。
+
+### 4.2 自我檢查（Self-check）
+
+- 能用自己的話說出握持的要點。
+- 能描述握持與穩定的關係。
+- 能在鏡中看到恰當的握持。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成 3 組 × 10 次「無重擺放」。
+- 握持穩定，無明顯滑落。
+- 能描述關節保護的三個原則。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 壺鈴握持示意：標記把手、正握、反握。
+- 關節中立示意：腕、肘、肩。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Grip & Wrist Care" — 查找「kettlebell grip wrist care」。
+- 中文：各大運動頻道「握持與關節保護」。
+- 推薦關鍵字：`kettlebell grip`, `wrist neutral`, `grip strength`.
+
+### 5.3 補充資源
+
+- StrongFirst：《Grip & Wrist》基礎課程。
+- 國際運動醫學會（ACSM）《關節保險指南》。

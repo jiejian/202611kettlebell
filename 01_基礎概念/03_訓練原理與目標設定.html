@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>03 訓練原理與目標設定</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  :root{
+    --bg:#faf8f5; --ink:#2b2b2b; --accent:#b23a2e; --accent2:#2e6da4;
+    --rule:#d8d2c8; --muted:#6b6b6b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.75; padding:24px;}
+  .container{max-width:960px; margin:0 auto;}
+  header{position:sticky; top:0; background:#fff; border-bottom:1px solid var(--rule); padding:12px 20px; z-index:10;}
+  nav{background:var(--bg); border-bottom:1px solid var(--rule); padding:8px 20px;}
+  nav a{display:inline-block; padding:4px 10px; color:var(--ink); text-decoration:none; border-radius:4px; font-size:14px; transition:background 0.15s;}
+  nav a:hover{background:#eee;}
+  h1{font-size:22px; margin-bottom:4px;}
+  .meta{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  h2{font-size:17px; margin:22px 0 8px; padding-bottom:4px; border-bottom:1px solid var(--rule);}
+  h3{font-size:15px; margin:16px 0 6px;}
+  p{margin-bottom:10px; text-align:justify;}
+  ul,ol{padding-left:22px; margin-bottom:12px;}
+  li{margin-bottom:6px;}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:14px;}
+  th,td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f4f2ee;}
+  .section-label{display:inline-block; background:#2e6da4; color:#fff; font-size:12px; padding:2px 8px; border-radius:3px; margin-bottom:6px;}
+  .lang-label{font-weight:700; text-transform:uppercase; font-size:12px; color:var(--accent2);}
+  .formula{font-family:'KaTeX_Main', serif; background:#f4f2ee; padding:2px 6px; border-radius:3px; border:1px solid var(--rule); display:inline-block;}
+  .formula-block{display:block; margin:8px 0; text-align:center;}
+  .refs{color:var(--accent2); font-size:13px; margin-top:16px;}
+  .refs a{color:var(--accent2); text-decoration:none;}
+  .refs a:hover{text-decoration:underline;}
+  .checklist{list-style:none; padding-left:0;}
+  .checklist li{margin-bottom:8px; padding-left:26px; position:relative;}
+  .checklist li::before{content:"☐"; position:absolute; left:0; top:0; font-size:16px;}
+  .video-box{background:#fff; border:1px solid var(--rule); border-radius:6px; padding:12px; margin:12px 0; text-align:center;}
+  .video-box a{display:inline-block; background:var(--accent2); color:#fff; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:14px; margin:6px;}
+  .video-box a:hover{background:#24567f;}
+  .footer{text-align:center; color:var(--muted); font-size:12px; margin-top:30px; padding-top:12px; border-top:1px solid var(--rule);}
+  .toc{font-size:14px;}
+  .toc a{text-decoration:none; color:var(--ink);}
+  .toc a:hover{text-decoration:underline;}
+  .jump-prev, .jump-next{display:inline-block; padding:6px 12px; border-radius:4px; font-size:13px; margin:6px 8px;}
+  .jump-prev{color:#fff; background:#6b6b6b;}
+  .jump-next{color:#fff; background:#2e6da4;}
+  .jump-prev:hover{background:#5a5a5a;}
+  .jump-next:hover{background:#24567f;}
+  @media (max-width:600px){ body{padding:12px;} h1{font-size:19px;} table{font-size:13px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>03 訓練原理與目標設定</h1>
+    <div class="meta">章節 03｜中英對照｜繁體中文</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc" style="margin-bottom:16px;">
+  <a href="../00_索引/目錄.txt">[回目錄]</a>
+  <a href="#theory">[理論]</a>
+  <a href="#practice">[實踐]</a>
+  <a href="#verify">[驗證]</a>
+  <a href="#actions">[動作參考]</a>
+  <a href="#toc" style="display:block; margin-top:6px;">【本頁目錄】</a>
+</nav>
+
+<div style="margin-bottom:16px;">
+  <a class="jump-prev" href="../01_基礎概念/02_壺鈴類型與規格.html">← 上一節：02 壺鈴類型與規格</a>
+  <a class="jump-next" href="../01_基礎概念/04_解剖與運動學基礎.html">下一節：04 解剖與運動學基礎 →</a>
+</div>
+
+<h2 id="1">1. 為什麼需要訓練原理</h2>
+<p><span class="section-label">概念</span><strong>為什麼需要訓練原理</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>訓練不是隨便舉起重物，而是需要有計畫的刺激與回復。了解原理可以讓你：不浪費時間與能量；避免傷害；持續進步；符合自己的目標。</p>
+<p><span class="lang-label">English</span></p>
+<p>Training is not simply lifting weights randomly; it requires planned stimulus and recovery. Understanding principles helps you: not waste time and energy; avoid injury; progress continuously; match your goals.</p>
+
+<p><span class="section-label">概念</span><strong>核心訓練原理</strong></p>
+<table>
+<thead><tr><th>原理</th><th>說明</th><th>應用</th></tr></thead>
+<tbody>
+<tr><td>特異性（Specificity）</td><td>訓練效果朝向所訓練的方向</td><td>想減脂 → 高頻、高量；想力量 → 重負荷、低次數</td></tr>
+<tr><td>漸進超負荷（Progressive Overload）</td><td>隨著適應，逐漸增加刺激</td><td>重量、次數、組數、時間增加</td></tr>
+<tr><td>恢復（Recovery）</td><td>肌肉在恢復後變強</td><td>休息日、睡眠、營養</td></tr>
+<tr><td>個體差異（Individual Differences）</td><td>每個人的起點與反應不同</td><td>根據自己的感覺調整</td></tr>
+<tr><td>過度訓練（Overtraining）避免</td><td>刺激過多、回復不足</td><td>休息、降低負荷</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">概念</span><strong>FITT 原則</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>FITT 是設計訓練計畫的基礎框架：頻率（Frequency）、強度（Intensity）、時間（Time）、型別（Type）。</p>
+<p><span class="lang-label">English</span></p>
+<p>FITT is the basic framework for designing training programs: Frequency, Intensity, Time, Type.</p>
+
+<p><span class="section-label">概念</span><strong>目標設定（SMART）</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>使用 SMART 設定目標：具體（S）、可測量（M）、可實現（A）、相關（R）、有時限（T）。
+例如：「我要在 8 週內完成雙手擺盪 10 次 × 3 組，且姿勢無崩潰。」</p>
+<p><span class="lang-label">English</span></p>
+<p>Use SMART for goal setting: Specific, Measurable, Achievable, Relevant, Time-bound.
+Example: "I will complete 3 sets of 10 double kettlebell swings within 8 weeks, with no posture breakdown."</p>
+
+<h2 id="2">2. 理論（Theory）</h2>
+
+<p><span class="section-label">主題</span><strong>2.1 適應與超負荷</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>身體對刺激的適應，是訓練進步的核心。每次訓練都是一個「刺激」；身體適應後，增加刺激，適應再次提升。這就是「漸進超負荷」。
+如果刺激不增加，適應會維持或退化（detraining）。</p>
+<p><span class="lang-label">English</span></p>
+<p>The body's adaptation to stimulus is the core of training progression. Each training session is a "stimulus"; after adaptation, increasing stimulus further raises adaptation. This is "progressive overload."
+If stimulus does not increase, adaptation may plateau or decline (detraining).</p>
+
+<p><span class="section-label">主題</span><strong>2.2 強度與量</strong></p>
+<p><span class="lang-label">中文</span></p>
+<p>強度（Intensity）：重量的相對負荷（% 1RM）或主觀努力程度（RPE）。
+量（Volume）：總工作量 = 重量 × 次數 × 組數。
+例如：10 kg × 10 次 × 3 組 = 300 kg·reps。</p>
+<p><span class="lang-label">English</span></p>
+<p>Intensity: relative load (% of 1RM) or RPE.
+Volume: total work = Weight × Reps × Sets.
+Example: 10 kg × 10 reps × 3 sets = 300 kg·reps.</p>
+
+<p><span class="section-label">主題</span><strong>2.3 常用符號（公式）</strong></p>
+<p class="formula-block">\(%1RM\)：1RM 的百分比</p>
+<p class="formula-block">\(RPE\)：主觀用力等級（1–10）</p>
+<p class="formula-block">\(V = W \times R \times S\)　總量</p>
+<p class="formula-block">\(DELOAD\)：每 4–6 週，負荷降低 50% 1 週</p>
+
+<h2 id="3">3. 實踐（Practice）</h2>
+
+<p><span class="section-label">實踐</span><strong>3.1 設定個人目標</strong></p>
+<ol>
+<li>寫下你的目標（例如：減脂、體能、力量、姿勢）。</li>
+<li>將目標變成 SMART 形式。</li>
+<li>拆解為 4 週、8 週、12 週的里程碑。</li>
+</ol>
+
+<p><span class="section-label">實踐</span><strong>3.2 設計一個簡單的週訓練表</strong></p>
+<table>
+<thead><tr><th>天</th><th>內容</th></tr></thead>
+<tbody>
+<tr><td>週一</td><td>熱身 5 分鐘 + 擺放 3 組 × 10 次</td></tr>
+<tr><td>週三</td><td>熱身 5 分鐘 + 硬舉 3 組 × 10 次 + 深蹲 3 組 × 10 次</td></tr>
+<tr><td>週五</td><td>熱身 5 分鐘 + 擺盪 3 組 × 10 次 + 肩推 2 組 × 8 次</td></tr>
+</tbody>
+</table>
+
+<p><span class="section-label">實踐</span><strong>3.3 漸進負載的實際做法</strong></p>
+<ol>
+<li>開始：輕重量，能保持姿勢。</li>
+<li>每週增加：重量或次數的 1 處。</li>
+<li>當質數下降，減少負荷或休息（deload）。</li>
+<li>記錄每次訓練，避免主觀臆測。</li>
+</ol>
+
+<h2 id="4">4. 驗證（Verification）</h2>
+
+<p><span class="section-label">任務</span><strong>4.1 任務（Tasks）</strong></p>
+<ol>
+<li>寫下自己的 4 週目標（使用 SMART 格式）。</li>
+<li>設計一個週 3 次的訓練表（包含熱身、動作、放鬆）。</li>
+<li>計算自己的「輕中度訓練心率區間」：\(% HR_{max}\) 或 HRR。</li>
+<li>描述漸進超負荷的三種做法。</li>
+</ol>
+
+<p><span class="section-label">自我檢查</span><strong>4.2 自我檢查（Self-check）</strong></p>
+<ul class="checklist">
+<li>能用自己的話說出特異性、漸進超負荷、恢復三個概念。</li>
+<li>能寫出自己的目標與周訓練表。</li>
+<li>能說出 RPE 的意義。</li>
+</ul>
+
+<p><span class="section-label">能力測試</span><strong>4.3 能力測試（Competency test）</strong></p>
+<ul>
+<li>完成一張「個人訓練計畫表」：目標、週頻率、動作、負荷。</li>
+<li>能說出下一週要增加什麼（重量/次數/組數）。</li>
+</ul>
+
+<h2 id="5">5. 動作參考（Action References）</h2>
+
+<p><span class="section-label">影片</span><strong>5.1 影片參考（Video References）</strong></p>
+<div class="video-box">
+  <a href="https://www.youtube.com/results?search_query=training+principles+strength+training" target="_blank">[英文] training principles strength training</a>
+  <a href="https://www.youtube.com/results?search_query=%E9%80%9F%E5%8B%95%E8%B6%85%E8%AA%B2%E8%80%85" target="_blank">[中文] 漸進超負荷</a>
+</div>
+
+<p><span class="section-label">補充資源</span><strong>5.2 補充資源（Supplementary Resources）</strong></p>
+<ul>
+<li>國際運動醫學會（ACSM）《運動處方指南》。</li>
+<li>郵件課程：《Set your goals, choose your plan》。</li>
+</ul>
+
+<div class="footer">
+  03 訓練原理與目標設定｜繁體中文｜中英對照｜再見
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,229 @@
+# 10 壺鈴擺盪（Kettlebell Swing）
+
+## 壺鈴擺盪（Kettlebell Swing）
+
+### 1. 擺盪是什麼
+
+**中文**：擺盪（Swing）是一種「彈跳髖伸展」的動作。
+壺鈴從雙腳之間向後擺動，髖部後推後，利用臀部與大腿後側的爆發力，將壺鈴擺向肩部或胸部。
+擺盪不是「抬臂」，而是「髖伸展」—— 力量來源在臀部和大腿後側。
+
+**English**：The swing is a "ballistic hip extension" movement.
+The bell swings backward from between the feet, then the hips push back and forward explosively using the glutes and hamstrings, swinging the bell to the shoulders or chest.
+The swing is not "lifting the arms"; it is "hip extension" — the power comes from the glutes and hamstrings.
+
+### 2. 擺盪的兩種風格
+
+| 項目 | 俄式（Girevoy / Russian） | 硬式（Hardstyle） |
+|------|---------------------------|-------------------|
+| 擺盪高度 | 接近肩部或胸部 | 眼睛或胸部高 |
+| 髋伸展 | 流暢、節奏 | 爆發、急促 |
+| 呼吸 | 連續 | 短促、爆發 |
+| 手臂 | 輕鬆、被動 | 稍微緊張 |
+| 重心 | 自然、流暢 | 快速、寬 |
+
+**English**：| Item | Russian (Girevoy) | Hardstyle |
+|------|-------------------|-----------------|
+| Height | Near shoulders or chest | Eye level or chest high |
+| Hip extension | Smooth, rhythmic | Explosive, abrupt |
+| Breathing | Continuous | Short, explosive |
+| Arms | Relaxed, passive | Slightly tense |
+| Center of mass | Natural, smooth | Quick, wide |
+
+### 3. 擺盪的標準流程
+
+1. 站立，雙腳與肩同寬，壺鈴置於雙腳之間。
+2. 髖部後推，像坐在後方的椅子。
+3. 手持壺鈴，把柄向後，類似「後傳球」。
+4. 髖部爆發，向前推，壺鈴擺向肩部或胸部。
+5. 到達頂端，臀部收縮，核心繃緊。
+6. 緩慢下擺，回到起始姿勢。
+7. 連續完成。
+
+**English**：
+1. Stand, feet shoulder-width, bell between the feet.
+2. Hips push back, like sitting on a chair behind you.
+3. Hold the bell, handle tilts back, like a "hike pass."
+4. Hips explosively forward, bell swings to shoulder or chest.
+5. At the top, glutes contracted, core braced.
+6. Slowly lower back to start.
+7. Repeat continuously.
+
+### 4. 擺盪的要點
+
+| 要點 | 說明 |
+|------|------|
+| 髖伸展 | 力量來源是臀部與大腿後側 |
+| 背部平直 | 脊柱中立，避免圓背 |
+| 臀部收縮 | 頂端時臀部收縮 |
+| 手臂輕鬆 | 手臂不做主要推力 |
+| 呼吸 | 下擺吸氣，起身呼氣 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Hip extension | Power comes from glutes and hamstrings |
+| Back straight | Spine neutral, avoid rounding |
+| Glutes contracted | Contract glutes at the top |
+| Arms relaxed | Arms are not the main driver |
+| Breathing | Inhale on lower swing, exhale on upswing |
+
+### 5. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 擺盪像「抬臂」 | 注意髖部爆發，非手臂 |
+| 背部弓 | 脊柱中立，核心繃緊 |
+| 髖部不推出 | 練習無重髖關節槍開 |
+| 壺鈴太高 | 控制高度，不要過高 |
+| 呼吸停頓 | 保持呼吸，下擺吸氣，起身呼氣 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Swing like "lifting arms" | Focus on hip explosion, not arms |
+| Back rounding | Spine neutral, core braced |
+| Hips not pushing | Practice no-weight hip hinge |
+| Bell too high | Control height, don't overdo |
+| Breath-holding | Breathe, inhale on down-swing, exhale on upswing |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 擺盪的機械學
+
+**中文**：擺盪可近似為「彈性旋轉」（ballistic rotation）：
+- 初始擺動：重力與髋屈曲。
+- 擺盪過程：重力與彈性能量的轉換。
+- 頂端：動能轉化為位能。
+- 下擺：彈性能量回收。
+
+**English**：The swing can be approximated as a "ballistic rotation":
+- Initial swing: gravity and hip flexion.
+- Swinging process: conversion of gravitational and elastic energy.
+- Top: kinetic energy converts to potential energy.
+- Down-swing: elastic energy recovery.
+
+### 2.2 擺盪與硬舉的差異
+
+| 項目 | 擺盪 | 硬舉 |
+|------|------|------|
+| 動態 | 彈跳、爆發 | 一次性、靜態 |
+| 重心 | 擺動 | 直線擡升 |
+| 目標 | 耐力、體能、協調 | 力量、結構 |
+| 心率 | 較高 | 較低 |
+
+**English**：| Item | Swing | Deadlift |
+|------|-------|------|
+| Dynamic | Ballistic, explosive | One-time, static |
+| Center of mass | Swinging | Straight lift |
+| Goal | Endurance, conditioning, coordination | Strength, structure |
+| Heart rate | Higher | Lower |
+
+### 2.3 關鍵公式
+
+- 擺盪的角度：\(θ_{swing}\)，從起始到頂端的角度。
+- 擺盪的頻率：\(f\)，次數/時間（rep/s）。
+- 心率區間：\(% HR_{max}\) 或 HRR。
+- 總功：\(W = \sum F \times d\)，每次擺盪的功的總和。
+
+**English**：
+- Swing angle: \(θ_{swing}\), the angle from start to top.
+- Swing frequency: \(f\), reps/time (rep/s).
+- Heart rate zone: \(% HR_{max}\) or HRR.
+- Total work: \(W = \sum F \times d\), sum of work per swing.
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 無重擺放 | 感受重量 |
+| 2 | 8–12 kg 擺盪 | 掌握髖伸展 |
+| 3 | 12–16 kg | 漸進 |
+| 4 | 連續擺盪 | 耐力與節奏 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | No-weight swing | Feel the weight |
+| 2 | 8–12 kg swing | Master hip extension |
+| 3 | 12–16 kg | Progression |
+| 4 | Continuous swing | Endurance & rhythm |
+
+### 3.2 擺盪流程
+
+1. 站立，雙腳與肩同寬。
+2. 髖部後推，髋屈。
+3. 髖部爆發，向前推。
+4. 壺鈴擺向肩部或胸部。
+5. 頂端，臀部收縮。
+6. 緩慢下擺。
+7. 連續完成。
+
+**English**：
+1. Stand, feet shoulder-width.
+2. Hips push back, hip flexion.
+3. Hips explosively forward.
+4. Bell swings to shoulder or chest.
+5. Top, glutes contracted.
+6. Slowly lower.
+7. Repeat.
+
+### 3.3 擺盪的呼吸
+
+- 下擺時：吸氣入肚。
+- 起身時：呼氣。
+- 保持連續，不要停頓。
+
+**English**：
+- On down-swing: inhale into belly.
+- On upswing: exhale.
+- Keep continuous, no pausing.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出擺盪與抓舉的兩個差異。
+2. 說出擺盪的主動肌與穩定肌。
+3. 完成 3 組 × 10 次「無重擺放」。
+4. 描述擺盪中的呼吸。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 脊柱中立，背部不弓。
+- 髖部推出，手臂不主導。
+- 呼吸連續。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「雙手擺盪」，3 組 × 10 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出擺盪的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體擺盪示意：標記髖點、脊柱、臀部、肩膀。
+- 動作路徑：從起始到頂端再到下擺。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Swing" — 查找「kettlebell swing」。
+- 中文：各大運動頻道「壺鈴擺盪」。
+- 推薦關鍵字：`kettlebell swing`, `swing form`, `swing hip extension`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Swing》基礎課程。

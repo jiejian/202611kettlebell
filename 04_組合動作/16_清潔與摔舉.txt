@@ -1,0 +1,207 @@
+# 16 清潔與摔舉（Clean and Jerk）
+
+## 清潔與摔舉（Clean and Jerk）
+
+### 1. 清潔與摔舉是什麼
+
+**中文**：清潔與摔舉（Clean and Jerk）是「上搏 → 摔舉」的連續動作。
+它是壺鈴的三大競技動作之一（另有抓舉、遠環）。
+與清潔與推舉不同，摔舉包含「蹲下接接」與「雙手式」的元素。
+這是進階者可學習的高級連動動作。
+
+**English**：Clean and Jerk is the continuous movement "clean → jerk."
+It is one of the three main competitive kettlebell lifts (plus Snatch and Long Cycle).
+Unlike Clean and Press, the Jerk includes a "squat under catch" and more athletic elements.
+This is an advanced connected movement for experienced trainees.
+
+### 2. 清潔與摔舉的標準流程
+
+1. 站立，雙手持壺鈴（雙壺或單壺）。
+2. 髖部後推，擺盪，上搏。
+3. 壺鈴收到肩前（rack position）。
+4. 核心繃緊，蹲下，低位。
+5. 利用髖伸展與肩部力量，快速擡起。
+6. 蹲下接接，壺鈴在頭上。
+7. 站起，完成。
+8. 緩慢放下，回到起始。
+
+**English**：
+1. Stand, hold the bell (dual or single).
+2. Hips push back, swing, clean.
+3. Bell at the rack position.
+4. Core braced, squat down, low position.
+5. Use hip extension and shoulder power, lift quickly.
+6. Squat under, bell overhead.
+7. Stand, complete.
+8. Slowly lower, return.
+
+### 3. 清潔與摔舉的要點
+
+| 要點 | 說明 |
+|------|------|
+| 清潔穩定 | 上搏必須穩定 |
+| 蹲下接接 | 低位穩定，過渡連貫 |
+| 核心繃緊 | 保護脊椎 |
+| 呼吸 | 收集時吸氣，擡起呼氣 |
+| 轨道控制 | 避免碰撞，控制壺鈴 |
+
+**English**：| Point | Description |
+|-------|-------------|
+| Clean stable | Clean must be stable |
+| Squat under catch | Low stable, continuous transition |
+| Core braced | Protect spine |
+| Breathing | Inhale on collect, exhale on lift |
+| Orbit control | Avoid collision, control the bell |
+
+### 4. 常見錯誤
+
+| 錯誤 | 修正 |
+|------|------|
+| 清潔失穩 | 練習上搏單獨 |
+| 摔舉時脊柱彎曲 | 核心繃緊 |
+| 蹲下接接時失衡 | 低位穩定，練習緩慢 |
+| 呼吸停頓 | 保持呼吸 |
+
+**English**：| Mistake | Correction |
+|---------|-----------|
+| Clean unstable | Practice clean alone |
+| Spine bends on jerk | Core braced |
+| Imbalanced on squat under | Low stable, practice slow |
+| Breath-holding | Breathe |
+
+---
+
+## 2. 理論（Theory）
+
+### 2.1 清潔與摔舉的系統
+
+**中文**：清潔與摔舉是「上搏 + 摔舉」的雙重系統：
+- 上搏：將壺鈴從地面傳到肩前。
+- 摔舉：將壺鈴從肩前傳到過頭，包含蹲下接接。
+
+**English**：Clean and Jerk is a double system "clean + jerk":
+- Clean: transfers the bell from ground to shoulder.
+- Jerk: transfers the bell from shoulder to overhead, including the squat-under catch.
+
+### 2.2 肌群參與
+
+**中文**：
+- 主動肌：三角肌、肱三頭肌、臀大肌、股二頭肌、核心肌群。
+- 穩定肌：竿樣肌、腹橫肌、腹斜肌。
+- 輔助肌：胸肌、斜方肌。
+
+**English**：
+- Prime movers: deltoids, triceps, glutes, hamstrings, core.
+- Stabilizers: erector spinae, transversus abdominis, obliques.
+- Assistants: chest, trapezius.
+
+### 2.3 公式
+
+- 摔舉的輸出功：\(W = m \times g \times h\)。
+- 蹲下接接的力矩：\(τ = F \times d\)。
+- 核心張力：\(σ = \frac{F}{A}\)。
+
+**English**：
+- Jerk output work: \(W = m \times g \times h\).
+- Torque on squat-under catch: \(τ = F \times d\).
+- Core tension: \(σ = \frac{F}{A}\).
+
+---
+
+## 3. 實踐（Practice）
+
+### 3.1 階段練習
+
+**中文**：零基礎者建議分階段：
+
+| 階段 | 內容 | 目標 |
+|------|------|------|
+| 1 | 上搏 + 擡起 | 簡單連動 |
+| 2 | 8–12 kg 清潔與摔舉 | 掌握連動 |
+| 3 | 12–16 kg | 漸進 |
+| 4 | 雙手清潔與摔舉 | 穩定與協調 |
+
+**English**：| Stage | Content | Goal |
+|-------|---------|------|
+| 1 | Clean + lift | Simple connection |
+| 2 | 8–12 kg clean & jerk | Master connection |
+| 3 | 12–16 kg | Progression |
+| 4 | Dual clean & jerk | Stability & coordination |
+
+### 3.2 清潔與摔舉流程
+
+1. 站立，雙手持壺鈴。
+2. 髖部後推。
+3. 髖部爆發，擺盪，上搏。
+4. 壺鈴收到肩前。
+5. 核心繃緊。
+6. 蹲下接接。
+7. 擡起過頭。
+8. 緩慢放下。
+9. 連續完成。
+
+**English**：
+1. Stand, hold bell with both hands.
+2. Hips push back.
+3. Hips explode, swing, clean.
+4. Bell at the rack position.
+5. Core braced.
+6. Squat under, catch.
+7. Lift overhead.
+8. Slowly lower.
+9. Repeat.
+
+### 3.3 呼吸與穩定
+
+- 收集時：吸氣。
+- 擡起時：呼氣。
+- 核心繃緊，低位穩定。
+
+**English**：
+- On collect: inhale.
+- On lift: exhale.
+- Core braced, low stable.
+
+---
+
+## 4. 驗證（Verification）
+
+### 4.1 任務（Tasks）
+
+1. 說出清潔與推舉與摔舉的兩個差異。
+2. 說出清潔與摔舉的主動肌與穩定肌。
+3. 完成 3 組 × 6 次「無重清潔與摔舉」。
+4. 描述蹲下接接的感覺。
+
+### 4.2 自我檢查（Self-check）
+
+- 站立姿勢正確，雙腳跟穩定。
+- 清潔穩定，肘部收納。
+- 摔舉時核心繃緊。
+- 蹲下接接時低位穩定。
+
+### 4.3 能力測試（Competency test）
+
+- 能以 8–16 kg 壺鈴完成「雙手清潔與摔舉」，3 組 × 6–8 次。
+- 姿勢無明顯崩潰。
+- 能用自己的話說出清潔與摔舉的要點。
+
+---
+
+## 5. 動作參考（Action References）
+
+### 5.1 圖示（Diagrams）
+
+- 人體清潔與摔舉示意：標記上搏、摔舉、蹲下接接。
+- 動作路徑：從地面到肩前再到過頭。
+
+### 5.2 影片參考
+
+- 英文："Kettlebell Clean and Jerk" — 查找「clean and jerk」。
+- 中文：各大運動頻道「壺鈴清潔與摔舉」。
+- 推薦關鍵字：`clean and jerk`, `kettlebell clean jerk`, `long cycle`.
+
+### 5.3 補充資源
+
+- Human Kinetics《Kettlebell Training 2nd Edition》。
+- StrongFirst：《Clean and Jerk》基礎課程。
